@@ -16,15 +16,10 @@ module NbaApi
       http_get(uri)
     end
 
-    def find(path, id, params = {})
+    def find(path, params = {})
       nba_class = class_from_path(path)
       response = get(nba_class.api, params)
       nba_class.parse(response) { |data| data.client = self }
-    end
-
-    def find_many(nba_class, path, params = {})
-      response = get(path, params)
-      nba_class.parse_many(response) { |data| data.client = self }
     end
 
     def create(path, options)
