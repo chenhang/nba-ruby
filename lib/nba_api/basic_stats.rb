@@ -11,21 +11,22 @@ module NbaApi
         name.split("::").last.underscore
       end
 
-      def find(id, params = {})
+      def find id, params = {}
         client.find(path_name, id, params)
       end
 
-      def create(options)
+      def create options
         client.create(path_name, options)
       end
 
-      def save(options)
-        new(options).tap do |basic_data|
-          yield basic_data if block_given?
-        end.save
+      def save options
+        new(options).tap { |basic_data| yield basic_data if block_given? }.save
       end
 
-      def parse(response)
+      def parse
+        response.json_into(self).tap do |basic_data|
+          yield basic_data if block_given?
+        end
       end
     end
 
