@@ -24,9 +24,7 @@ module NbaApi
       end
 
       def parse
-        response.json_into(self).tap do |basic_data|
-          yield basic_data if block_given?
-        end
+        response.json_into(self).tap { |basic_data| yield basic_data if block_given? }
       end
 
       def to_hash origin
