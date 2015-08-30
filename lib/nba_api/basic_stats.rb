@@ -20,11 +20,12 @@ module NbaApi
       end
 
       def save options
-        new(options).tap { |basic_data| yield basic_data if block_given? }.save
+        new(options).tap { |basic_stats| yield basic_stats if block_given? }.save
       end
 
-      def parse
-        response.json_into(self).tap { |basic_data| yield basic_data if block_given? }
+      def parse response
+        update_fields(to_hash response)
+        yield self if block_given?
       end
 
       def to_hash origin
@@ -41,7 +42,7 @@ module NbaApi
       end
 
       def update_fields fields
-        raise NotImplementedError, "#{self.class} does not implement update_fields."
+        fields.each { |field, value| self.instance_variable_set field.underscore, value }
       end
     end
 
