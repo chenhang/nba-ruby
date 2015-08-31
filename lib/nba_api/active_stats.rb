@@ -1,5 +1,15 @@
-class Stats < ActiveRestClient::Base
+class ActiveStats < ActiveRestClient::Base
   base_url 'localhost'
+
+  after_request :parse_response
+
+  def parse_response name, response
+    to_hash(JSON.parse(response)).to_json rescue ''
+  end
+
+  def current_season
+    '2015-16'
+  end
 
   def to_hash origin
     result_sets = origin['resultSets']
