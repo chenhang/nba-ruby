@@ -1,4 +1,4 @@
-class Player < ActiveStats
+class Player < ActiveStats::Base
   base_url 'http://stats.nba.com/stats'
 
   before_request :generate_params

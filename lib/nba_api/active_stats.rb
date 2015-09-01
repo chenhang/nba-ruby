@@ -1,4 +1,4 @@
-class ActiveStats < ActiveRestClient::Base
+class ActiveStats::Base < ActiveRestClient::Base
   base_url 'localhost'
 
   after_request :parse_response
