@@ -1,14 +1,22 @@
-class ActiveStats::Base < ActiveRestClient::Base
+class ActiveStats < ActiveRestClient::Base
   base_url 'localhost'
 
-  after_request :parse_response
+  before_request :generate_params
 
-  def parse_response name, response
-    to_hash(JSON.parse(response)).to_json rescue ''
+  after_request do |name, response|
+    to_hash(JSON.parse(response)) rescue ''
   end
 
   def current_season
     '2015-16'
+  end
+
+  def default_params
+    {}
+  end
+
+  def generate_params name, request
+    request.get_params.update default_params[name] rescue self.default_params[name]
   end
 
   def to_hash origin
