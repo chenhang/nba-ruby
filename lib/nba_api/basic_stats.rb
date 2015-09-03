@@ -15,17 +15,12 @@ module NbaApi
         client.find(path_name, id, params)
       end
 
-      def create options
-        client.create(path_name, options)
+      def save data
+        # TODO: Create instance var here
       end
 
-      def save options
-        new(options).tap { |basic_stats| yield basic_stats if block_given? }.save
-      end
-
-      def parse response
-        update_fields(to_hash response)
-        yield self if block_given?
+      def parse data
+        to_hash data
       end
 
       def to_hash origin

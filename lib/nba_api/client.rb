@@ -19,7 +19,7 @@ module NbaApi
     def find(path, params = {})
       nba_class = class_from_path(path)
       response = get(nba_class.api, params)
-      nba_class.parse(response) { |data| data.client = self }
+      nba_class.parse response
     end
 
     def create(path, options)
