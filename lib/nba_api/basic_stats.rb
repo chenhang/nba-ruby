@@ -1,5 +1,3 @@
-require 'active_support/inflector'
-
 class BasicStats < NbaApi::HashObject
   def path_name
     self.class.name.split("::").last.underscore
