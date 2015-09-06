@@ -24,8 +24,8 @@ class BasicStats < NbaApi::HashObject
     end
   end
 
-  def self.api
-    ''
+  def self.apis
+    {}
   end
 
   def self.default_params

@@ -9,7 +9,7 @@ class Player < NbaApi::BasicStats
             MeasureType: 'Base', PerMode: 'Totals', SeasonType: 'Regular+Season', PlayerID: 000000}}
   end
 
-  def api
-    BASE_URL+FIND_PATH
+  def self.apis
+    {find: BASE_URL+FIND_PATH, all: BASE_URL+ALL_PATH}
   end
 end
