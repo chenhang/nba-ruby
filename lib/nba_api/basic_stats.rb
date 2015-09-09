@@ -3,8 +3,8 @@ class BasicStats < NbaApi::HashObject
     self.class.name.split("::").last.underscore
   end
 
-  def find id, params = {}
-    client.find(path_name, id, params)
+  def find params = {}
+    NbaApi::Client.find(path_name, params)
   end
 
   def to_hash origin

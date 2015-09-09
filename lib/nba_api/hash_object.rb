@@ -13,7 +13,7 @@ module NbaApi
       if v.class == Array
         v.map { |item| detect item }
       else
-        v.class == Hash ? HashObject.new v : v
+        v.class == Hash ? HashObject.new(v) : v
       end
     end
 

@@ -1,4 +1,6 @@
 module NbaApi
-  autoload :ActiveStats, 'nba_api/active_stats'
+  autoload :Client, 'nba_api/client'
+  autoload :HashObject, 'nba_api/hash_object'
+  autoload :BasicStats, 'nba_api/basic_stats'
   autoload :Player, 'nba_api/player'
 end
