@@ -1,10 +1,7 @@
 require 'net/http'
-require 'forwardable'
-require 'active_support/inflector'
 
 module NbaApi
   class Client
-    extend Forwardable
     class << self
       def get(api, params = {})
         uri = URI.parse(api)
