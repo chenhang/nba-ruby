@@ -8,6 +8,10 @@ module NbaApi::HashObject
     self
   end
 
+  def create data
+    save to_hash(data)
+  end
+
   def detect v
     if v.class == Array
       v.map { |item| detect item }
@@ -23,9 +27,8 @@ module NbaApi::HashObject
   end
 
   def to_hash origin
-    result_sets = origin['resultSets']
     {}.tap do |data_sets|
-      result_sets.each { |result_set| data_sets[result_set['name']] = parse_result_set result_set }
+      origin['resultSets'].each { |result_set| data_sets[result_set['name']] = parse_result_set result_set }
     end rescue {}
   end
 

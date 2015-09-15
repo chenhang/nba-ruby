@@ -4,6 +4,7 @@ class Player < NbaApi::BasicStats
   ALL_PATH = '/commonallplayers'
 
   def default_params
+
     {all: {IsOnlyCurrentSeason: 1, LeagueID: 00, Season: current_season},
      find: {GraphEndSeason: current_season, GraphStartSeason: current_season, GraphStat: 'PTS', LeagueID: 00,
             MeasureType: 'Base', PerMode: 'Totals', SeasonType: 'Regular+Season', PlayerID: 000000}}
