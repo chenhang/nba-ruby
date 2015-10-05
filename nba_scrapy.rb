@@ -119,4 +119,4 @@ end
 
 
 player = Player.new(id: '201566')
-p player.find
+player.find
