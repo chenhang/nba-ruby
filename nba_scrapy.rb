@@ -46,6 +46,7 @@ class HashObject
       result_set['rowSet'].each do |row|
         data_set.push({}.tap do |element|
                         result_set['headers'].each_with_index do |header, index|
+                          header.gsub!('PERSON_ID', 'PLAYER_ID')
                           element[header.underscore] = row[index]
                         end
                       end)
