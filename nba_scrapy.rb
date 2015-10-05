@@ -103,14 +103,13 @@ end
 
 class Player < BasicStats
   BASE_URL = 'http://stats.nba.com/stats'
-  FIND_PATH = '/playerprofilev2'
+  FIND_PATH = '/playercareerstats'
   ALL_PATH = '/commonallplayers'
 
   def default_params
 
     {all: {IsOnlyCurrentSeason: 1, LeagueID: '00', Season: current_season},
-     find: {GraphEndSeason: current_season, GraphStartSeason: current_season, GraphStat: 'PTS', LeagueID: '00',
-            MeasureType: 'Base', PerMode: 'Totals', SeasonType: 'Regular+Season', PlayerID: id}}
+     find: {LeagueID: '00', PerMode: 'Totals', PlayerID: id}}
   end
 
   def self.apis
@@ -120,4 +119,4 @@ end
 
 
 player = Player.new(id: '201566')
-p player.all.common_all_players.first
+p player.find
