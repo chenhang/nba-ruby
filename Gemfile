@@ -1,7 +1,11 @@
+source 'https://rubygems.org'
 
 gem 'rails', github: "rails/rails"
+gem 'sprockets',  git: 'git://github.com/rails/sprockets.git'
+gem 'rack', github: 'rack/rack'
 gem 'sprockets-rails', github: "rails/sprockets-rails"
 gem 'arel', github: "rails/arel"
+
 
 # Use sqlite3 as the database for Active Record
 gem 'mysql2'
