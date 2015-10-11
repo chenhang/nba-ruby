@@ -117,6 +117,6 @@ class Player < BasicStats
   end
 end
 
-
-player = Player.new(id: '201566')
-player.find
+#
+# player = Player.new(id: '201566')
+# p player.all.send('CommonAllPlayers'.underscore).first
