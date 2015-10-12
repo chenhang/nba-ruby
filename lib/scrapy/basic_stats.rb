@@ -1,7 +1,4 @@
 class BasicStats < HashObject
-  # def path_name
-  #   self.class.name.split("::").last.underscore
-  # end
 
   def self.apis
     {}
@@ -9,6 +6,10 @@ class BasicStats < HashObject
 
   def self.default_params
     {}
+  end
+
+  def work args
+    get(args[:action], args[:params])
   end
 
   def all params = {}
