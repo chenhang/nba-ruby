@@ -1,0 +1,2674 @@
+
+    OnCDemoStopCount := 0
+    p.Callbacks.OnCDemoStop(func(m *dota.CDemoStop) error {
+        fmt.Print("OnCDemoStop")
+        if OnCDemoStopCount > 0 {
+            fmt.Print(string(OnCDemoStopCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoStopCount++
+        return nil
+    })
+
+    OnCDemoFileHeaderCount := 0
+    p.Callbacks.OnCDemoFileHeader(func(m *dota.CDemoFileHeader) error {
+        fmt.Print("OnCDemoFileHeader")
+        if OnCDemoFileHeaderCount > 0 {
+            fmt.Print(string(OnCDemoFileHeaderCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoFileHeaderCount++
+        return nil
+    })
+
+    OnCDemoFileInfoCount := 0
+    p.Callbacks.OnCDemoFileInfo(func(m *dota.CDemoFileInfo) error {
+        fmt.Print("OnCDemoFileInfo")
+        if OnCDemoFileInfoCount > 0 {
+            fmt.Print(string(OnCDemoFileInfoCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoFileInfoCount++
+        return nil
+    })
+
+    OnCDemoSyncTickCount := 0
+    p.Callbacks.OnCDemoSyncTick(func(m *dota.CDemoSyncTick) error {
+        fmt.Print("OnCDemoSyncTick")
+        if OnCDemoSyncTickCount > 0 {
+            fmt.Print(string(OnCDemoSyncTickCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoSyncTickCount++
+        return nil
+    })
+
+    OnCDemoSendTablesCount := 0
+    p.Callbacks.OnCDemoSendTables(func(m *dota.CDemoSendTables) error {
+        fmt.Print("OnCDemoSendTables")
+        if OnCDemoSendTablesCount > 0 {
+            fmt.Print(string(OnCDemoSendTablesCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoSendTablesCount++
+        return nil
+    })
+
+    OnCDemoClassInfoCount := 0
+    p.Callbacks.OnCDemoClassInfo(func(m *dota.CDemoClassInfo) error {
+        fmt.Print("OnCDemoClassInfo")
+        if OnCDemoClassInfoCount > 0 {
+            fmt.Print(string(OnCDemoClassInfoCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoClassInfoCount++
+        return nil
+    })
+
+    OnCDemoStringTablesCount := 0
+    p.Callbacks.OnCDemoStringTables(func(m *dota.CDemoStringTables) error {
+        fmt.Print("OnCDemoStringTables")
+        if OnCDemoStringTablesCount > 0 {
+            fmt.Print(string(OnCDemoStringTablesCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoStringTablesCount++
+        return nil
+    })
+
+    OnCDemoPacketCount := 0
+    p.Callbacks.OnCDemoPacket(func(m *dota.CDemoPacket) error {
+        fmt.Print("OnCDemoPacket")
+        if OnCDemoPacketCount > 0 {
+            fmt.Print(string(OnCDemoPacketCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoPacketCount++
+        return nil
+    })
+
+    OnCDemoSignonPacketCount := 0
+    p.Callbacks.OnCDemoSignonPacket(func(m *dota.CDemoPacket) error {
+        fmt.Print("OnCDemoSignonPacket")
+        if OnCDemoSignonPacketCount > 0 {
+            fmt.Print(string(OnCDemoSignonPacketCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoSignonPacketCount++
+        return nil
+    })
+
+    OnCDemoConsoleCmdCount := 0
+    p.Callbacks.OnCDemoConsoleCmd(func(m *dota.CDemoConsoleCmd) error {
+        fmt.Print("OnCDemoConsoleCmd")
+        if OnCDemoConsoleCmdCount > 0 {
+            fmt.Print(string(OnCDemoConsoleCmdCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoConsoleCmdCount++
+        return nil
+    })
+
+    OnCDemoCustomDataCount := 0
+    p.Callbacks.OnCDemoCustomData(func(m *dota.CDemoCustomData) error {
+        fmt.Print("OnCDemoCustomData")
+        if OnCDemoCustomDataCount > 0 {
+            fmt.Print(string(OnCDemoCustomDataCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoCustomDataCount++
+        return nil
+    })
+
+    OnCDemoCustomDataCallbacksCount := 0
+    p.Callbacks.OnCDemoCustomDataCallbacks(func(m *dota.CDemoCustomDataCallbacks) error {
+        fmt.Print("OnCDemoCustomDataCallbacks")
+        if OnCDemoCustomDataCallbacksCount > 0 {
+            fmt.Print(string(OnCDemoCustomDataCallbacksCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoCustomDataCallbacksCount++
+        return nil
+    })
+
+    OnCDemoUserCmdCount := 0
+    p.Callbacks.OnCDemoUserCmd(func(m *dota.CDemoUserCmd) error {
+        fmt.Print("OnCDemoUserCmd")
+        if OnCDemoUserCmdCount > 0 {
+            fmt.Print(string(OnCDemoUserCmdCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoUserCmdCount++
+        return nil
+    })
+
+    OnCDemoFullPacketCount := 0
+    p.Callbacks.OnCDemoFullPacket(func(m *dota.CDemoFullPacket) error {
+        fmt.Print("OnCDemoFullPacket")
+        if OnCDemoFullPacketCount > 0 {
+            fmt.Print(string(OnCDemoFullPacketCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoFullPacketCount++
+        return nil
+    })
+
+    OnCDemoSaveGameCount := 0
+    p.Callbacks.OnCDemoSaveGame(func(m *dota.CDemoSaveGame) error {
+        fmt.Print("OnCDemoSaveGame")
+        if OnCDemoSaveGameCount > 0 {
+            fmt.Print(string(OnCDemoSaveGameCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoSaveGameCount++
+        return nil
+    })
+
+    OnCDemoSpawnGroupsCount := 0
+    p.Callbacks.OnCDemoSpawnGroups(func(m *dota.CDemoSpawnGroups) error {
+        fmt.Print("OnCDemoSpawnGroups")
+        if OnCDemoSpawnGroupsCount > 0 {
+            fmt.Print(string(OnCDemoSpawnGroupsCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDemoSpawnGroupsCount++
+        return nil
+    })
+
+    OnCNETMsg_NOPCount := 0
+    p.Callbacks.OnCNETMsg_NOP(func(m *dota.CNETMsg_NOP) error {
+        fmt.Print("OnCNETMsg_NOP")
+        if OnCNETMsg_NOPCount > 0 {
+            fmt.Print(string(OnCNETMsg_NOPCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_NOPCount++
+        return nil
+    })
+
+    OnCNETMsg_DisconnectCount := 0
+    p.Callbacks.OnCNETMsg_Disconnect(func(m *dota.CNETMsg_Disconnect) error {
+        fmt.Print("OnCNETMsg_Disconnect")
+        if OnCNETMsg_DisconnectCount > 0 {
+            fmt.Print(string(OnCNETMsg_DisconnectCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_DisconnectCount++
+        return nil
+    })
+
+    OnCNETMsg_SplitScreenUserCount := 0
+    p.Callbacks.OnCNETMsg_SplitScreenUser(func(m *dota.CNETMsg_SplitScreenUser) error {
+        fmt.Print("OnCNETMsg_SplitScreenUser")
+        if OnCNETMsg_SplitScreenUserCount > 0 {
+            fmt.Print(string(OnCNETMsg_SplitScreenUserCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_SplitScreenUserCount++
+        return nil
+    })
+
+    OnCNETMsg_TickCount := 0
+    p.Callbacks.OnCNETMsg_Tick(func(m *dota.CNETMsg_Tick) error {
+        fmt.Print("OnCNETMsg_Tick")
+        if OnCNETMsg_TickCount > 0 {
+            fmt.Print(string(OnCNETMsg_TickCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_TickCount++
+        return nil
+    })
+
+    OnCNETMsg_StringCmdCount := 0
+    p.Callbacks.OnCNETMsg_StringCmd(func(m *dota.CNETMsg_StringCmd) error {
+        fmt.Print("OnCNETMsg_StringCmd")
+        if OnCNETMsg_StringCmdCount > 0 {
+            fmt.Print(string(OnCNETMsg_StringCmdCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_StringCmdCount++
+        return nil
+    })
+
+    OnCNETMsg_SetConVarCount := 0
+    p.Callbacks.OnCNETMsg_SetConVar(func(m *dota.CNETMsg_SetConVar) error {
+        fmt.Print("OnCNETMsg_SetConVar")
+        if OnCNETMsg_SetConVarCount > 0 {
+            fmt.Print(string(OnCNETMsg_SetConVarCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_SetConVarCount++
+        return nil
+    })
+
+    OnCNETMsg_SignonStateCount := 0
+    p.Callbacks.OnCNETMsg_SignonState(func(m *dota.CNETMsg_SignonState) error {
+        fmt.Print("OnCNETMsg_SignonState")
+        if OnCNETMsg_SignonStateCount > 0 {
+            fmt.Print(string(OnCNETMsg_SignonStateCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_SignonStateCount++
+        return nil
+    })
+
+    OnCNETMsg_SpawnGroup_LoadCount := 0
+    p.Callbacks.OnCNETMsg_SpawnGroup_Load(func(m *dota.CNETMsg_SpawnGroup_Load) error {
+        fmt.Print("OnCNETMsg_SpawnGroup_Load")
+        if OnCNETMsg_SpawnGroup_LoadCount > 0 {
+            fmt.Print(string(OnCNETMsg_SpawnGroup_LoadCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_SpawnGroup_LoadCount++
+        return nil
+    })
+
+    OnCNETMsg_SpawnGroup_ManifestUpdateCount := 0
+    p.Callbacks.OnCNETMsg_SpawnGroup_ManifestUpdate(func(m *dota.CNETMsg_SpawnGroup_ManifestUpdate) error {
+        fmt.Print("OnCNETMsg_SpawnGroup_ManifestUpdate")
+        if OnCNETMsg_SpawnGroup_ManifestUpdateCount > 0 {
+            fmt.Print(string(OnCNETMsg_SpawnGroup_ManifestUpdateCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_SpawnGroup_ManifestUpdateCount++
+        return nil
+    })
+
+    OnCNETMsg_SpawnGroup_SetCreationTickCount := 0
+    p.Callbacks.OnCNETMsg_SpawnGroup_SetCreationTick(func(m *dota.CNETMsg_SpawnGroup_SetCreationTick) error {
+        fmt.Print("OnCNETMsg_SpawnGroup_SetCreationTick")
+        if OnCNETMsg_SpawnGroup_SetCreationTickCount > 0 {
+            fmt.Print(string(OnCNETMsg_SpawnGroup_SetCreationTickCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_SpawnGroup_SetCreationTickCount++
+        return nil
+    })
+
+    OnCNETMsg_SpawnGroup_UnloadCount := 0
+    p.Callbacks.OnCNETMsg_SpawnGroup_Unload(func(m *dota.CNETMsg_SpawnGroup_Unload) error {
+        fmt.Print("OnCNETMsg_SpawnGroup_Unload")
+        if OnCNETMsg_SpawnGroup_UnloadCount > 0 {
+            fmt.Print(string(OnCNETMsg_SpawnGroup_UnloadCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_SpawnGroup_UnloadCount++
+        return nil
+    })
+
+    OnCNETMsg_SpawnGroup_LoadCompletedCount := 0
+    p.Callbacks.OnCNETMsg_SpawnGroup_LoadCompleted(func(m *dota.CNETMsg_SpawnGroup_LoadCompleted) error {
+        fmt.Print("OnCNETMsg_SpawnGroup_LoadCompleted")
+        if OnCNETMsg_SpawnGroup_LoadCompletedCount > 0 {
+            fmt.Print(string(OnCNETMsg_SpawnGroup_LoadCompletedCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCNETMsg_SpawnGroup_LoadCompletedCount++
+        return nil
+    })
+
+    OnCSVCMsg_ServerInfoCount := 0
+    p.Callbacks.OnCSVCMsg_ServerInfo(func(m *dota.CSVCMsg_ServerInfo) error {
+        fmt.Print("OnCSVCMsg_ServerInfo")
+        if OnCSVCMsg_ServerInfoCount > 0 {
+            fmt.Print(string(OnCSVCMsg_ServerInfoCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_ServerInfoCount++
+        return nil
+    })
+
+    OnCSVCMsg_FlattenedSerializerCount := 0
+    p.Callbacks.OnCSVCMsg_FlattenedSerializer(func(m *dota.CSVCMsg_FlattenedSerializer) error {
+        fmt.Print("OnCSVCMsg_FlattenedSerializer")
+        if OnCSVCMsg_FlattenedSerializerCount > 0 {
+            fmt.Print(string(OnCSVCMsg_FlattenedSerializerCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_FlattenedSerializerCount++
+        return nil
+    })
+
+    OnCSVCMsg_ClassInfoCount := 0
+    p.Callbacks.OnCSVCMsg_ClassInfo(func(m *dota.CSVCMsg_ClassInfo) error {
+        fmt.Print("OnCSVCMsg_ClassInfo")
+        if OnCSVCMsg_ClassInfoCount > 0 {
+            fmt.Print(string(OnCSVCMsg_ClassInfoCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_ClassInfoCount++
+        return nil
+    })
+
+    OnCSVCMsg_SetPauseCount := 0
+    p.Callbacks.OnCSVCMsg_SetPause(func(m *dota.CSVCMsg_SetPause) error {
+        fmt.Print("OnCSVCMsg_SetPause")
+        if OnCSVCMsg_SetPauseCount > 0 {
+            fmt.Print(string(OnCSVCMsg_SetPauseCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_SetPauseCount++
+        return nil
+    })
+
+    OnCSVCMsg_CreateStringTableCount := 0
+    p.Callbacks.OnCSVCMsg_CreateStringTable(func(m *dota.CSVCMsg_CreateStringTable) error {
+        fmt.Print("OnCSVCMsg_CreateStringTable")
+        if OnCSVCMsg_CreateStringTableCount > 0 {
+            fmt.Print(string(OnCSVCMsg_CreateStringTableCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_CreateStringTableCount++
+        return nil
+    })
+
+    OnCSVCMsg_UpdateStringTableCount := 0
+    p.Callbacks.OnCSVCMsg_UpdateStringTable(func(m *dota.CSVCMsg_UpdateStringTable) error {
+        fmt.Print("OnCSVCMsg_UpdateStringTable")
+        if OnCSVCMsg_UpdateStringTableCount > 0 {
+            fmt.Print(string(OnCSVCMsg_UpdateStringTableCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_UpdateStringTableCount++
+        return nil
+    })
+
+    OnCSVCMsg_VoiceInitCount := 0
+    p.Callbacks.OnCSVCMsg_VoiceInit(func(m *dota.CSVCMsg_VoiceInit) error {
+        fmt.Print("OnCSVCMsg_VoiceInit")
+        if OnCSVCMsg_VoiceInitCount > 0 {
+            fmt.Print(string(OnCSVCMsg_VoiceInitCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_VoiceInitCount++
+        return nil
+    })
+
+    OnCSVCMsg_VoiceDataCount := 0
+    p.Callbacks.OnCSVCMsg_VoiceData(func(m *dota.CSVCMsg_VoiceData) error {
+        fmt.Print("OnCSVCMsg_VoiceData")
+        if OnCSVCMsg_VoiceDataCount > 0 {
+            fmt.Print(string(OnCSVCMsg_VoiceDataCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_VoiceDataCount++
+        return nil
+    })
+
+    OnCSVCMsg_PrintCount := 0
+    p.Callbacks.OnCSVCMsg_Print(func(m *dota.CSVCMsg_Print) error {
+        fmt.Print("OnCSVCMsg_Print")
+        if OnCSVCMsg_PrintCount > 0 {
+            fmt.Print(string(OnCSVCMsg_PrintCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_PrintCount++
+        return nil
+    })
+
+    OnCSVCMsg_SoundsCount := 0
+    p.Callbacks.OnCSVCMsg_Sounds(func(m *dota.CSVCMsg_Sounds) error {
+        fmt.Print("OnCSVCMsg_Sounds")
+        if OnCSVCMsg_SoundsCount > 0 {
+            fmt.Print(string(OnCSVCMsg_SoundsCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_SoundsCount++
+        return nil
+    })
+
+    OnCSVCMsg_SetViewCount := 0
+    p.Callbacks.OnCSVCMsg_SetView(func(m *dota.CSVCMsg_SetView) error {
+        fmt.Print("OnCSVCMsg_SetView")
+        if OnCSVCMsg_SetViewCount > 0 {
+            fmt.Print(string(OnCSVCMsg_SetViewCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_SetViewCount++
+        return nil
+    })
+
+    OnCSVCMsg_ClearAllStringTablesCount := 0
+    p.Callbacks.OnCSVCMsg_ClearAllStringTables(func(m *dota.CSVCMsg_ClearAllStringTables) error {
+        fmt.Print("OnCSVCMsg_ClearAllStringTables")
+        if OnCSVCMsg_ClearAllStringTablesCount > 0 {
+            fmt.Print(string(OnCSVCMsg_ClearAllStringTablesCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_ClearAllStringTablesCount++
+        return nil
+    })
+
+    OnCSVCMsg_CmdKeyValuesCount := 0
+    p.Callbacks.OnCSVCMsg_CmdKeyValues(func(m *dota.CSVCMsg_CmdKeyValues) error {
+        fmt.Print("OnCSVCMsg_CmdKeyValues")
+        if OnCSVCMsg_CmdKeyValuesCount > 0 {
+            fmt.Print(string(OnCSVCMsg_CmdKeyValuesCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_CmdKeyValuesCount++
+        return nil
+    })
+
+    OnCSVCMsg_BSPDecalCount := 0
+    p.Callbacks.OnCSVCMsg_BSPDecal(func(m *dota.CSVCMsg_BSPDecal) error {
+        fmt.Print("OnCSVCMsg_BSPDecal")
+        if OnCSVCMsg_BSPDecalCount > 0 {
+            fmt.Print(string(OnCSVCMsg_BSPDecalCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_BSPDecalCount++
+        return nil
+    })
+
+    OnCSVCMsg_SplitScreenCount := 0
+    p.Callbacks.OnCSVCMsg_SplitScreen(func(m *dota.CSVCMsg_SplitScreen) error {
+        fmt.Print("OnCSVCMsg_SplitScreen")
+        if OnCSVCMsg_SplitScreenCount > 0 {
+            fmt.Print(string(OnCSVCMsg_SplitScreenCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_SplitScreenCount++
+        return nil
+    })
+
+    OnCSVCMsg_PacketEntitiesCount := 0
+    p.Callbacks.OnCSVCMsg_PacketEntities(func(m *dota.CSVCMsg_PacketEntities) error {
+        fmt.Print("OnCSVCMsg_PacketEntities")
+        if OnCSVCMsg_PacketEntitiesCount > 0 {
+            fmt.Print(string(OnCSVCMsg_PacketEntitiesCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_PacketEntitiesCount++
+        return nil
+    })
+
+    OnCSVCMsg_PrefetchCount := 0
+    p.Callbacks.OnCSVCMsg_Prefetch(func(m *dota.CSVCMsg_Prefetch) error {
+        fmt.Print("OnCSVCMsg_Prefetch")
+        if OnCSVCMsg_PrefetchCount > 0 {
+            fmt.Print(string(OnCSVCMsg_PrefetchCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_PrefetchCount++
+        return nil
+    })
+
+    OnCSVCMsg_MenuCount := 0
+    p.Callbacks.OnCSVCMsg_Menu(func(m *dota.CSVCMsg_Menu) error {
+        fmt.Print("OnCSVCMsg_Menu")
+        if OnCSVCMsg_MenuCount > 0 {
+            fmt.Print(string(OnCSVCMsg_MenuCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_MenuCount++
+        return nil
+    })
+
+    OnCSVCMsg_GetCvarValueCount := 0
+    p.Callbacks.OnCSVCMsg_GetCvarValue(func(m *dota.CSVCMsg_GetCvarValue) error {
+        fmt.Print("OnCSVCMsg_GetCvarValue")
+        if OnCSVCMsg_GetCvarValueCount > 0 {
+            fmt.Print(string(OnCSVCMsg_GetCvarValueCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_GetCvarValueCount++
+        return nil
+    })
+
+    OnCSVCMsg_StopSoundCount := 0
+    p.Callbacks.OnCSVCMsg_StopSound(func(m *dota.CSVCMsg_StopSound) error {
+        fmt.Print("OnCSVCMsg_StopSound")
+        if OnCSVCMsg_StopSoundCount > 0 {
+            fmt.Print(string(OnCSVCMsg_StopSoundCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_StopSoundCount++
+        return nil
+    })
+
+    OnCSVCMsg_PeerListCount := 0
+    p.Callbacks.OnCSVCMsg_PeerList(func(m *dota.CSVCMsg_PeerList) error {
+        fmt.Print("OnCSVCMsg_PeerList")
+        if OnCSVCMsg_PeerListCount > 0 {
+            fmt.Print(string(OnCSVCMsg_PeerListCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_PeerListCount++
+        return nil
+    })
+
+    OnCSVCMsg_PacketReliableCount := 0
+    p.Callbacks.OnCSVCMsg_PacketReliable(func(m *dota.CSVCMsg_PacketReliable) error {
+        fmt.Print("OnCSVCMsg_PacketReliable")
+        if OnCSVCMsg_PacketReliableCount > 0 {
+            fmt.Print(string(OnCSVCMsg_PacketReliableCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_PacketReliableCount++
+        return nil
+    })
+
+    OnCSVCMsg_HLTVStatusCount := 0
+    p.Callbacks.OnCSVCMsg_HLTVStatus(func(m *dota.CSVCMsg_HLTVStatus) error {
+        fmt.Print("OnCSVCMsg_HLTVStatus")
+        if OnCSVCMsg_HLTVStatusCount > 0 {
+            fmt.Print(string(OnCSVCMsg_HLTVStatusCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_HLTVStatusCount++
+        return nil
+    })
+
+    OnCSVCMsg_FullFrameSplitCount := 0
+    p.Callbacks.OnCSVCMsg_FullFrameSplit(func(m *dota.CSVCMsg_FullFrameSplit) error {
+        fmt.Print("OnCSVCMsg_FullFrameSplit")
+        if OnCSVCMsg_FullFrameSplitCount > 0 {
+            fmt.Print(string(OnCSVCMsg_FullFrameSplitCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCSVCMsg_FullFrameSplitCount++
+        return nil
+    })
+
+    OnCUserMessageAchievementEventCount := 0
+    p.Callbacks.OnCUserMessageAchievementEvent(func(m *dota.CUserMessageAchievementEvent) error {
+        fmt.Print("OnCUserMessageAchievementEvent")
+        if OnCUserMessageAchievementEventCount > 0 {
+            fmt.Print(string(OnCUserMessageAchievementEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageAchievementEventCount++
+        return nil
+    })
+
+    OnCUserMessageCloseCaptionCount := 0
+    p.Callbacks.OnCUserMessageCloseCaption(func(m *dota.CUserMessageCloseCaption) error {
+        fmt.Print("OnCUserMessageCloseCaption")
+        if OnCUserMessageCloseCaptionCount > 0 {
+            fmt.Print(string(OnCUserMessageCloseCaptionCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageCloseCaptionCount++
+        return nil
+    })
+
+    OnCUserMessageCloseCaptionDirectCount := 0
+    p.Callbacks.OnCUserMessageCloseCaptionDirect(func(m *dota.CUserMessageCloseCaptionDirect) error {
+        fmt.Print("OnCUserMessageCloseCaptionDirect")
+        if OnCUserMessageCloseCaptionDirectCount > 0 {
+            fmt.Print(string(OnCUserMessageCloseCaptionDirectCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageCloseCaptionDirectCount++
+        return nil
+    })
+
+    OnCUserMessageCurrentTimescaleCount := 0
+    p.Callbacks.OnCUserMessageCurrentTimescale(func(m *dota.CUserMessageCurrentTimescale) error {
+        fmt.Print("OnCUserMessageCurrentTimescale")
+        if OnCUserMessageCurrentTimescaleCount > 0 {
+            fmt.Print(string(OnCUserMessageCurrentTimescaleCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageCurrentTimescaleCount++
+        return nil
+    })
+
+    OnCUserMessageDesiredTimescaleCount := 0
+    p.Callbacks.OnCUserMessageDesiredTimescale(func(m *dota.CUserMessageDesiredTimescale) error {
+        fmt.Print("OnCUserMessageDesiredTimescale")
+        if OnCUserMessageDesiredTimescaleCount > 0 {
+            fmt.Print(string(OnCUserMessageDesiredTimescaleCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageDesiredTimescaleCount++
+        return nil
+    })
+
+    OnCUserMessageFadeCount := 0
+    p.Callbacks.OnCUserMessageFade(func(m *dota.CUserMessageFade) error {
+        fmt.Print("OnCUserMessageFade")
+        if OnCUserMessageFadeCount > 0 {
+            fmt.Print(string(OnCUserMessageFadeCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageFadeCount++
+        return nil
+    })
+
+    OnCUserMessageGameTitleCount := 0
+    p.Callbacks.OnCUserMessageGameTitle(func(m *dota.CUserMessageGameTitle) error {
+        fmt.Print("OnCUserMessageGameTitle")
+        if OnCUserMessageGameTitleCount > 0 {
+            fmt.Print(string(OnCUserMessageGameTitleCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageGameTitleCount++
+        return nil
+    })
+
+    OnCUserMessageHintTextCount := 0
+    p.Callbacks.OnCUserMessageHintText(func(m *dota.CUserMessageHintText) error {
+        fmt.Print("OnCUserMessageHintText")
+        if OnCUserMessageHintTextCount > 0 {
+            fmt.Print(string(OnCUserMessageHintTextCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageHintTextCount++
+        return nil
+    })
+
+    OnCUserMessageHudMsgCount := 0
+    p.Callbacks.OnCUserMessageHudMsg(func(m *dota.CUserMessageHudMsg) error {
+        fmt.Print("OnCUserMessageHudMsg")
+        if OnCUserMessageHudMsgCount > 0 {
+            fmt.Print(string(OnCUserMessageHudMsgCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageHudMsgCount++
+        return nil
+    })
+
+    OnCUserMessageHudTextCount := 0
+    p.Callbacks.OnCUserMessageHudText(func(m *dota.CUserMessageHudText) error {
+        fmt.Print("OnCUserMessageHudText")
+        if OnCUserMessageHudTextCount > 0 {
+            fmt.Print(string(OnCUserMessageHudTextCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageHudTextCount++
+        return nil
+    })
+
+    OnCUserMessageKeyHintTextCount := 0
+    p.Callbacks.OnCUserMessageKeyHintText(func(m *dota.CUserMessageKeyHintText) error {
+        fmt.Print("OnCUserMessageKeyHintText")
+        if OnCUserMessageKeyHintTextCount > 0 {
+            fmt.Print(string(OnCUserMessageKeyHintTextCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageKeyHintTextCount++
+        return nil
+    })
+
+    OnCUserMessageColoredTextCount := 0
+    p.Callbacks.OnCUserMessageColoredText(func(m *dota.CUserMessageColoredText) error {
+        fmt.Print("OnCUserMessageColoredText")
+        if OnCUserMessageColoredTextCount > 0 {
+            fmt.Print(string(OnCUserMessageColoredTextCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageColoredTextCount++
+        return nil
+    })
+
+    OnCUserMessageRequestStateCount := 0
+    p.Callbacks.OnCUserMessageRequestState(func(m *dota.CUserMessageRequestState) error {
+        fmt.Print("OnCUserMessageRequestState")
+        if OnCUserMessageRequestStateCount > 0 {
+            fmt.Print(string(OnCUserMessageRequestStateCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageRequestStateCount++
+        return nil
+    })
+
+    OnCUserMessageResetHUDCount := 0
+    p.Callbacks.OnCUserMessageResetHUD(func(m *dota.CUserMessageResetHUD) error {
+        fmt.Print("OnCUserMessageResetHUD")
+        if OnCUserMessageResetHUDCount > 0 {
+            fmt.Print(string(OnCUserMessageResetHUDCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageResetHUDCount++
+        return nil
+    })
+
+    OnCUserMessageRumbleCount := 0
+    p.Callbacks.OnCUserMessageRumble(func(m *dota.CUserMessageRumble) error {
+        fmt.Print("OnCUserMessageRumble")
+        if OnCUserMessageRumbleCount > 0 {
+            fmt.Print(string(OnCUserMessageRumbleCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageRumbleCount++
+        return nil
+    })
+
+    OnCUserMessageSayTextCount := 0
+    p.Callbacks.OnCUserMessageSayText(func(m *dota.CUserMessageSayText) error {
+        fmt.Print("OnCUserMessageSayText")
+        if OnCUserMessageSayTextCount > 0 {
+            fmt.Print(string(OnCUserMessageSayTextCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageSayTextCount++
+        return nil
+    })
+
+    OnCUserMessageSayText2Count := 0
+    p.Callbacks.OnCUserMessageSayText2(func(m *dota.CUserMessageSayText2) error {
+        fmt.Print("OnCUserMessageSayText2")
+        if OnCUserMessageSayText2Count > 0 {
+            fmt.Print(string(OnCUserMessageSayText2Count))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageSayText2Count++
+        return nil
+    })
+
+    OnCUserMessageSayTextChannelCount := 0
+    p.Callbacks.OnCUserMessageSayTextChannel(func(m *dota.CUserMessageSayTextChannel) error {
+        fmt.Print("OnCUserMessageSayTextChannel")
+        if OnCUserMessageSayTextChannelCount > 0 {
+            fmt.Print(string(OnCUserMessageSayTextChannelCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageSayTextChannelCount++
+        return nil
+    })
+
+    OnCUserMessageShakeCount := 0
+    p.Callbacks.OnCUserMessageShake(func(m *dota.CUserMessageShake) error {
+        fmt.Print("OnCUserMessageShake")
+        if OnCUserMessageShakeCount > 0 {
+            fmt.Print(string(OnCUserMessageShakeCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageShakeCount++
+        return nil
+    })
+
+    OnCUserMessageShakeDirCount := 0
+    p.Callbacks.OnCUserMessageShakeDir(func(m *dota.CUserMessageShakeDir) error {
+        fmt.Print("OnCUserMessageShakeDir")
+        if OnCUserMessageShakeDirCount > 0 {
+            fmt.Print(string(OnCUserMessageShakeDirCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageShakeDirCount++
+        return nil
+    })
+
+    OnCUserMessageTextMsgCount := 0
+    p.Callbacks.OnCUserMessageTextMsg(func(m *dota.CUserMessageTextMsg) error {
+        fmt.Print("OnCUserMessageTextMsg")
+        if OnCUserMessageTextMsgCount > 0 {
+            fmt.Print(string(OnCUserMessageTextMsgCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageTextMsgCount++
+        return nil
+    })
+
+    OnCUserMessageScreenTiltCount := 0
+    p.Callbacks.OnCUserMessageScreenTilt(func(m *dota.CUserMessageScreenTilt) error {
+        fmt.Print("OnCUserMessageScreenTilt")
+        if OnCUserMessageScreenTiltCount > 0 {
+            fmt.Print(string(OnCUserMessageScreenTiltCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageScreenTiltCount++
+        return nil
+    })
+
+    OnCUserMessageTrainCount := 0
+    p.Callbacks.OnCUserMessageTrain(func(m *dota.CUserMessageTrain) error {
+        fmt.Print("OnCUserMessageTrain")
+        if OnCUserMessageTrainCount > 0 {
+            fmt.Print(string(OnCUserMessageTrainCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageTrainCount++
+        return nil
+    })
+
+    OnCUserMessageVGUIMenuCount := 0
+    p.Callbacks.OnCUserMessageVGUIMenu(func(m *dota.CUserMessageVGUIMenu) error {
+        fmt.Print("OnCUserMessageVGUIMenu")
+        if OnCUserMessageVGUIMenuCount > 0 {
+            fmt.Print(string(OnCUserMessageVGUIMenuCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageVGUIMenuCount++
+        return nil
+    })
+
+    OnCUserMessageVoiceMaskCount := 0
+    p.Callbacks.OnCUserMessageVoiceMask(func(m *dota.CUserMessageVoiceMask) error {
+        fmt.Print("OnCUserMessageVoiceMask")
+        if OnCUserMessageVoiceMaskCount > 0 {
+            fmt.Print(string(OnCUserMessageVoiceMaskCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageVoiceMaskCount++
+        return nil
+    })
+
+    OnCUserMessageVoiceSubtitleCount := 0
+    p.Callbacks.OnCUserMessageVoiceSubtitle(func(m *dota.CUserMessageVoiceSubtitle) error {
+        fmt.Print("OnCUserMessageVoiceSubtitle")
+        if OnCUserMessageVoiceSubtitleCount > 0 {
+            fmt.Print(string(OnCUserMessageVoiceSubtitleCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageVoiceSubtitleCount++
+        return nil
+    })
+
+    OnCUserMessageSendAudioCount := 0
+    p.Callbacks.OnCUserMessageSendAudio(func(m *dota.CUserMessageSendAudio) error {
+        fmt.Print("OnCUserMessageSendAudio")
+        if OnCUserMessageSendAudioCount > 0 {
+            fmt.Print(string(OnCUserMessageSendAudioCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageSendAudioCount++
+        return nil
+    })
+
+    OnCUserMessageItemPickupCount := 0
+    p.Callbacks.OnCUserMessageItemPickup(func(m *dota.CUserMessageItemPickup) error {
+        fmt.Print("OnCUserMessageItemPickup")
+        if OnCUserMessageItemPickupCount > 0 {
+            fmt.Print(string(OnCUserMessageItemPickupCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageItemPickupCount++
+        return nil
+    })
+
+    OnCUserMessageAmmoDeniedCount := 0
+    p.Callbacks.OnCUserMessageAmmoDenied(func(m *dota.CUserMessageAmmoDenied) error {
+        fmt.Print("OnCUserMessageAmmoDenied")
+        if OnCUserMessageAmmoDeniedCount > 0 {
+            fmt.Print(string(OnCUserMessageAmmoDeniedCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageAmmoDeniedCount++
+        return nil
+    })
+
+    OnCUserMessageCrosshairAngleCount := 0
+    p.Callbacks.OnCUserMessageCrosshairAngle(func(m *dota.CUserMessageCrosshairAngle) error {
+        fmt.Print("OnCUserMessageCrosshairAngle")
+        if OnCUserMessageCrosshairAngleCount > 0 {
+            fmt.Print(string(OnCUserMessageCrosshairAngleCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageCrosshairAngleCount++
+        return nil
+    })
+
+    OnCUserMessageShowMenuCount := 0
+    p.Callbacks.OnCUserMessageShowMenu(func(m *dota.CUserMessageShowMenu) error {
+        fmt.Print("OnCUserMessageShowMenu")
+        if OnCUserMessageShowMenuCount > 0 {
+            fmt.Print(string(OnCUserMessageShowMenuCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageShowMenuCount++
+        return nil
+    })
+
+    OnCUserMessageCreditsMsgCount := 0
+    p.Callbacks.OnCUserMessageCreditsMsg(func(m *dota.CUserMessageCreditsMsg) error {
+        fmt.Print("OnCUserMessageCreditsMsg")
+        if OnCUserMessageCreditsMsgCount > 0 {
+            fmt.Print(string(OnCUserMessageCreditsMsgCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageCreditsMsgCount++
+        return nil
+    })
+
+    OnCUserMessageCloseCaptionPlaceholderCount := 0
+    p.Callbacks.OnCUserMessageCloseCaptionPlaceholder(func(m *dota.CUserMessageCloseCaptionPlaceholder) error {
+        fmt.Print("OnCUserMessageCloseCaptionPlaceholder")
+        if OnCUserMessageCloseCaptionPlaceholderCount > 0 {
+            fmt.Print(string(OnCUserMessageCloseCaptionPlaceholderCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageCloseCaptionPlaceholderCount++
+        return nil
+    })
+
+    OnCUserMessageCameraTransitionCount := 0
+    p.Callbacks.OnCUserMessageCameraTransition(func(m *dota.CUserMessageCameraTransition) error {
+        fmt.Print("OnCUserMessageCameraTransition")
+        if OnCUserMessageCameraTransitionCount > 0 {
+            fmt.Print(string(OnCUserMessageCameraTransitionCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageCameraTransitionCount++
+        return nil
+    })
+
+    OnCUserMessageAudioParameterCount := 0
+    p.Callbacks.OnCUserMessageAudioParameter(func(m *dota.CUserMessageAudioParameter) error {
+        fmt.Print("OnCUserMessageAudioParameter")
+        if OnCUserMessageAudioParameterCount > 0 {
+            fmt.Print(string(OnCUserMessageAudioParameterCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCUserMessageAudioParameterCount++
+        return nil
+    })
+
+    OnCEntityMessagePlayJingleCount := 0
+    p.Callbacks.OnCEntityMessagePlayJingle(func(m *dota.CEntityMessagePlayJingle) error {
+        fmt.Print("OnCEntityMessagePlayJingle")
+        if OnCEntityMessagePlayJingleCount > 0 {
+            fmt.Print(string(OnCEntityMessagePlayJingleCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCEntityMessagePlayJingleCount++
+        return nil
+    })
+
+    OnCEntityMessageScreenOverlayCount := 0
+    p.Callbacks.OnCEntityMessageScreenOverlay(func(m *dota.CEntityMessageScreenOverlay) error {
+        fmt.Print("OnCEntityMessageScreenOverlay")
+        if OnCEntityMessageScreenOverlayCount > 0 {
+            fmt.Print(string(OnCEntityMessageScreenOverlayCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCEntityMessageScreenOverlayCount++
+        return nil
+    })
+
+    OnCEntityMessageRemoveAllDecalsCount := 0
+    p.Callbacks.OnCEntityMessageRemoveAllDecals(func(m *dota.CEntityMessageRemoveAllDecals) error {
+        fmt.Print("OnCEntityMessageRemoveAllDecals")
+        if OnCEntityMessageRemoveAllDecalsCount > 0 {
+            fmt.Print(string(OnCEntityMessageRemoveAllDecalsCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCEntityMessageRemoveAllDecalsCount++
+        return nil
+    })
+
+    OnCEntityMessagePropagateForceCount := 0
+    p.Callbacks.OnCEntityMessagePropagateForce(func(m *dota.CEntityMessagePropagateForce) error {
+        fmt.Print("OnCEntityMessagePropagateForce")
+        if OnCEntityMessagePropagateForceCount > 0 {
+            fmt.Print(string(OnCEntityMessagePropagateForceCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCEntityMessagePropagateForceCount++
+        return nil
+    })
+
+    OnCEntityMessageDoSparkCount := 0
+    p.Callbacks.OnCEntityMessageDoSpark(func(m *dota.CEntityMessageDoSpark) error {
+        fmt.Print("OnCEntityMessageDoSpark")
+        if OnCEntityMessageDoSparkCount > 0 {
+            fmt.Print(string(OnCEntityMessageDoSparkCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCEntityMessageDoSparkCount++
+        return nil
+    })
+
+    OnCEntityMessageFixAngleCount := 0
+    p.Callbacks.OnCEntityMessageFixAngle(func(m *dota.CEntityMessageFixAngle) error {
+        fmt.Print("OnCEntityMessageFixAngle")
+        if OnCEntityMessageFixAngleCount > 0 {
+            fmt.Print(string(OnCEntityMessageFixAngleCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCEntityMessageFixAngleCount++
+        return nil
+    })
+
+    OnCMsgVDebugGameSessionIDEventCount := 0
+    p.Callbacks.OnCMsgVDebugGameSessionIDEvent(func(m *dota.CMsgVDebugGameSessionIDEvent) error {
+        fmt.Print("OnCMsgVDebugGameSessionIDEvent")
+        if OnCMsgVDebugGameSessionIDEventCount > 0 {
+            fmt.Print(string(OnCMsgVDebugGameSessionIDEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgVDebugGameSessionIDEventCount++
+        return nil
+    })
+
+    OnCMsgPlaceDecalEventCount := 0
+    p.Callbacks.OnCMsgPlaceDecalEvent(func(m *dota.CMsgPlaceDecalEvent) error {
+        fmt.Print("OnCMsgPlaceDecalEvent")
+        if OnCMsgPlaceDecalEventCount > 0 {
+            fmt.Print(string(OnCMsgPlaceDecalEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgPlaceDecalEventCount++
+        return nil
+    })
+
+    OnCMsgClearWorldDecalsEventCount := 0
+    p.Callbacks.OnCMsgClearWorldDecalsEvent(func(m *dota.CMsgClearWorldDecalsEvent) error {
+        fmt.Print("OnCMsgClearWorldDecalsEvent")
+        if OnCMsgClearWorldDecalsEventCount > 0 {
+            fmt.Print(string(OnCMsgClearWorldDecalsEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgClearWorldDecalsEventCount++
+        return nil
+    })
+
+    OnCMsgClearEntityDecalsEventCount := 0
+    p.Callbacks.OnCMsgClearEntityDecalsEvent(func(m *dota.CMsgClearEntityDecalsEvent) error {
+        fmt.Print("OnCMsgClearEntityDecalsEvent")
+        if OnCMsgClearEntityDecalsEventCount > 0 {
+            fmt.Print(string(OnCMsgClearEntityDecalsEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgClearEntityDecalsEventCount++
+        return nil
+    })
+
+    OnCMsgClearDecalsForSkeletonInstanceEventCount := 0
+    p.Callbacks.OnCMsgClearDecalsForSkeletonInstanceEvent(func(m *dota.CMsgClearDecalsForSkeletonInstanceEvent) error {
+        fmt.Print("OnCMsgClearDecalsForSkeletonInstanceEvent")
+        if OnCMsgClearDecalsForSkeletonInstanceEventCount > 0 {
+            fmt.Print(string(OnCMsgClearDecalsForSkeletonInstanceEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgClearDecalsForSkeletonInstanceEventCount++
+        return nil
+    })
+
+    OnCMsgSource1LegacyGameEventListCount := 0
+    p.Callbacks.OnCMsgSource1LegacyGameEventList(func(m *dota.CMsgSource1LegacyGameEventList) error {
+        fmt.Print("OnCMsgSource1LegacyGameEventList")
+        if OnCMsgSource1LegacyGameEventListCount > 0 {
+            fmt.Print(string(OnCMsgSource1LegacyGameEventListCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgSource1LegacyGameEventListCount++
+        return nil
+    })
+
+    OnCMsgSource1LegacyListenEventsCount := 0
+    p.Callbacks.OnCMsgSource1LegacyListenEvents(func(m *dota.CMsgSource1LegacyListenEvents) error {
+        fmt.Print("OnCMsgSource1LegacyListenEvents")
+        if OnCMsgSource1LegacyListenEventsCount > 0 {
+            fmt.Print(string(OnCMsgSource1LegacyListenEventsCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgSource1LegacyListenEventsCount++
+        return nil
+    })
+
+    OnCMsgSource1LegacyGameEventCount := 0
+    p.Callbacks.OnCMsgSource1LegacyGameEvent(func(m *dota.CMsgSource1LegacyGameEvent) error {
+        fmt.Print("OnCMsgSource1LegacyGameEvent")
+        if OnCMsgSource1LegacyGameEventCount > 0 {
+            fmt.Print(string(OnCMsgSource1LegacyGameEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgSource1LegacyGameEventCount++
+        return nil
+    })
+
+    OnCMsgSosStartSoundEventCount := 0
+    p.Callbacks.OnCMsgSosStartSoundEvent(func(m *dota.CMsgSosStartSoundEvent) error {
+        fmt.Print("OnCMsgSosStartSoundEvent")
+        if OnCMsgSosStartSoundEventCount > 0 {
+            fmt.Print(string(OnCMsgSosStartSoundEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgSosStartSoundEventCount++
+        return nil
+    })
+
+    OnCMsgSosStopSoundEventCount := 0
+    p.Callbacks.OnCMsgSosStopSoundEvent(func(m *dota.CMsgSosStopSoundEvent) error {
+        fmt.Print("OnCMsgSosStopSoundEvent")
+        if OnCMsgSosStopSoundEventCount > 0 {
+            fmt.Print(string(OnCMsgSosStopSoundEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgSosStopSoundEventCount++
+        return nil
+    })
+
+    OnCMsgSosSetSoundEventParamsCount := 0
+    p.Callbacks.OnCMsgSosSetSoundEventParams(func(m *dota.CMsgSosSetSoundEventParams) error {
+        fmt.Print("OnCMsgSosSetSoundEventParams")
+        if OnCMsgSosSetSoundEventParamsCount > 0 {
+            fmt.Print(string(OnCMsgSosSetSoundEventParamsCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgSosSetSoundEventParamsCount++
+        return nil
+    })
+
+    OnCMsgSosSetLibraryStackFieldsCount := 0
+    p.Callbacks.OnCMsgSosSetLibraryStackFields(func(m *dota.CMsgSosSetLibraryStackFields) error {
+        fmt.Print("OnCMsgSosSetLibraryStackFields")
+        if OnCMsgSosSetLibraryStackFieldsCount > 0 {
+            fmt.Print(string(OnCMsgSosSetLibraryStackFieldsCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgSosSetLibraryStackFieldsCount++
+        return nil
+    })
+
+    OnCMsgSosStopSoundEventHashCount := 0
+    p.Callbacks.OnCMsgSosStopSoundEventHash(func(m *dota.CMsgSosStopSoundEventHash) error {
+        fmt.Print("OnCMsgSosStopSoundEventHash")
+        if OnCMsgSosStopSoundEventHashCount > 0 {
+            fmt.Print(string(OnCMsgSosStopSoundEventHashCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgSosStopSoundEventHashCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_AIDebugLineCount := 0
+    p.Callbacks.OnCDOTAUserMsg_AIDebugLine(func(m *dota.CDOTAUserMsg_AIDebugLine) error {
+        fmt.Print("OnCDOTAUserMsg_AIDebugLine")
+        if OnCDOTAUserMsg_AIDebugLineCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_AIDebugLineCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_AIDebugLineCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ChatEventCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ChatEvent(func(m *dota.CDOTAUserMsg_ChatEvent) error {
+        fmt.Print("OnCDOTAUserMsg_ChatEvent")
+        if OnCDOTAUserMsg_ChatEventCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ChatEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ChatEventCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CombatHeroPositionsCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CombatHeroPositions(func(m *dota.CDOTAUserMsg_CombatHeroPositions) error {
+        fmt.Print("OnCDOTAUserMsg_CombatHeroPositions")
+        if OnCDOTAUserMsg_CombatHeroPositionsCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CombatHeroPositionsCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CombatHeroPositionsCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CombatLogShowDeathCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CombatLogShowDeath(func(m *dota.CDOTAUserMsg_CombatLogShowDeath) error {
+        fmt.Print("OnCDOTAUserMsg_CombatLogShowDeath")
+        if OnCDOTAUserMsg_CombatLogShowDeathCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CombatLogShowDeathCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CombatLogShowDeathCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CreateLinearProjectileCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CreateLinearProjectile(func(m *dota.CDOTAUserMsg_CreateLinearProjectile) error {
+        fmt.Print("OnCDOTAUserMsg_CreateLinearProjectile")
+        if OnCDOTAUserMsg_CreateLinearProjectileCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CreateLinearProjectileCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CreateLinearProjectileCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_DestroyLinearProjectileCount := 0
+    p.Callbacks.OnCDOTAUserMsg_DestroyLinearProjectile(func(m *dota.CDOTAUserMsg_DestroyLinearProjectile) error {
+        fmt.Print("OnCDOTAUserMsg_DestroyLinearProjectile")
+        if OnCDOTAUserMsg_DestroyLinearProjectileCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_DestroyLinearProjectileCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_DestroyLinearProjectileCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_DodgeTrackingProjectilesCount := 0
+    p.Callbacks.OnCDOTAUserMsg_DodgeTrackingProjectiles(func(m *dota.CDOTAUserMsg_DodgeTrackingProjectiles) error {
+        fmt.Print("OnCDOTAUserMsg_DodgeTrackingProjectiles")
+        if OnCDOTAUserMsg_DodgeTrackingProjectilesCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_DodgeTrackingProjectilesCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_DodgeTrackingProjectilesCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_GlobalLightColorCount := 0
+    p.Callbacks.OnCDOTAUserMsg_GlobalLightColor(func(m *dota.CDOTAUserMsg_GlobalLightColor) error {
+        fmt.Print("OnCDOTAUserMsg_GlobalLightColor")
+        if OnCDOTAUserMsg_GlobalLightColorCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_GlobalLightColorCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_GlobalLightColorCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_GlobalLightDirectionCount := 0
+    p.Callbacks.OnCDOTAUserMsg_GlobalLightDirection(func(m *dota.CDOTAUserMsg_GlobalLightDirection) error {
+        fmt.Print("OnCDOTAUserMsg_GlobalLightDirection")
+        if OnCDOTAUserMsg_GlobalLightDirectionCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_GlobalLightDirectionCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_GlobalLightDirectionCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_InvalidCommandCount := 0
+    p.Callbacks.OnCDOTAUserMsg_InvalidCommand(func(m *dota.CDOTAUserMsg_InvalidCommand) error {
+        fmt.Print("OnCDOTAUserMsg_InvalidCommand")
+        if OnCDOTAUserMsg_InvalidCommandCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_InvalidCommandCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_InvalidCommandCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_LocationPingCount := 0
+    p.Callbacks.OnCDOTAUserMsg_LocationPing(func(m *dota.CDOTAUserMsg_LocationPing) error {
+        fmt.Print("OnCDOTAUserMsg_LocationPing")
+        if OnCDOTAUserMsg_LocationPingCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_LocationPingCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_LocationPingCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_MapLineCount := 0
+    p.Callbacks.OnCDOTAUserMsg_MapLine(func(m *dota.CDOTAUserMsg_MapLine) error {
+        fmt.Print("OnCDOTAUserMsg_MapLine")
+        if OnCDOTAUserMsg_MapLineCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_MapLineCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_MapLineCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_MiniKillCamInfoCount := 0
+    p.Callbacks.OnCDOTAUserMsg_MiniKillCamInfo(func(m *dota.CDOTAUserMsg_MiniKillCamInfo) error {
+        fmt.Print("OnCDOTAUserMsg_MiniKillCamInfo")
+        if OnCDOTAUserMsg_MiniKillCamInfoCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_MiniKillCamInfoCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_MiniKillCamInfoCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_MinimapDebugPointCount := 0
+    p.Callbacks.OnCDOTAUserMsg_MinimapDebugPoint(func(m *dota.CDOTAUserMsg_MinimapDebugPoint) error {
+        fmt.Print("OnCDOTAUserMsg_MinimapDebugPoint")
+        if OnCDOTAUserMsg_MinimapDebugPointCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_MinimapDebugPointCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_MinimapDebugPointCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_MinimapEventCount := 0
+    p.Callbacks.OnCDOTAUserMsg_MinimapEvent(func(m *dota.CDOTAUserMsg_MinimapEvent) error {
+        fmt.Print("OnCDOTAUserMsg_MinimapEvent")
+        if OnCDOTAUserMsg_MinimapEventCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_MinimapEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_MinimapEventCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_NevermoreRequiemCount := 0
+    p.Callbacks.OnCDOTAUserMsg_NevermoreRequiem(func(m *dota.CDOTAUserMsg_NevermoreRequiem) error {
+        fmt.Print("OnCDOTAUserMsg_NevermoreRequiem")
+        if OnCDOTAUserMsg_NevermoreRequiemCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_NevermoreRequiemCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_NevermoreRequiemCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_OverheadEventCount := 0
+    p.Callbacks.OnCDOTAUserMsg_OverheadEvent(func(m *dota.CDOTAUserMsg_OverheadEvent) error {
+        fmt.Print("OnCDOTAUserMsg_OverheadEvent")
+        if OnCDOTAUserMsg_OverheadEventCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_OverheadEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_OverheadEventCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_SetNextAutobuyItemCount := 0
+    p.Callbacks.OnCDOTAUserMsg_SetNextAutobuyItem(func(m *dota.CDOTAUserMsg_SetNextAutobuyItem) error {
+        fmt.Print("OnCDOTAUserMsg_SetNextAutobuyItem")
+        if OnCDOTAUserMsg_SetNextAutobuyItemCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_SetNextAutobuyItemCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_SetNextAutobuyItemCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_SharedCooldownCount := 0
+    p.Callbacks.OnCDOTAUserMsg_SharedCooldown(func(m *dota.CDOTAUserMsg_SharedCooldown) error {
+        fmt.Print("OnCDOTAUserMsg_SharedCooldown")
+        if OnCDOTAUserMsg_SharedCooldownCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_SharedCooldownCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_SharedCooldownCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_SpectatorPlayerClickCount := 0
+    p.Callbacks.OnCDOTAUserMsg_SpectatorPlayerClick(func(m *dota.CDOTAUserMsg_SpectatorPlayerClick) error {
+        fmt.Print("OnCDOTAUserMsg_SpectatorPlayerClick")
+        if OnCDOTAUserMsg_SpectatorPlayerClickCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_SpectatorPlayerClickCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_SpectatorPlayerClickCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TutorialTipInfoCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TutorialTipInfo(func(m *dota.CDOTAUserMsg_TutorialTipInfo) error {
+        fmt.Print("OnCDOTAUserMsg_TutorialTipInfo")
+        if OnCDOTAUserMsg_TutorialTipInfoCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TutorialTipInfoCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TutorialTipInfoCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_UnitEventCount := 0
+    p.Callbacks.OnCDOTAUserMsg_UnitEvent(func(m *dota.CDOTAUserMsg_UnitEvent) error {
+        fmt.Print("OnCDOTAUserMsg_UnitEvent")
+        if OnCDOTAUserMsg_UnitEventCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_UnitEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_UnitEventCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ParticleManagerCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ParticleManager(func(m *dota.CDOTAUserMsg_ParticleManager) error {
+        fmt.Print("OnCDOTAUserMsg_ParticleManager")
+        if OnCDOTAUserMsg_ParticleManagerCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ParticleManagerCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ParticleManagerCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_BotChatCount := 0
+    p.Callbacks.OnCDOTAUserMsg_BotChat(func(m *dota.CDOTAUserMsg_BotChat) error {
+        fmt.Print("OnCDOTAUserMsg_BotChat")
+        if OnCDOTAUserMsg_BotChatCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_BotChatCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_BotChatCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_HudErrorCount := 0
+    p.Callbacks.OnCDOTAUserMsg_HudError(func(m *dota.CDOTAUserMsg_HudError) error {
+        fmt.Print("OnCDOTAUserMsg_HudError")
+        if OnCDOTAUserMsg_HudErrorCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_HudErrorCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_HudErrorCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ItemPurchasedCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ItemPurchased(func(m *dota.CDOTAUserMsg_ItemPurchased) error {
+        fmt.Print("OnCDOTAUserMsg_ItemPurchased")
+        if OnCDOTAUserMsg_ItemPurchasedCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ItemPurchasedCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ItemPurchasedCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_PingCount := 0
+    p.Callbacks.OnCDOTAUserMsg_Ping(func(m *dota.CDOTAUserMsg_Ping) error {
+        fmt.Print("OnCDOTAUserMsg_Ping")
+        if OnCDOTAUserMsg_PingCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_PingCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_PingCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ItemFoundCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ItemFound(func(m *dota.CDOTAUserMsg_ItemFound) error {
+        fmt.Print("OnCDOTAUserMsg_ItemFound")
+        if OnCDOTAUserMsg_ItemFoundCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ItemFoundCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ItemFoundCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_SwapVerifyCount := 0
+    p.Callbacks.OnCDOTAUserMsg_SwapVerify(func(m *dota.CDOTAUserMsg_SwapVerify) error {
+        fmt.Print("OnCDOTAUserMsg_SwapVerify")
+        if OnCDOTAUserMsg_SwapVerifyCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_SwapVerifyCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_SwapVerifyCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_WorldLineCount := 0
+    p.Callbacks.OnCDOTAUserMsg_WorldLine(func(m *dota.CDOTAUserMsg_WorldLine) error {
+        fmt.Print("OnCDOTAUserMsg_WorldLine")
+        if OnCDOTAUserMsg_WorldLineCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_WorldLineCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_WorldLineCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ItemAlertCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ItemAlert(func(m *dota.CDOTAUserMsg_ItemAlert) error {
+        fmt.Print("OnCDOTAUserMsg_ItemAlert")
+        if OnCDOTAUserMsg_ItemAlertCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ItemAlertCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ItemAlertCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_HalloweenDropsCount := 0
+    p.Callbacks.OnCDOTAUserMsg_HalloweenDrops(func(m *dota.CDOTAUserMsg_HalloweenDrops) error {
+        fmt.Print("OnCDOTAUserMsg_HalloweenDrops")
+        if OnCDOTAUserMsg_HalloweenDropsCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_HalloweenDropsCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_HalloweenDropsCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ChatWheelCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ChatWheel(func(m *dota.CDOTAUserMsg_ChatWheel) error {
+        fmt.Print("OnCDOTAUserMsg_ChatWheel")
+        if OnCDOTAUserMsg_ChatWheelCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ChatWheelCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ChatWheelCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ReceivedXmasGiftCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ReceivedXmasGift(func(m *dota.CDOTAUserMsg_ReceivedXmasGift) error {
+        fmt.Print("OnCDOTAUserMsg_ReceivedXmasGift")
+        if OnCDOTAUserMsg_ReceivedXmasGiftCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ReceivedXmasGiftCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ReceivedXmasGiftCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_UpdateSharedContentCount := 0
+    p.Callbacks.OnCDOTAUserMsg_UpdateSharedContent(func(m *dota.CDOTAUserMsg_UpdateSharedContent) error {
+        fmt.Print("OnCDOTAUserMsg_UpdateSharedContent")
+        if OnCDOTAUserMsg_UpdateSharedContentCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_UpdateSharedContentCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_UpdateSharedContentCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TutorialRequestExpCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TutorialRequestExp(func(m *dota.CDOTAUserMsg_TutorialRequestExp) error {
+        fmt.Print("OnCDOTAUserMsg_TutorialRequestExp")
+        if OnCDOTAUserMsg_TutorialRequestExpCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TutorialRequestExpCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TutorialRequestExpCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TutorialPingMinimapCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TutorialPingMinimap(func(m *dota.CDOTAUserMsg_TutorialPingMinimap) error {
+        fmt.Print("OnCDOTAUserMsg_TutorialPingMinimap")
+        if OnCDOTAUserMsg_TutorialPingMinimapCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TutorialPingMinimapCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TutorialPingMinimapCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_GamerulesStateChangedCount := 0
+    p.Callbacks.OnCDOTAUserMsg_GamerulesStateChanged(func(m *dota.CDOTAUserMsg_GamerulesStateChanged) error {
+        fmt.Print("OnCDOTAUserMsg_GamerulesStateChanged")
+        if OnCDOTAUserMsg_GamerulesStateChangedCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_GamerulesStateChangedCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_GamerulesStateChangedCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ShowSurveyCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ShowSurvey(func(m *dota.CDOTAUserMsg_ShowSurvey) error {
+        fmt.Print("OnCDOTAUserMsg_ShowSurvey")
+        if OnCDOTAUserMsg_ShowSurveyCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ShowSurveyCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ShowSurveyCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TutorialFadeCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TutorialFade(func(m *dota.CDOTAUserMsg_TutorialFade) error {
+        fmt.Print("OnCDOTAUserMsg_TutorialFade")
+        if OnCDOTAUserMsg_TutorialFadeCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TutorialFadeCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TutorialFadeCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_AddQuestLogEntryCount := 0
+    p.Callbacks.OnCDOTAUserMsg_AddQuestLogEntry(func(m *dota.CDOTAUserMsg_AddQuestLogEntry) error {
+        fmt.Print("OnCDOTAUserMsg_AddQuestLogEntry")
+        if OnCDOTAUserMsg_AddQuestLogEntryCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_AddQuestLogEntryCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_AddQuestLogEntryCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_SendStatPopupCount := 0
+    p.Callbacks.OnCDOTAUserMsg_SendStatPopup(func(m *dota.CDOTAUserMsg_SendStatPopup) error {
+        fmt.Print("OnCDOTAUserMsg_SendStatPopup")
+        if OnCDOTAUserMsg_SendStatPopupCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_SendStatPopupCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_SendStatPopupCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TutorialFinishCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TutorialFinish(func(m *dota.CDOTAUserMsg_TutorialFinish) error {
+        fmt.Print("OnCDOTAUserMsg_TutorialFinish")
+        if OnCDOTAUserMsg_TutorialFinishCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TutorialFinishCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TutorialFinishCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_SendRoshanPopupCount := 0
+    p.Callbacks.OnCDOTAUserMsg_SendRoshanPopup(func(m *dota.CDOTAUserMsg_SendRoshanPopup) error {
+        fmt.Print("OnCDOTAUserMsg_SendRoshanPopup")
+        if OnCDOTAUserMsg_SendRoshanPopupCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_SendRoshanPopupCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_SendRoshanPopupCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_SendGenericToolTipCount := 0
+    p.Callbacks.OnCDOTAUserMsg_SendGenericToolTip(func(m *dota.CDOTAUserMsg_SendGenericToolTip) error {
+        fmt.Print("OnCDOTAUserMsg_SendGenericToolTip")
+        if OnCDOTAUserMsg_SendGenericToolTipCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_SendGenericToolTipCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_SendGenericToolTipCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_SendFinalGoldCount := 0
+    p.Callbacks.OnCDOTAUserMsg_SendFinalGold(func(m *dota.CDOTAUserMsg_SendFinalGold) error {
+        fmt.Print("OnCDOTAUserMsg_SendFinalGold")
+        if OnCDOTAUserMsg_SendFinalGoldCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_SendFinalGoldCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_SendFinalGoldCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CustomMsgCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CustomMsg(func(m *dota.CDOTAUserMsg_CustomMsg) error {
+        fmt.Print("OnCDOTAUserMsg_CustomMsg")
+        if OnCDOTAUserMsg_CustomMsgCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CustomMsgCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CustomMsgCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CoachHUDPingCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CoachHUDPing(func(m *dota.CDOTAUserMsg_CoachHUDPing) error {
+        fmt.Print("OnCDOTAUserMsg_CoachHUDPing")
+        if OnCDOTAUserMsg_CoachHUDPingCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CoachHUDPingCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CoachHUDPingCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ClientLoadGridNavCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ClientLoadGridNav(func(m *dota.CDOTAUserMsg_ClientLoadGridNav) error {
+        fmt.Print("OnCDOTAUserMsg_ClientLoadGridNav")
+        if OnCDOTAUserMsg_ClientLoadGridNavCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ClientLoadGridNavCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ClientLoadGridNavCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TE_ProjectileCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TE_Projectile(func(m *dota.CDOTAUserMsg_TE_Projectile) error {
+        fmt.Print("OnCDOTAUserMsg_TE_Projectile")
+        if OnCDOTAUserMsg_TE_ProjectileCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TE_ProjectileCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TE_ProjectileCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TE_ProjectileLocCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TE_ProjectileLoc(func(m *dota.CDOTAUserMsg_TE_ProjectileLoc) error {
+        fmt.Print("OnCDOTAUserMsg_TE_ProjectileLoc")
+        if OnCDOTAUserMsg_TE_ProjectileLocCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TE_ProjectileLocCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TE_ProjectileLocCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TE_DotaBloodImpactCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TE_DotaBloodImpact(func(m *dota.CDOTAUserMsg_TE_DotaBloodImpact) error {
+        fmt.Print("OnCDOTAUserMsg_TE_DotaBloodImpact")
+        if OnCDOTAUserMsg_TE_DotaBloodImpactCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TE_DotaBloodImpactCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TE_DotaBloodImpactCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TE_UnitAnimationCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TE_UnitAnimation(func(m *dota.CDOTAUserMsg_TE_UnitAnimation) error {
+        fmt.Print("OnCDOTAUserMsg_TE_UnitAnimation")
+        if OnCDOTAUserMsg_TE_UnitAnimationCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TE_UnitAnimationCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TE_UnitAnimationCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TE_UnitAnimationEndCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TE_UnitAnimationEnd(func(m *dota.CDOTAUserMsg_TE_UnitAnimationEnd) error {
+        fmt.Print("OnCDOTAUserMsg_TE_UnitAnimationEnd")
+        if OnCDOTAUserMsg_TE_UnitAnimationEndCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TE_UnitAnimationEndCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TE_UnitAnimationEndCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_AbilityPingCount := 0
+    p.Callbacks.OnCDOTAUserMsg_AbilityPing(func(m *dota.CDOTAUserMsg_AbilityPing) error {
+        fmt.Print("OnCDOTAUserMsg_AbilityPing")
+        if OnCDOTAUserMsg_AbilityPingCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_AbilityPingCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_AbilityPingCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ShowGenericPopupCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ShowGenericPopup(func(m *dota.CDOTAUserMsg_ShowGenericPopup) error {
+        fmt.Print("OnCDOTAUserMsg_ShowGenericPopup")
+        if OnCDOTAUserMsg_ShowGenericPopupCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ShowGenericPopupCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ShowGenericPopupCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_VoteStartCount := 0
+    p.Callbacks.OnCDOTAUserMsg_VoteStart(func(m *dota.CDOTAUserMsg_VoteStart) error {
+        fmt.Print("OnCDOTAUserMsg_VoteStart")
+        if OnCDOTAUserMsg_VoteStartCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_VoteStartCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_VoteStartCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_VoteUpdateCount := 0
+    p.Callbacks.OnCDOTAUserMsg_VoteUpdate(func(m *dota.CDOTAUserMsg_VoteUpdate) error {
+        fmt.Print("OnCDOTAUserMsg_VoteUpdate")
+        if OnCDOTAUserMsg_VoteUpdateCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_VoteUpdateCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_VoteUpdateCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_VoteEndCount := 0
+    p.Callbacks.OnCDOTAUserMsg_VoteEnd(func(m *dota.CDOTAUserMsg_VoteEnd) error {
+        fmt.Print("OnCDOTAUserMsg_VoteEnd")
+        if OnCDOTAUserMsg_VoteEndCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_VoteEndCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_VoteEndCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_BoosterStateCount := 0
+    p.Callbacks.OnCDOTAUserMsg_BoosterState(func(m *dota.CDOTAUserMsg_BoosterState) error {
+        fmt.Print("OnCDOTAUserMsg_BoosterState")
+        if OnCDOTAUserMsg_BoosterStateCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_BoosterStateCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_BoosterStateCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_WillPurchaseAlertCount := 0
+    p.Callbacks.OnCDOTAUserMsg_WillPurchaseAlert(func(m *dota.CDOTAUserMsg_WillPurchaseAlert) error {
+        fmt.Print("OnCDOTAUserMsg_WillPurchaseAlert")
+        if OnCDOTAUserMsg_WillPurchaseAlertCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_WillPurchaseAlertCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_WillPurchaseAlertCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_TutorialMinimapPositionCount := 0
+    p.Callbacks.OnCDOTAUserMsg_TutorialMinimapPosition(func(m *dota.CDOTAUserMsg_TutorialMinimapPosition) error {
+        fmt.Print("OnCDOTAUserMsg_TutorialMinimapPosition")
+        if OnCDOTAUserMsg_TutorialMinimapPositionCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_TutorialMinimapPositionCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_TutorialMinimapPositionCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_PlayerMMRCount := 0
+    p.Callbacks.OnCDOTAUserMsg_PlayerMMR(func(m *dota.CDOTAUserMsg_PlayerMMR) error {
+        fmt.Print("OnCDOTAUserMsg_PlayerMMR")
+        if OnCDOTAUserMsg_PlayerMMRCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_PlayerMMRCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_PlayerMMRCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_AbilityStealCount := 0
+    p.Callbacks.OnCDOTAUserMsg_AbilitySteal(func(m *dota.CDOTAUserMsg_AbilitySteal) error {
+        fmt.Print("OnCDOTAUserMsg_AbilitySteal")
+        if OnCDOTAUserMsg_AbilityStealCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_AbilityStealCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_AbilityStealCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CourierKilledAlertCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CourierKilledAlert(func(m *dota.CDOTAUserMsg_CourierKilledAlert) error {
+        fmt.Print("OnCDOTAUserMsg_CourierKilledAlert")
+        if OnCDOTAUserMsg_CourierKilledAlertCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CourierKilledAlertCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CourierKilledAlertCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_EnemyItemAlertCount := 0
+    p.Callbacks.OnCDOTAUserMsg_EnemyItemAlert(func(m *dota.CDOTAUserMsg_EnemyItemAlert) error {
+        fmt.Print("OnCDOTAUserMsg_EnemyItemAlert")
+        if OnCDOTAUserMsg_EnemyItemAlertCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_EnemyItemAlertCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_EnemyItemAlertCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_StatsMatchDetailsCount := 0
+    p.Callbacks.OnCDOTAUserMsg_StatsMatchDetails(func(m *dota.CDOTAUserMsg_StatsMatchDetails) error {
+        fmt.Print("OnCDOTAUserMsg_StatsMatchDetails")
+        if OnCDOTAUserMsg_StatsMatchDetailsCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_StatsMatchDetailsCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_StatsMatchDetailsCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_MiniTauntCount := 0
+    p.Callbacks.OnCDOTAUserMsg_MiniTaunt(func(m *dota.CDOTAUserMsg_MiniTaunt) error {
+        fmt.Print("OnCDOTAUserMsg_MiniTaunt")
+        if OnCDOTAUserMsg_MiniTauntCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_MiniTauntCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_MiniTauntCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_BuyBackStateAlertCount := 0
+    p.Callbacks.OnCDOTAUserMsg_BuyBackStateAlert(func(m *dota.CDOTAUserMsg_BuyBackStateAlert) error {
+        fmt.Print("OnCDOTAUserMsg_BuyBackStateAlert")
+        if OnCDOTAUserMsg_BuyBackStateAlertCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_BuyBackStateAlertCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_BuyBackStateAlertCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_SpeechBubbleCount := 0
+    p.Callbacks.OnCDOTAUserMsg_SpeechBubble(func(m *dota.CDOTAUserMsg_SpeechBubble) error {
+        fmt.Print("OnCDOTAUserMsg_SpeechBubble")
+        if OnCDOTAUserMsg_SpeechBubbleCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_SpeechBubbleCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_SpeechBubbleCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CustomHeaderMessageCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CustomHeaderMessage(func(m *dota.CDOTAUserMsg_CustomHeaderMessage) error {
+        fmt.Print("OnCDOTAUserMsg_CustomHeaderMessage")
+        if OnCDOTAUserMsg_CustomHeaderMessageCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CustomHeaderMessageCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CustomHeaderMessageCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_QuickBuyAlertCount := 0
+    p.Callbacks.OnCDOTAUserMsg_QuickBuyAlert(func(m *dota.CDOTAUserMsg_QuickBuyAlert) error {
+        fmt.Print("OnCDOTAUserMsg_QuickBuyAlert")
+        if OnCDOTAUserMsg_QuickBuyAlertCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_QuickBuyAlertCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_QuickBuyAlertCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_PredictionResultCount := 0
+    p.Callbacks.OnCDOTAUserMsg_PredictionResult(func(m *dota.CDOTAUserMsg_PredictionResult) error {
+        fmt.Print("OnCDOTAUserMsg_PredictionResult")
+        if OnCDOTAUserMsg_PredictionResultCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_PredictionResultCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_PredictionResultCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ModifierAlertCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ModifierAlert(func(m *dota.CDOTAUserMsg_ModifierAlert) error {
+        fmt.Print("OnCDOTAUserMsg_ModifierAlert")
+        if OnCDOTAUserMsg_ModifierAlertCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ModifierAlertCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ModifierAlertCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_HPManaAlertCount := 0
+    p.Callbacks.OnCDOTAUserMsg_HPManaAlert(func(m *dota.CDOTAUserMsg_HPManaAlert) error {
+        fmt.Print("OnCDOTAUserMsg_HPManaAlert")
+        if OnCDOTAUserMsg_HPManaAlertCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_HPManaAlertCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_HPManaAlertCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_GlyphAlertCount := 0
+    p.Callbacks.OnCDOTAUserMsg_GlyphAlert(func(m *dota.CDOTAUserMsg_GlyphAlert) error {
+        fmt.Print("OnCDOTAUserMsg_GlyphAlert")
+        if OnCDOTAUserMsg_GlyphAlertCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_GlyphAlertCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_GlyphAlertCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_BeastChatCount := 0
+    p.Callbacks.OnCDOTAUserMsg_BeastChat(func(m *dota.CDOTAUserMsg_BeastChat) error {
+        fmt.Print("OnCDOTAUserMsg_BeastChat")
+        if OnCDOTAUserMsg_BeastChatCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_BeastChatCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_BeastChatCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_SpectatorPlayerUnitOrdersCount := 0
+    p.Callbacks.OnCDOTAUserMsg_SpectatorPlayerUnitOrders(func(m *dota.CDOTAUserMsg_SpectatorPlayerUnitOrders) error {
+        fmt.Print("OnCDOTAUserMsg_SpectatorPlayerUnitOrders")
+        if OnCDOTAUserMsg_SpectatorPlayerUnitOrdersCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_SpectatorPlayerUnitOrdersCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_SpectatorPlayerUnitOrdersCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CustomHudElement_CreateCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CustomHudElement_Create(func(m *dota.CDOTAUserMsg_CustomHudElement_Create) error {
+        fmt.Print("OnCDOTAUserMsg_CustomHudElement_Create")
+        if OnCDOTAUserMsg_CustomHudElement_CreateCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CustomHudElement_CreateCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CustomHudElement_CreateCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CustomHudElement_ModifyCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CustomHudElement_Modify(func(m *dota.CDOTAUserMsg_CustomHudElement_Modify) error {
+        fmt.Print("OnCDOTAUserMsg_CustomHudElement_Modify")
+        if OnCDOTAUserMsg_CustomHudElement_ModifyCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CustomHudElement_ModifyCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CustomHudElement_ModifyCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CustomHudElement_DestroyCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CustomHudElement_Destroy(func(m *dota.CDOTAUserMsg_CustomHudElement_Destroy) error {
+        fmt.Print("OnCDOTAUserMsg_CustomHudElement_Destroy")
+        if OnCDOTAUserMsg_CustomHudElement_DestroyCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CustomHudElement_DestroyCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CustomHudElement_DestroyCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_CompendiumStateCount := 0
+    p.Callbacks.OnCDOTAUserMsg_CompendiumState(func(m *dota.CDOTAUserMsg_CompendiumState) error {
+        fmt.Print("OnCDOTAUserMsg_CompendiumState")
+        if OnCDOTAUserMsg_CompendiumStateCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_CompendiumStateCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_CompendiumStateCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ProjectionAbilityCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ProjectionAbility(func(m *dota.CDOTAUserMsg_ProjectionAbility) error {
+        fmt.Print("OnCDOTAUserMsg_ProjectionAbility")
+        if OnCDOTAUserMsg_ProjectionAbilityCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ProjectionAbilityCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ProjectionAbilityCount++
+        return nil
+    })
+
+    OnCDOTAUserMsg_ProjectionEventCount := 0
+    p.Callbacks.OnCDOTAUserMsg_ProjectionEvent(func(m *dota.CDOTAUserMsg_ProjectionEvent) error {
+        fmt.Print("OnCDOTAUserMsg_ProjectionEvent")
+        if OnCDOTAUserMsg_ProjectionEventCount > 0 {
+            fmt.Print(string(OnCDOTAUserMsg_ProjectionEventCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCDOTAUserMsg_ProjectionEventCount++
+        return nil
+    })
+
+    OnCMsgDOTACombatLogEntryCount := 0
+    p.Callbacks.OnCMsgDOTACombatLogEntry(func(m *dota.CMsgDOTACombatLogEntry) error {
+        fmt.Print("OnCMsgDOTACombatLogEntry")
+        if OnCMsgDOTACombatLogEntryCount > 0 {
+            fmt.Print(string(OnCMsgDOTACombatLogEntryCount))
+        }
+        fmt.Print(":\n")
+        data, _ := json.Marshal(m)
+        fmt.Println(string(data))
+        fmt.Println(",")
+        OnCMsgDOTACombatLogEntryCount++
+        return nil
+    })
