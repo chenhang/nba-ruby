@@ -1,0 +1,1830 @@
+[
+  {
+    "word": "acoustic",
+    "meaning": " adj. 美声的，听觉的,音感教育,音响学的"
+  },
+  {
+    "word": "aesthetic",
+    "meaning": " adj. 美学的,审美的,有美感的\nn. (复数)审美观"
+  },
+  {
+    "word": "anatomy",
+    "meaning": " n. 解剖学, 解剖学专著，分解，解剖，骨骸"
+  },
+  {
+    "word": "archaeology",
+    "meaning": " n. 考古学，古迹，文物"
+  },
+  {
+    "word": "category",
+    "meaning": " n. 种类, 类别"
+  },
+  {
+    "word": "chronology",
+    "meaning": " n. 年代学，年表"
+  },
+  {
+    "word": "colonist",
+    "meaning": " n. 殖民地居民, 殖民者"
+  },
+  {
+    "word": "compass",
+    "meaning": " n. 指南针,圆规\nvt. 图谋,包围,达成"
+  },
+  {
+    "word": "dynamic",
+    "meaning": " adj. 动态的, (有)动力的, (有)力的; 有活力的\nn. 动力; 力学"
+  },
+  {
+    "word": "enzyme",
+    "meaning": " n. 酶"
+  },
+  {
+    "word": "ethnic",
+    "meaning": " adj. 民族的，种族的，有民族特色的\nn. 少数民族的一员"
+  },
+  {
+    "word": "fungi",
+    "meaning": " n. 菌类, 蘑菇"
+  },
+  {
+    "word": "glaciation",
+    "meaning": " n. 冰河作用，冻结成冰"
+  },
+  {
+    "word": "glucose",
+    "meaning": " n. 葡萄糖"
+  },
+  {
+    "word": "heterogeneous",
+    "meaning": " adj. 异种的, 异质的, 由不同成份形成的\n[计算机] 非均匀的"
+  },
+  {
+    "word": "humidity",
+    "meaning": " n. 湿度, 湿气"
+  },
+  {
+    "word": "ideological",
+    "meaning": " adj. 意识形态的，思想上的"
+  },
+  {
+    "word": "infectious",
+    "meaning": " adj. 传染的"
+  },
+  {
+    "word": "lyrical",
+    "meaning": " adj. 抒情的，抒情诗的\nn. 抒情诗\n=lyric"
+  },
+  {
+    "word": "magnetic",
+    "meaning": " adj. 有磁性的,有吸引力的,催眠术的"
+  },
+  {
+    "word": "metaphysics",
+    "meaning": " n. 形而上学, 玄学"
+  },
+  {
+    "word": "nitrogen",
+    "meaning": " n. 氮"
+  },
+  {
+    "word": "nutrition",
+    "meaning": " n. 营养"
+  },
+  {
+    "word": "optic",
+    "meaning": " n. 镜片\nadj. 光的(视觉的)"
+  },
+  {
+    "word": "petroleum",
+    "meaning": " n. 石油"
+  },
+  {
+    "word": "photosynthesis",
+    "meaning": " n. 光合作用"
+  },
+  {
+    "word": "predator",
+    "meaning": " n. 食肉动物,掠夺者"
+  },
+  {
+    "word": "proliferation",
+    "meaning": " n. 增殖,分芽繁殖"
+  },
+  {
+    "word": "psychology",
+    "meaning": " n. 心理学"
+  },
+  {
+    "word": "racism",
+    "meaning": " n. 种族主义，种族歧视；人种偏见"
+  },
+  {
+    "word": "radioactive",
+    "meaning": " adj. 放射性的"
+  },
+  {
+    "word": "religious",
+    "meaning": " adj. 宗教的,虔诚的,细心的\nn. 修道院成员, 僧侣"
+  },
+  {
+    "word": "segregation",
+    "meaning": " n. (种族)隔离,被隔离的部分"
+  },
+  {
+    "word": "seismic",
+    "meaning": " adj. 地震的"
+  },
+  {
+    "word": "seminal",
+    "meaning": " adj. 精液的, 种子的, 生殖的，创新的，有创意的"
+  },
+  {
+    "word": "specimen",
+    "meaning": " n. 样本,标本"
+  },
+  {
+    "word": "spectrum",
+    "meaning": " n. 光谱, （比喻）范围, 系列"
+  },
+  {
+    "word": "stratify",
+    "meaning": " v. （使）成层, 分层"
+  },
+  {
+    "word": "terrain",
+    "meaning": " n. 地带,地域,地形"
+  },
+  {
+    "word": "thermodynamic",
+    "meaning": " adj. 热力的，热力学的"
+  },
+  {
+    "word": "vegetation",
+    "meaning": " n. 植物,草木,(植物)生长"
+  },
+  {
+    "word": "vertebrate",
+    "meaning": " adj. 脊椎的，脊椎动物的\nn. 脊椎动物"
+  },
+  {
+    "word": "aberration",
+    "meaning": " n. 失常"
+  },
+  {
+    "word": "abrupt",
+    "meaning": " adj. 突然的；唐突的, 陡峭的"
+  },
+  {
+    "word": "abstract",
+    "meaning": " n. 摘要,抽象的东西\nadj. 抽象的,理论的\nvt. 移除,摘要,偷\nvi. 做摘要"
+  },
+  {
+    "word": "abundance",
+    "meaning": " n. 丰富,充裕"
+  },
+  {
+    "word": "accentuate",
+    "meaning": " v. 以重音念, 强调, 重读"
+  },
+  {
+    "word": "accusation",
+    "meaning": " n. 控告,指控,非难"
+  },
+  {
+    "word": "acknowledge",
+    "meaning": " vt. 承认,公认,告知收到,表示感谢,注意到"
+  },
+  {
+    "word": "acrobatic",
+    "meaning": " adj. 杂技的"
+  },
+  {
+    "word": "adjacent",
+    "meaning": " adj. 毗连的,邻近的,接近的"
+  },
+  {
+    "word": "adversary",
+    "meaning": " n. 敌手, 对手"
+  },
+  {
+    "word": "affinity",
+    "meaning": " n. 姻亲,密切关系,吸引力"
+  },
+  {
+    "word": "aggregate",
+    "meaning": " n. 合计, 总计, 集合体\nadj. 合计的, 集合的, 聚合的\nv. 聚集, 集合, 合计"
+  },
+  {
+    "word": "alarming",
+    "meaning": " adj. 惊人的, 吓人的"
+  },
+  {
+    "word": "albeit",
+    "meaning": " conj. 虽然(即使)"
+  },
+  {
+    "word": "allusion",
+    "meaning": " n. 提及,暗示"
+  },
+  {
+    "word": "aluminum",
+    "meaning": " n. 铝"
+  },
+  {
+    "word": "ambiguity",
+    "meaning": " n. 不明确,含糊,暧昧,模棱两可"
+  },
+  {
+    "word": "amorphous",
+    "meaning": " adj. 无定形的, 无组织的，非结晶的"
+  },
+  {
+    "word": "analogous",
+    "meaning": " adj. 类似的"
+  },
+  {
+    "word": "antagonism",
+    "meaning": " n. 对抗，对立，敌对状态（行为）"
+  },
+  {
+    "word": "anthropology",
+    "meaning": " n. 人类学"
+  },
+  {
+    "word": "appreciation",
+    "meaning": " n. 赏识, 鉴识, 感激"
+  },
+  {
+    "word": "approximation",
+    "meaning": " n. 接近，近似，近似值"
+  },
+  {
+    "word": "aristocratic",
+    "meaning": " adj. 贵族的, 贵族政治的"
+  },
+  {
+    "word": "assail",
+    "meaning": " vt. 猛烈攻击，言语抨击"
+  },
+  {
+    "word": "assimilate",
+    "meaning": " v. 使同化，吸收\nn. 被同化的事物"
+  },
+  {
+    "word": "assume",
+    "meaning": " vt. 假定, 设想, 承担; (想当然的)认为"
+  },
+  {
+    "word": "astounding",
+    "meaning": " adj. 令人惊骇的\n动词astound的现在分词形式"
+  },
+  {
+    "word": "astronomical",
+    "meaning": " adj. 天文学的，巨大的"
+  },
+  {
+    "word": "atomic",
+    "meaning": " adj. 原子的, 原子能的"
+  },
+  {
+    "word": "authorize",
+    "meaning": " v. 授权与,批准,委托代替"
+  },
+  {
+    "word": "awesome",
+    "meaning": " adj. 令人惊叹的，难得吓人的，很好的"
+  },
+  {
+    "word": "backfire",
+    "meaning": " n. 逆火, 后爆的巨大响声\nvi. (指内燃机等)逆火, 适得其反, 产生事与愿违的结果"
+  },
+  {
+    "word": "bacterium",
+    "meaning": " n. 细菌"
+  },
+  {
+    "word": "bauxite",
+    "meaning": " n. 铝土岩(产铝的矿土、石)"
+  },
+  {
+    "word": "bilateral",
+    "meaning": " adj. 双边的"
+  },
+  {
+    "word": "blockade",
+    "meaning": " n. 阻塞，封锁，阻碍物\nv. 封锁，挡住"
+  },
+  {
+    "word": "boundary",
+    "meaning": " n. 分界线, 边界"
+  },
+  {
+    "word": "brisk",
+    "meaning": " adj. 敏锐的, 凛冽的\nadj.活泼的, 活跃的, 快的"
+  },
+  {
+    "word": "camouflage",
+    "meaning": " v. 伪装, 欺瞒"
+  },
+  {
+    "word": "carbonate",
+    "meaning": " n. 碳酸盐，黑金刚石\nvt. 使碳化"
+  },
+  {
+    "word": "categorize",
+    "meaning": " vt. 分类"
+  },
+  {
+    "word": "centerpiece",
+    "meaning": " n. 中心装饰品, （餐桌）中央的摆饰"
+  },
+  {
+    "word": "cessation",
+    "meaning": " n. 中止，（短暂的）停止"
+  },
+  {
+    "word": "challenge",
+    "meaning": " n.挑战； 盘问； 质疑； 怀疑\nvt.质疑； 向…挑战\nvi.提出挑战，要求竞赛（或竞争）； 驳斥"
+  },
+  {
+    "word": "characterize",
+    "meaning": " vt. 表示...的典型,赋予...特色"
+  },
+  {
+    "word": "chorus",
+    "meaning": " n. 合唱队,歌舞队，齐声说道，副歌部分，\nvt. 合唱"
+  },
+  {
+    "word": "chronicle",
+    "meaning": " n. 编年史，年代记；记录\nvt. 记录；把…载入编年史"
+  },
+  {
+    "word": "classify",
+    "meaning": " v. 分类,归类,分等"
+  },
+  {
+    "word": "clearance",
+    "meaning": " n. 清除,解除,森林开拓"
+  },
+  {
+    "word": "climatology",
+    "meaning": " n. 气候学，风土学"
+  },
+  {
+    "word": "coercion",
+    "meaning": " n. 强迫, 威压, 高压政治"
+  },
+  {
+    "word": "cohesion",
+    "meaning": " n. 凝聚力, 团结"
+  },
+  {
+    "word": "colonize",
+    "meaning": " v. 开拓殖民地,殖民,移植"
+  },
+  {
+    "word": "comic",
+    "meaning": " n. 连环图画,喜剧演员,喜剧元素\nadj. 滑稽的,有趣的,喜剧的"
+  },
+  {
+    "word": "commendatory",
+    "meaning": " adj. 赞赏的, 推荐的"
+  },
+  {
+    "word": "commit",
+    "meaning": " v. 委托(托付), 犯罪, 作...事, 承诺\n[计算机] 委托"
+  },
+  {
+    "word": "community",
+    "meaning": " n. 社区, 团体"
+  },
+  {
+    "word": "comparatively",
+    "meaning": " adv. 比较地,相当地,多少"
+  },
+  {
+    "word": "compelling",
+    "meaning": " adj. 引人入胜的；扣人心弦的；非常强烈的；不可抗拒的；令人信服的"
+  },
+  {
+    "word": "compensation",
+    "meaning": " n. 补偿, 赔偿; 赔偿金, 物"
+  },
+  {
+    "word": "complaint",
+    "meaning": " n. 抱怨"
+  },
+  {
+    "word": "complementary",
+    "meaning": " adj. 补充的, 互补的"
+  },
+  {
+    "word": "complicated",
+    "meaning": " adj. 复杂的, 难懂的"
+  },
+  {
+    "word": "compound",
+    "meaning": " n. 混合物,复合词\nadj. 复(混)合的,合成的\nvt. 混合,调合,妥协\nvi. 混合,妥协"
+  },
+  {
+    "word": "comprehensive",
+    "meaning": " adj. 综合的, 广泛的, 理解的"
+  },
+  {
+    "word": "comprise",
+    "meaning": " vt. 包含,构成"
+  },
+  {
+    "word": "compromise",
+    "meaning": " n. 妥协, 折衷, 折衷案\nvt. 妥协处理, 危害\nvi. 妥协, 让步"
+  },
+  {
+    "word": "concede",
+    "meaning": " vt. 承认,给予\nvi. 让步"
+  },
+  {
+    "word": "conceive",
+    "meaning": " vt. \u0026vi. 构思,以为,怀孕"
+  },
+  {
+    "word": "concomitant",
+    "meaning": " adj. 相伴, 附随的, 共存的\nn. 附随物"
+  },
+  {
+    "word": "condense",
+    "meaning": " v. 浓缩, 摘要, 缩短"
+  },
+  {
+    "word": "contentment",
+    "meaning": " n. 满足，使人满足的事"
+  },
+  {
+    "word": "contrivance",
+    "meaning": " n. 发明, 发明的才能, 想出的办法"
+  },
+  {
+    "word": "convert",
+    "meaning": " v. 使转变, 使...改变信仰, 倒置\nn. 皈依者, 改宗者"
+  },
+  {
+    "word": "convincing",
+    "meaning": " adj. 使人信服的, 有力的, 令人心悦诚服的\nvbl. 使...信服, 使...明白"
+  },
+  {
+    "word": "criterion",
+    "meaning": " n. 标准, 准则"
+  },
+  {
+    "word": "critique",
+    "meaning": " n. 批评,批评法,评论"
+  },
+  {
+    "word": "culminate",
+    "meaning": " v. 达到顶点或高潮, 以...告终\nvi. 达到顶点\nvt. 使达高潮, 使结束"
+  },
+  {
+    "word": "daring",
+    "meaning": " adj. 大胆的\nn. 冒险精神"
+  },
+  {
+    "word": "debunk",
+    "meaning": " vt. 揭穿真相, 暴露"
+  },
+  {
+    "word": "decrease",
+    "meaning": " n. 减少(量),降低\nvt.\u0026 vi. 减少,降低"
+  },
+  {
+    "word": "deem",
+    "meaning": " v. 认为, 相信"
+  },
+  {
+    "word": "delicate",
+    "meaning": " adj. 细致优雅的,微妙的,美味的\nadj. 淡色的,淡味的\nadj. 娇弱的,纤细的"
+  },
+  {
+    "word": "demanding",
+    "meaning": " adj. 要求多的, 吃力的"
+  },
+  {
+    "word": "denote",
+    "meaning": " vt. 象征,表示"
+  },
+  {
+    "word": "depict",
+    "meaning": " vt. 描述,描绘"
+  },
+  {
+    "word": "deplete",
+    "meaning": " vt. 耗尽,使...空竭"
+  },
+  {
+    "word": "deprivation",
+    "meaning": " n. 剥夺, 剥夺官职, 免职"
+  },
+  {
+    "word": "derivative",
+    "meaning": " adj. 引出的,系出的\nn. 引出之物,系出物,衍生字\nn. 导数, 微商"
+  },
+  {
+    "word": "derive",
+    "meaning": " v. 得自, 起源, 引申于"
+  },
+  {
+    "word": "diameter",
+    "meaning": " n. 直径"
+  },
+  {
+    "word": "dichotomy",
+    "meaning": " n. 两分, 分裂, 二分法"
+  },
+  {
+    "word": "diffuse",
+    "meaning": " vt. 散播,使(气体或液体)慢慢混合\nvi. 弥漫,扩散\nadj. 冗长的,四散的,散漫的"
+  },
+  {
+    "word": "dignity",
+    "meaning": " n. 尊严, 高贵, 端庄"
+  },
+  {
+    "word": "dimension",
+    "meaning": " n. 尺寸, 次元, 容积, 维度\nn. 范围; 方面\nvt. 标尺寸; 形成...尺寸"
+  },
+  {
+    "word": "dioxide",
+    "meaning": " n. 二氧化物"
+  },
+  {
+    "word": "disappointed",
+    "meaning": " adj. 失望的"
+  },
+  {
+    "word": "discern",
+    "meaning": " vt.看出； 理解，了解； 识别，辨别\nvi.辨明，分清"
+  },
+  {
+    "word": "discharge",
+    "meaning": " vt. \u0026vi. 放出,解雇,放电,解除, 清偿债务\nn. 释放，卸货，放电，一股，一阵，开火，发射，准许离开"
+  },
+  {
+    "word": "disciple",
+    "meaning": " n. 弟子, 门徒"
+  },
+  {
+    "word": "discipline",
+    "meaning": " n. 训练, 纪律, 惩罚; 学科\nvt. 训练, 惩罚"
+  },
+  {
+    "word": "disclose",
+    "meaning": " vt. 揭露"
+  },
+  {
+    "word": "discrete",
+    "meaning": " adj. 不连续的 离散的\n[计算机] 分离 离散"
+  },
+  {
+    "word": "dispose",
+    "meaning": " vt. 倾向于,处置\nvi. 销毁"
+  },
+  {
+    "word": "disseminate",
+    "meaning": " vt. 散播, 公开, 宣传"
+  },
+  {
+    "word": "diverse",
+    "meaning": " adj. 不同的,相异的,多种多样的"
+  },
+  {
+    "word": "dominant",
+    "meaning": " adj. 占优势的，主导的，显性的\nn. 主宰者"
+  },
+  {
+    "word": "drought",
+    "meaning": " n. 干旱"
+  },
+  {
+    "word": "duplicate",
+    "meaning": " n. 副本,复制品\nadj. 复制的,二重的\nvt. 复制,重复\nvi. 重复\n[计算机] 复制"
+  },
+  {
+    "word": "dynamo",
+    "meaning": " n. 发电机"
+  },
+  {
+    "word": "eccentricity",
+    "meaning": " n. 古怪, 古怪的行为, 怪癖"
+  },
+  {
+    "word": "echo",
+    "meaning": " n. 回声,回音,回波,反响,共鸣\nvt. 发回声,回响, 重复, 仿效\nvi. 回响, 回荡\nn.[计算机] DOS命令 :禁止(或允许)批处理命令行显示屏幕上"
+  },
+  {
+    "word": "ecosystem",
+    "meaning": " n. 生态系统"
+  },
+  {
+    "word": "egocentric",
+    "meaning": " adj. 自我中心的, 利己的"
+  },
+  {
+    "word": "elaborate",
+    "meaning": " adj. 精细的, 详尽的, 精心的\nv. 详细地说明, 用心地作, 推敲"
+  },
+  {
+    "word": "elastic",
+    "meaning": " adj. 有弹性的,灵活的,可变的\nn. 橡皮圈,有松紧的东西"
+  },
+  {
+    "word": "elevate",
+    "meaning": " vt. 举起,提拔,素养提升，鼓舞\nvi. 变高"
+  },
+  {
+    "word": "eloquent",
+    "meaning": " adj. 雄辩的, 有口才的, 动人的"
+  },
+  {
+    "word": "empiricism",
+    "meaning": " n. 经验主义, 经验论"
+  },
+  {
+    "word": "enactment",
+    "meaning": " n. 颁布 ,通过,制定,法规,条例, 法令"
+  },
+  {
+    "word": "encompass",
+    "meaning": " vt. 围绕(包围, 拥有, 完成)"
+  },
+  {
+    "word": "encroachment",
+    "meaning": " n. 侵蚀, 侵犯"
+  },
+  {
+    "word": "endanger",
+    "meaning": " vt. 危及，危害"
+  },
+  {
+    "word": "enforce",
+    "meaning": " vt. 加强, 强迫, 执行"
+  },
+  {
+    "word": "enfranchise",
+    "meaning": " vt. 给与自治权, 给与选举权, 解放"
+  },
+  {
+    "word": "enigma",
+    "meaning": " n. 费解的事情，谜，谜一般的人"
+  },
+  {
+    "word": "ensue",
+    "meaning": " v. 跟着发生，继起，因而产生"
+  },
+  {
+    "word": "entertain",
+    "meaning": " vt. \u0026vi. 娱乐,招待,怀抱"
+  },
+  {
+    "word": "entrench",
+    "meaning": " v. 挖壕沟,(牢固地）确立，保护，侵占，侵犯"
+  },
+  {
+    "word": "erudition",
+    "meaning": " n. 博学"
+  },
+  {
+    "word": "eschew",
+    "meaning": " v. 避开,戒绝\nvt. 避开"
+  },
+  {
+    "word": "euphoria",
+    "meaning": " n. 幸福愉快感"
+  },
+  {
+    "word": "evaporate",
+    "meaning": " v. 蒸发, 失去水分, 消失"
+  },
+  {
+    "word": "evasion",
+    "meaning": " n. 逃避, 藉口，偷漏(税)"
+  },
+  {
+    "word": "evocation",
+    "meaning": " n. 引起，唤起\r\nn. \u0026lt;古\u0026gt; 召唤，招魂"
+  },
+  {
+    "word": "exotic",
+    "meaning": " adj. 异国的,外来的,奇异的,脱衣舞的\nn. (复数)异国风格的事物,脱衣舞者"
+  },
+  {
+    "word": "exposition",
+    "meaning": " n. 博览会, 展览会, 说明"
+  },
+  {
+    "word": "extant",
+    "meaning": " adj. 现存的"
+  },
+  {
+    "word": "extract",
+    "meaning": " n. 榨出物,精华,摘录\nvt. 拔出,榨出,摘录,提取,选取\n[计算机] 提取"
+  },
+  {
+    "word": "fanciful",
+    "meaning": " adj. 奇怪的, 稀奇的, 想像的"
+  },
+  {
+    "word": "fantastic",
+    "meaning": " adj. 极好的,难以相信的,奇异的,幻想的"
+  },
+  {
+    "word": "faulty",
+    "meaning": " adj. 有错误的, 有缺点的"
+  },
+  {
+    "word": "fern",
+    "meaning": " n. 羊齿植物，蕨"
+  },
+  {
+    "word": "fertilization",
+    "meaning": " n. 受精，肥沃化"
+  },
+  {
+    "word": "fidelity",
+    "meaning": " n. 忠实,忠诚，准确性"
+  },
+  {
+    "word": "fleeting",
+    "meaning": " adj. 飞逝的(疾驰的, 短暂的, 急走的)\n动词fleet的现在分词形式"
+  },
+  {
+    "word": "flourish",
+    "meaning": " vi. 繁荣,茂盛,活跃,手舞足蹈\nvt. 挥舞\nn. 挥舞,华丽词藻,茂盛,兴旺,炫耀"
+  },
+  {
+    "word": "fluorescence",
+    "meaning": " n. 发荧光，荧光"
+  },
+  {
+    "word": "forecast",
+    "meaning": " n. 预测,预报\nvt. \u0026vi. 预测"
+  },
+  {
+    "word": "forerunner",
+    "meaning": " n. 先驱，祖先，预兆，[体育]赛前试滑滑道的人"
+  },
+  {
+    "word": "formidable",
+    "meaning": " adj. 强大的, 可怕的, 难对付的"
+  },
+  {
+    "word": "forthright",
+    "meaning": " adv. 直截地,马上,立即\nadj. 直截的,直率的,坦白的\nn. 直路"
+  },
+  {
+    "word": "fragile",
+    "meaning": " adj. 易碎的,脆的,精细的"
+  },
+  {
+    "word": "framer",
+    "meaning": " n. 组成者，构成者，筹划者"
+  },
+  {
+    "word": "framework",
+    "meaning": " n. 结构, 框架, 参照标准, 体系"
+  },
+  {
+    "word": "frontier",
+    "meaning": " n. 边界,边境，尖端，边缘"
+  },
+  {
+    "word": "fusion",
+    "meaning": " n. 融合物,结合,融合"
+  },
+  {
+    "word": "galaxy",
+    "meaning": " n. 银河, 一群显赫之人"
+  },
+  {
+    "word": "gap",
+    "meaning": " n. (意见、个性等的)差异,缝隙,漏洞,缺口\nvt. 制造缺口\n嘉普(财富500强公司之一，总部所在地美国,主要经营服装零售)"
+  },
+  {
+    "word": "gender",
+    "meaning": " n. 性,性别\nvt.\u0026 vi. 产生,发生"
+  },
+  {
+    "word": "gene",
+    "meaning": " n. 基因"
+  },
+  {
+    "word": "generalist",
+    "meaning": " n. 通才，多面手"
+  },
+  {
+    "word": "generation",
+    "meaning": " n. 代, 一代"
+  },
+  {
+    "word": "genesis",
+    "meaning": " n. 起源，发生\nGenesis：《创世纪》（旧约圣经第一卷）"
+  },
+  {
+    "word": "genetic",
+    "meaning": " adj. 基因的, 遗传的, 起源的"
+  },
+  {
+    "word": "genre",
+    "meaning": " n. 类型,流派"
+  },
+  {
+    "word": "genus",
+    "meaning": " n. 种, 类，属"
+  },
+  {
+    "word": "geologic",
+    "meaning": " adj. 地质的"
+  },
+  {
+    "word": "geometry",
+    "meaning": " n. 几何,几何学"
+  },
+  {
+    "word": "glue",
+    "meaning": " n. 胶,粘性之物\nvt. 粘, 紧附于..."
+  },
+  {
+    "word": "hallmark",
+    "meaning": " n. 纯度检验证明, 品质证明\nv. 加盖纯度检验证明, 有品质保证的"
+  },
+  {
+    "word": "halt",
+    "meaning": " n. 停止，中止; 暂停; 小火车站\nvt. 使停止; 使中断; 阻止; 使立定\nvi. 停止，立定; 犹豫"
+  },
+  {
+    "word": "haphazard",
+    "meaning": " adj. 偶然的，随意的，杂乱无章的\nadv. 杂乱地, 任意地"
+  },
+  {
+    "word": "hemisphere",
+    "meaning": " n. 半球"
+  },
+  {
+    "word": "heretofore",
+    "meaning": " adv. 以前, 迄今为止"
+  },
+  {
+    "word": "heritage",
+    "meaning": " n. 遗产, 继承物"
+  },
+  {
+    "word": "hitherto",
+    "meaning": " adv. 到目前为止, 迄今"
+  },
+  {
+    "word": "holistic",
+    "meaning": " adj. 整体的, 全盘的"
+  },
+  {
+    "word": "hydrogen",
+    "meaning": " n. 氢"
+  },
+  {
+    "word": "hypocritical",
+    "meaning": " adj. 伪善的,伪善者的"
+  },
+  {
+    "word": "immature",
+    "meaning": " adj. 不成熟的"
+  },
+  {
+    "word": "immune",
+    "meaning": " adj. 免除的,免疫的\nn. 免疫者"
+  },
+  {
+    "word": "implication",
+    "meaning": " n. 暗示,含意"
+  },
+  {
+    "word": "imprecision",
+    "meaning": " n. 不精确, 不正确"
+  },
+  {
+    "word": "improvisation",
+    "meaning": " n. 即兴而作, 即席演奏, 即席创作"
+  },
+  {
+    "word": "impure",
+    "meaning": " adj. 不纯的, 肮脏的"
+  },
+  {
+    "word": "incentive",
+    "meaning": " adj. 刺激的, 鼓励的\nn. 刺激, 鼓励, 动机"
+  },
+  {
+    "word": "incidence",
+    "meaning": " n. 发生(率),入射"
+  },
+  {
+    "word": "incorporate",
+    "meaning": " vt.组成公司； 包含； 使混合； 使具体化\nvi.包含； 吸收； 合并； 混合"
+  },
+  {
+    "word": "individualism",
+    "meaning": " n. 个人主义"
+  },
+  {
+    "word": "indulge",
+    "meaning": " vt. 纵情于,放任,迁就\nvi. 放纵自己于..."
+  },
+  {
+    "word": "infertile",
+    "meaning": " adj. 贫瘠的，不结果实的，不能生育的"
+  },
+  {
+    "word": "infinite",
+    "meaning": " adj. 无限的,无穷的\nn. 无限"
+  },
+  {
+    "word": "initiate",
+    "meaning": " n. 创始人\nadj. 新加入的\nvt. 开始,创始,启蒙,介绍加入"
+  },
+  {
+    "word": "insincere",
+    "meaning": " adj. 不真诚的"
+  },
+  {
+    "word": "instructive",
+    "meaning": " adj. 教育性的，有启发的，有益的"
+  },
+  {
+    "word": "integration",
+    "meaning": " n. 综合, 集成, 同化"
+  },
+  {
+    "word": "interior",
+    "meaning": " adj. 内部的,内地的,国内的,在内的\nn. 内部"
+  },
+  {
+    "word": "intertwine",
+    "meaning": " v. 纠缠, 缠绕, 编结"
+  },
+  {
+    "word": "intervene",
+    "meaning": " vi. 插入,介入,干涉,调停\n[计算机] 介入"
+  },
+  {
+    "word": "intractable",
+    "meaning": " adj. 不听话的, 倔强的, 棘手的"
+  },
+  {
+    "word": "intricate",
+    "meaning": " adj. 复杂的,错综的,缠结的,难懂的"
+  },
+  {
+    "word": "intrigue",
+    "meaning": " n. 阴谋,复杂的事,私通\nvt. 欺骗,激起...的兴趣\nvi. 密谋"
+  },
+  {
+    "word": "intrusion",
+    "meaning": " n. 闯入, 侵扰"
+  },
+  {
+    "word": "intuitive",
+    "meaning": " [计算机] 直觉的"
+  },
+  {
+    "word": "invariably",
+    "meaning": " adv. 不变化地, 一定不变地, 常常地"
+  },
+  {
+    "word": "invertebrate",
+    "meaning": " n.\u0026amp;adj. 无脊椎的(动物)"
+  },
+  {
+    "word": "isolation",
+    "meaning": " n. 隔离, 孤立"
+  },
+  {
+    "word": "justification",
+    "meaning": " n. 辩护, 证明正当, 释罪\n[计算机] 对齐"
+  },
+  {
+    "word": "kinetics",
+    "meaning": " n. [物]动力学"
+  },
+  {
+    "word": "landmark",
+    "meaning": " n. 陆标, 划时代的事, 地界标"
+  },
+  {
+    "word": "latitude",
+    "meaning": " n. 纬度，界限,自由选择权"
+  },
+  {
+    "word": "layer",
+    "meaning": " n.层，层次； 膜； [植]压条； 放置者，计划者\nvt.把…分层堆放； 借助压条法； 生根繁殖； 将（头发）剪成不同层次\nvi.形成或分成层次； [植]通过压条法而生根"
+  },
+  {
+    "word": "lethal",
+    "meaning": " adj. 致命的,毁灭性的,有效的\nn. 基因异常,致死基因"
+  },
+  {
+    "word": "liability",
+    "meaning": " n. 责任, 可能性，债务, 不利因素"
+  },
+  {
+    "word": "likelihood",
+    "meaning": " n. 可能性"
+  },
+  {
+    "word": "lineage",
+    "meaning": " n. 家系, 血统"
+  },
+  {
+    "word": "lingual",
+    "meaning": " adj. 舌的, 舌音的, 语言的\nn. 舌音, 舌音字"
+  },
+  {
+    "word": "literally",
+    "meaning": " adv. 逐字地, 按照字面上地, 不夸张地"
+  },
+  {
+    "word": "longevity",
+    "meaning": " n. 长寿"
+  },
+  {
+    "word": "luxury",
+    "meaning": " n. 奢侈, 豪华, 奢侈品"
+  },
+  {
+    "word": "magnitude",
+    "meaning": " n.巨大，广大； 重大，重要； 量级； （地震）级数"
+  },
+  {
+    "word": "mammal",
+    "meaning": " n. 哺乳动物"
+  },
+  {
+    "word": "manifest",
+    "meaning": " n. 载货单,运货单,旅客名单\nadj. 显然的,明白的\nvt. 显示, 证实, 出示"
+  },
+  {
+    "word": "Mars",
+    "meaning": " n. 火星"
+  },
+  {
+    "word": "massive",
+    "meaning": " adj. 巨大的, 大规模的, 大量的, 大范围的"
+  },
+  {
+    "word": "mechanize",
+    "meaning": " vt. 使机械化, 用机械操作"
+  },
+  {
+    "word": "merely",
+    "meaning": " adv. 仅仅,只不过"
+  },
+  {
+    "word": "metabolism",
+    "meaning": " n. 新陈代谢"
+  },
+  {
+    "word": "metaphorical",
+    "meaning": " adj. 隐喻性的, 比喻性的"
+  },
+  {
+    "word": "metaphysical",
+    "meaning": " adj. 形而上学的，抽象的\nMetaphysical adj. (英国)玄学派诗歌或诗人的"
+  },
+  {
+    "word": "meteorite",
+    "meaning": " n. 陨石, 陨星"
+  },
+  {
+    "word": "mineral",
+    "meaning": " adj. 矿物的\nn. 矿物, 矿石"
+  },
+  {
+    "word": "minority",
+    "meaning": " n. 少数, 少数民族, 未成年"
+  },
+  {
+    "word": "misnomer",
+    "meaning": " n. 误称"
+  },
+  {
+    "word": "moisture",
+    "meaning": " n. 潮湿,湿气"
+  },
+  {
+    "word": "mold",
+    "meaning": " n. 模子,模型,类型,模式,雏型,真菌,软土\nvt. 形成,形成,制模,发霉\nvi. 符合形状,发霉"
+  },
+  {
+    "word": "molecule",
+    "meaning": " n. 分子"
+  },
+  {
+    "word": "morphology",
+    "meaning": " n. 形态学，语形论，形态论"
+  },
+  {
+    "word": "moth",
+    "meaning": " n. 蛾;飞蛾"
+  },
+  {
+    "word": "motion",
+    "meaning": " n.运动； 手势； 动机，意向； 请求\nvt.打手势； 向某人点头或摇头示意； 打手势要求[指示]\nvi.运动； 打手势"
+  },
+  {
+    "word": "multiply",
+    "meaning": " vt. 乘,增加\nvi. 扩大,繁衍,做乘法\nadv. 多样地,多重地"
+  },
+  {
+    "word": "mutually",
+    "meaning": " adv. 互相地"
+  },
+  {
+    "word": "narrative",
+    "meaning": " n. 叙述,故事\nadj. 叙述的,叙事的,故事体的"
+  },
+  {
+    "word": "neuron",
+    "meaning": " n. 神经元, 神经细胞"
+  },
+  {
+    "word": "neutron",
+    "meaning": " n. 中子"
+  },
+  {
+    "word": "nonetheless",
+    "meaning": " adv. 尽管如此(仍然)\nconj. 尽管如此(仍然)"
+  },
+  {
+    "word": "notion",
+    "meaning": " n. 观念,想法,主张"
+  },
+  {
+    "word": "notwithstanding",
+    "meaning": " adv. 虽然, 尽管\nprep. 纵使\nconj. 虽然"
+  },
+  {
+    "word": "nuclear",
+    "meaning": " adj. 原子核的,原子能的"
+  },
+  {
+    "word": "odd",
+    "meaning": " adj. 奇数的,古怪的,剩余的\n. 奇数"
+  },
+  {
+    "word": "oddly",
+    "meaning": " adv. 奇妙地,奇怪地,单数地"
+  },
+  {
+    "word": "offspring",
+    "meaning": " n. 子孙, 后代, 产物"
+  },
+  {
+    "word": "omission",
+    "meaning": " n. 省略,遗漏,疏忽"
+  },
+  {
+    "word": "orbit",
+    "meaning": " n.势力范围, 眼眶, 轨迹\nvt. 绕轨道而行, 进入轨道\nvi. 盘旋"
+  },
+  {
+    "word": "oriented",
+    "meaning": " adj. 导向的,定向的"
+  },
+  {
+    "word": "ostentatious",
+    "meaning": " adj. 装饰表面的, 浮夸的, 华美的"
+  },
+  {
+    "word": "outbreak",
+    "meaning": " n. 爆发"
+  },
+  {
+    "word": "outdate",
+    "meaning": " vt. 使过时，使落伍"
+  },
+  {
+    "word": "overcome",
+    "meaning": " vt. 战胜,克服,(感情等)压倒, 使受不了\nvi. 获胜, 赢"
+  },
+  {
+    "word": "overly",
+    "meaning": " adv. 过度地, 极度地"
+  },
+  {
+    "word": "overshadow",
+    "meaning": " v. 遮阴,使阴暗,使失色"
+  },
+  {
+    "word": "oxygen",
+    "meaning": " n. 氧,氧气"
+  },
+  {
+    "word": "painstaking",
+    "meaning": " n. 辛苦,苦心,工夫\nadj. 辛苦的,勤勉的,小心的"
+  },
+  {
+    "word": "paradigm",
+    "meaning": " n. 例子,模范,词形变化表"
+  },
+  {
+    "word": "penetrate",
+    "meaning": " vt. \u0026vi. 穿透,渗透,看穿"
+  },
+  {
+    "word": "periodic",
+    "meaning": " adj. 周期的, 定期的，间歇的，完句的"
+  },
+  {
+    "word": "peripheral",
+    "meaning": " adj. 不重要的,外围的\nn. 外围设备"
+  },
+  {
+    "word": "permanent",
+    "meaning": " adj. 永久的, 持久的\nn. (口)烫发"
+  },
+  {
+    "word": "perpetuate",
+    "meaning": " vt. 使永存,使不朽"
+  },
+  {
+    "word": "perspective",
+    "meaning": " n. 远景, 看法, 透视\nadj. 透视的"
+  },
+  {
+    "word": "pervasive",
+    "meaning": " adj. 普遍的,蔓延的,渗透的"
+  },
+  {
+    "word": "plague",
+    "meaning": " n. 瘟疫, 麻烦, 灾祸\nvt. 折磨, 烦扰, 造成麻烦"
+  },
+  {
+    "word": "plankton",
+    "meaning": " n. 浮游生物"
+  },
+  {
+    "word": "plea",
+    "meaning": " n. 请求,恳求\nv. 借口,恳求,请求"
+  },
+  {
+    "word": "plentiful",
+    "meaning": " adj. 丰富的, 多的，充裕的"
+  },
+  {
+    "word": "plot",
+    "meaning": " n. 阴谋, 情节，图, (小块)土地，\nv. 绘图, 密谋, 计划，标示位置"
+  },
+  {
+    "word": "portray",
+    "meaning": " v. 描写,描写...的肖像,逼真地描写"
+  },
+  {
+    "word": "potent",
+    "meaning": " adj. 强有力的,有效的"
+  },
+  {
+    "word": "pragmatic",
+    "meaning": " adj. 实际的, 实用主义的"
+  },
+  {
+    "word": "precipitous",
+    "meaning": " adj. 险峻的\nadj. 突然的, 急躁的"
+  },
+  {
+    "word": "precipitate",
+    "meaning": " vt. 使...陷入,促成,使...沉淀, 猛摔\nn. 沉淀物, 冷凝物\nadj. 仓促的, 迅猛的, 感情用事的"
+  },
+  {
+    "word": "preclude",
+    "meaning": " vt. 排除；妨碍；阻止"
+  },
+  {
+    "word": "prehistoric",
+    "meaning": " adj. 史前的"
+  },
+  {
+    "word": "preindustrial",
+    "meaning": " adj. 未工业化的, 工业化前的"
+  },
+  {
+    "word": "prescribe",
+    "meaning": " vi. 规定,开药方\nvt. 规定,命令,开处方"
+  },
+  {
+    "word": "pretentious",
+    "meaning": " adj. 自负的, 自命不凡的，炫耀的"
+  },
+  {
+    "word": "pretext",
+    "meaning": " n. 借口"
+  },
+  {
+    "word": "prevalent",
+    "meaning": " adj. 流行的, 普遍的"
+  },
+  {
+    "word": "prey",
+    "meaning": " n. 被掠食者,牺牲者\nvi. 捕食,掠夺,使...苦恼"
+  },
+  {
+    "word": "privilege",
+    "meaning": " n. 特权,特别恩典,基本人权,荣幸\nvt. 给特权,免除"
+  },
+  {
+    "word": "probe",
+    "meaning": " n. 探针,调查,探测器\nvt. 用探针测,详细调查\nvi. 详细调查"
+  },
+  {
+    "word": "proportion",
+    "meaning": " n. 比例,均衡,部份\nvt. 使成比例,使均衡,分摊"
+  },
+  {
+    "word": "propound",
+    "meaning": " v. 提出(问题)\nvt. 提议"
+  },
+  {
+    "word": "prospect",
+    "meaning": " n. 景色, 希望, 展望\nv. 探勘, 寻找"
+  },
+  {
+    "word": "protein",
+    "meaning": " adj. 蛋白质的\nn. 蛋白质"
+  },
+  {
+    "word": "quantitative",
+    "meaning": " adj. 数量的,定量的"
+  },
+  {
+    "word": "racial",
+    "meaning": " adj. 种族的,人种的"
+  },
+  {
+    "word": "ramification",
+    "meaning": " n. 分枝, 分叉, 衍生物, 支流"
+  },
+  {
+    "word": "receptor",
+    "meaning": " n. 受容器, 感觉器官, 摄取体"
+  },
+  {
+    "word": "recount",
+    "meaning": " vt. 详述,列举,重新计算\nn. 重新计算"
+  },
+  {
+    "word": "recur",
+    "meaning": " v. 回到, 重现, 再来"
+  },
+  {
+    "word": "redundant",
+    "meaning": " adj. 多余的,失业的"
+  },
+  {
+    "word": "reference",
+    "meaning": " n. 参考, 出处, 参照\nn. 推荐人, 推荐函\nvt. 提供参考"
+  },
+  {
+    "word": "region",
+    "meaning": " n. 地区,地域,地带,行政区"
+  },
+  {
+    "word": "reluctance",
+    "meaning": " n. 不愿, 勉强, 厌恶"
+  },
+  {
+    "word": "renaissance",
+    "meaning": " n. 文艺复兴,再生"
+  },
+  {
+    "word": "rendering",
+    "meaning": " n. 翻译, 表现, 描写"
+  },
+  {
+    "word": "repetition",
+    "meaning": " n. 重复,反复"
+  },
+  {
+    "word": "replenish",
+    "meaning": " vt. 补充,再装满\nvi. 补充"
+  },
+  {
+    "word": "replicate",
+    "meaning": " vt. \u0026vi. 折叠,复制,模写\nn. 同样的样品\nadj. 转折的"
+  },
+  {
+    "word": "represent",
+    "meaning": " vt. 表现, 表示, 描绘, 代表\nvi. 提出异议"
+  },
+  {
+    "word": "repress",
+    "meaning": " v. 抑制,压制,阻止"
+  },
+  {
+    "word": "reproduction",
+    "meaning": " n. 再现, 复制, 生殖，幼树"
+  },
+  {
+    "word": "reptile",
+    "meaning": " adj. 爬虫类的\nn. 爬行动物"
+  },
+  {
+    "word": "reputation",
+    "meaning": " n. 声誉,好名声"
+  },
+  {
+    "word": "reservation",
+    "meaning": " n. 预定，保留意见"
+  },
+  {
+    "word": "resignation",
+    "meaning": " n. 辞职,辞呈,认命"
+  },
+  {
+    "word": "retrieve",
+    "meaning": " vt. 挽回,恢复,回忆,补偿\nvi. 找回猎物\nn. 取回,恢复"
+  },
+  {
+    "word": "reverse",
+    "meaning": " n. 相反; 背面; 失败, 挫折\nadj. 反面的, 相反的, 颠倒的\nv. 颠倒, 逆转, 倒退"
+  },
+  {
+    "word": "rhythm",
+    "meaning": " n. 节奏,韵律"
+  },
+  {
+    "word": "ritual",
+    "meaning": " n. 仪式,典礼,宗教仪式,固定程序\nadj. 仪式的,依仪式而行的，老规矩的，惯常的"
+  },
+  {
+    "word": "salutary",
+    "meaning": " adj. 有益的, 有用的, 有益健康的"
+  },
+  {
+    "word": "saturated",
+    "meaning": " adj. 饱和的,渗透的,深颜色的"
+  },
+  {
+    "word": "schematize",
+    "meaning": " v. 扼要表示"
+  },
+  {
+    "word": "secrete",
+    "meaning": " v. 隐秘, 隐藏, 隐匿\nv. 分泌"
+  },
+  {
+    "word": "sectional",
+    "meaning": " adj. 各部分组成的, 各阶层或不同部分的"
+  },
+  {
+    "word": "sediment",
+    "meaning": " n. 沉淀物"
+  },
+  {
+    "word": "sentiment",
+    "meaning": " n. 感情, 情趣, 意见，观点, 多愁善感"
+  },
+  {
+    "word": "severe",
+    "meaning": " adj. 剧烈的, 严重的, 严峻的, 严厉的, 严格的"
+  },
+  {
+    "word": "sheer",
+    "meaning": " adj. 绝对的,全然的,峻峭的 \nvt. \u0026vi. 急转,躲避\nadv. 完全,全然,峻峭\nn. 转向,(甲板的)脊弧,透明薄织物"
+  },
+  {
+    "word": "shrink",
+    "meaning": " n. 收缩,萎缩\nvi. 收缩,退缩,萎缩\nvt. 使收缩"
+  },
+  {
+    "word": "silicate",
+    "meaning": " n. 硅酸盐"
+  },
+  {
+    "word": "simulation",
+    "meaning": " n. 模拟,仿真,赝品"
+  },
+  {
+    "word": "solar",
+    "meaning": " adj. 太阳的,太阳能的"
+  },
+  {
+    "word": "sophisticated",
+    "meaning": " adj. 复杂的；精致的；久经世故的；富有经验的\nv. 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）"
+  },
+  {
+    "word": "sorely",
+    "meaning": " adv. 剧烈地, 痛苦地，极度地"
+  },
+  {
+    "word": "sound",
+    "meaning": " vt. 听（诊）；测量，测…深；使发声；试探；宣告\nn. 声音，语音；噪音；海峡；吵闹；听力范围；[医] 探条\nadj. 健全的，健康的；合理的；可靠的；有效彻底的\nadv. 彻底地，充分地\nvi. 听起来；发出声音；回响；测深"
+  },
+  {
+    "word": "sovereign",
+    "meaning": " n. 元首,金镑\nadj. 具有主权的,至高无上的,极好的,完全的"
+  },
+  {
+    "word": "span",
+    "meaning": " n.共轭（马、骡）； 跨度，墩距； 一段时间； [航] 跨绳\nvt.缚住或扎牢； 跨越时间或空间； 以掌测量； 以手围绕测量类似测量"
+  },
+  {
+    "word": "spare",
+    "meaning": " adj. 多余的, 闲置的, 备用的, 简陋的\nv. 抽出，饶恕，赦免，节约\nn. 剩余, 备用品"
+  },
+  {
+    "word": "specialist",
+    "meaning": " n. 专家"
+  },
+  {
+    "word": "spectacle",
+    "meaning": " n. 值得看的东西, 光景, 眼镜"
+  },
+  {
+    "word": "speculate",
+    "meaning": " vt. 推测,好奇\nvi. 深思,投机"
+  },
+  {
+    "word": "sphere",
+    "meaning": " adj. 球体的\nn. 范围, 领域, 球, 球体"
+  },
+  {
+    "word": "spiral",
+    "meaning": " n. 旋涡, 螺旋形之物\nadj. 螺旋形的, 盘旋的\nv. 成螺旋状下降或上升, 成螺旋状旋转"
+  },
+  {
+    "word": "spontaneous",
+    "meaning": " adj. 自发的, 自然产生的"
+  },
+  {
+    "word": "sporadic",
+    "meaning": " adj. 不定时发生的, 零星的"
+  },
+  {
+    "word": "spur",
+    "meaning": " n. 马刺, 刺激, 鞭策, 支脉, (公路或铁路的)支线, \nvt. 以马刺策(马)前进, 刺激, 激励, 给(马)装马刺"
+  },
+  {
+    "word": "stationary",
+    "meaning": " adj. 不动的(稳定的)\nn. 固定物(驻军)"
+  },
+  {
+    "word": "stereotype",
+    "meaning": " n. 铅版,陈腔滥调,老一套\nvt. 使用铅版,套用老套"
+  },
+  {
+    "word": "stiffen",
+    "meaning": " v. 使...坚硬,变为浓粘,变为猛烈"
+  },
+  {
+    "word": "stringent",
+    "meaning": " adj. 严格的, (银根)紧缩的, 变紧的"
+  },
+  {
+    "word": "stronghold",
+    "meaning": " n. 要塞, 堡垒, 中心地"
+  },
+  {
+    "word": "structure",
+    "meaning": " n. 结构,构造,建筑物\nv. 构成,建立,建造"
+  },
+  {
+    "word": "subconscious",
+    "meaning": " adj. 潜意识的，下意识的\nn. 潜意识"
+  },
+  {
+    "word": "submission",
+    "meaning": " n. 服从,柔和,提交"
+  },
+  {
+    "word": "subsequent",
+    "meaning": " adj. 随后的,后来的"
+  },
+  {
+    "word": "subterranean",
+    "meaning": " adj. 地下的，隐蔽的"
+  },
+  {
+    "word": "subtle",
+    "meaning": " adj. 微妙的,敏感的,精细的,狡诈的,不明显的"
+  },
+  {
+    "word": "succession",
+    "meaning": " n. 连续, 继承权, 继位"
+  },
+  {
+    "word": "suffrage",
+    "meaning": " n. 投票, 选举权, 参政权"
+  },
+  {
+    "word": "supernova",
+    "meaning": " n. ［天］超新星"
+  },
+  {
+    "word": "superpose",
+    "meaning": " vt. 把 ... 放在上面, [数]使叠置"
+  },
+  {
+    "word": "supersede",
+    "meaning": " vt. 取代,接替,使放在一边"
+  },
+  {
+    "word": "supplement",
+    "meaning": " n. 补充物,增刊\nvt. 补充,增补"
+  },
+  {
+    "word": "support",
+    "meaning": " n. 支持, 援助, 供养\nvt. 支援, 帮助, 支持"
+  },
+  {
+    "word": "suppress",
+    "meaning": " vt. 镇压,使...止住,禁止"
+  },
+  {
+    "word": "surpass",
+    "meaning": " vt. 超越,凌驾,胜过"
+  },
+  {
+    "word": "surplus",
+    "meaning": " adj. 多余的,过剩的\nn. 过剩,剩余物,盈余,顺差"
+  },
+  {
+    "word": "susceptible",
+    "meaning": " n. 易受影响者,易受感染者\nadj. 易受影响的,易感动的,容许"
+  },
+  {
+    "word": "symbiotic",
+    "meaning": " adj. 共栖的, 共生的"
+  },
+  {
+    "word": "synonym",
+    "meaning": " n. 同义词,换喻词"
+  },
+  {
+    "word": "synthesize",
+    "meaning": " v. 合成"
+  },
+  {
+    "word": "tangential",
+    "meaning": " adj.\u003c正\u003e间接相关的； 次要的； 外围的； 略为触及题目的"
+  },
+  {
+    "word": "tendency",
+    "meaning": " n. 趋势,倾向"
+  },
+  {
+    "word": "tender",
+    "meaning": " adj. 温和的, 亲切的, 未成熟的\nvt. 提供, 投标"
+  },
+  {
+    "word": "terrestrial",
+    "meaning": " adj. 地球的；陆地的，[生物] 陆生的；人间的\nn. 陆地生物；地球上的人"
+  },
+  {
+    "word": "theme",
+    "meaning": " n. 题目, 主题"
+  },
+  {
+    "word": "thrive",
+    "meaning": " vi. 兴旺,繁荣"
+  },
+  {
+    "word": "traceable",
+    "meaning": " adj. 可追踪的，起源于"
+  },
+  {
+    "word": "transient",
+    "meaning": " adj. 短暂的\nn. 短期居留者,瞬间的变化"
+  },
+  {
+    "word": "transplant",
+    "meaning": " vt. 移居, 移栽(植物), 移植(器官)\nvi. 能经得住移植\nn. 移植, 被移植的事物"
+  },
+  {
+    "word": "treacherous",
+    "meaning": " adj. 背信弃义的，叛逆的, 不可靠的, 危险的"
+  },
+  {
+    "word": "trial",
+    "meaning": " n.试验； [法]审讯，审判； 磨难，困难； [体]选拔赛\nadj.试验的； [法]审讯的"
+  },
+  {
+    "word": "trivial",
+    "meaning": " adj. 琐碎的, 不重要的"
+  },
+  {
+    "word": "twist",
+    "meaning": " n. 卷曲物,旋转,扭曲,曲解,转折(体)\nvt. 拧,缠绕,扭(曲)\nvi. 蛇行,变形,转"
+  },
+  {
+    "word": "undergo",
+    "meaning": " vt. 遭受,经历,忍受"
+  },
+  {
+    "word": "underlying",
+    "meaning": " adj. 在下面的, 基本的, 隐含的"
+  },
+  {
+    "word": "unforeseen",
+    "meaning": " adj. 无法预料的"
+  },
+  {
+    "word": "unionism",
+    "meaning": " n. 工会主义，联合主义，联邦主义"
+  },
+  {
+    "word": "untangle",
+    "meaning": " vt. 解开纠结, 解开, 排解"
+  },
+  {
+    "word": "unwarranted",
+    "meaning": " adj. 无根据的，未经授权的，无保证的"
+  },
+  {
+    "word": "urge",
+    "meaning": " n. 冲动\nvt. 驱策,鼓励,力陈,催促\nvi. 极力主张"
+  },
+  {
+    "word": "utilitarian",
+    "meaning": " adj. 功利的, 实用的"
+  },
+  {
+    "word": "utopian",
+    "meaning": " adj. 乌托邦式的, 梦想的\nn. 空想家"
+  },
+  {
+    "word": "velocity",
+    "meaning": " n. 速度, 速率, 迅速"
+  },
+  {
+    "word": "veteran",
+    "meaning": " adj. 老练的\nn. 老兵, 老手"
+  },
+  {
+    "word": "viable",
+    "meaning": " adj. 能生存的,可行的,能居住的的"
+  },
+  {
+    "word": "vicinity",
+    "meaning": " n. 邻近,周边地区"
+  },
+  {
+    "word": "vigilant",
+    "meaning": " adj. 警醒的, 警戒著的, 警惕的"
+  },
+  {
+    "word": "virtually",
+    "meaning": " adv. 几乎,实际上"
+  },
+  {
+    "word": "virtue",
+    "meaning": " n. 美德,优点;贞操"
+  },
+  {
+    "word": "visual",
+    "meaning": " adj. 视觉的 n. 画面, 图象"
+  },
+  {
+    "word": "vital",
+    "meaning": " adj. 至关重要的, 生死攸关的, 有活力的, 充满生机的"
+  },
+  {
+    "word": "volcanic",
+    "meaning": " adj. 火山的，猛烈的"
+  },
+  {
+    "word": "vulnerable",
+    "meaning": " adj. 易受伤害的, 有弱点的"
+  },
+  {
+    "word": "wistful",
+    "meaning": " adj. 渴望的, 忧思的"
+  },
+  {
+    "word": "withhold",
+    "meaning": " vt. \u0026vi. 扣留,保留,抑制"
+  },
+  {
+    "word": "without",
+    "meaning": " adv.在外部； 户外； 缺少； 没有或不显示某事物\nprep.没有，缺乏； 在外面\nconj.除非，如果不"
+  },
+  {
+    "word": "withstand",
+    "meaning": " vt. 对抗,经得起,承受"
+  },
+  {
+    "word": "wretched",
+    "meaning": " adj. 可怜的, 不幸的, 卑鄙的，质量差的，恶劣的"
+  },
+  {
+    "word": "wrinkle",
+    "meaning": " n. 皱纹\nv. (使)起皱纹\nvi. (使)起皱纹,皱眉\nvt. 使起皱纹"
+  },
+  {
+    "word": "zoologist",
+    "meaning": " n. 动物学家"
+  }
+]

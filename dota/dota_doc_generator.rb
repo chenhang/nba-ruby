@@ -9,7 +9,7 @@ template_for_single_callback =
             data, _ := json.Marshal(m)
             fmt.Println(string(data))
             fmt.Println(\",\")
-            {{callback_name}}First = false
+            {{callback_name}}First = true
         }
         return nil
     })"
@@ -39,5 +39,5 @@ def generate_doc_function template
   end
 end
 
-# generate_doc_function template_for_single_callback
-generate_doc_function template_for_all
+generate_doc_function template_for_single_callback
+# generate_doc_function template_for_all

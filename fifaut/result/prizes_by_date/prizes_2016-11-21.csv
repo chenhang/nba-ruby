@@ -1,0 +1,1201 @@
+id,name,club,nation,league,skills,weak foot,foot ,height ,weight ,revision,def. workrate,att. workrate,added on,origin,age,rating,position,prize,yesterday changes,today changes
+15157,Coleman, Everton, Republic of Ireland, Premier League,3 ,3 ,Right ,"177cm | 5'9"" ",77 ,IF,High,High,2016-10-12,TOTW4 ,28,84,RB,56000,8%,-5%
+25,De Gea, Manchester Utd, Spain, Premier League,1 ,3 ,Right ,"193cm | 6'3"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,26,90,GK,94500,-2%,-8%
+168,Rooney, Manchester Utd, England, Premier League,3 ,4 ,Right ,"176cm | 5'9"" ",83 ,Normal,High,Med,2016-09-21,N\A ,31,84,CAM,16500,0%,-8%
+189,Ramsey, Arsenal, Wales, Premier League,3 ,3 ,Right ,"177cm | 5'9"" ",70 ,Normal,High,High,2016-09-21,N\A ,25,84,CM,3300,11%,4%
+190,Thiago, FC Bayern, Spain, Bundesliga,5 ,3 ,Right ,"174cm | 5'8"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,25,84,CM,3400,9%,-2%
+185,Höwedes, FC Schalke 04, Germany, Bundesliga,2 ,3 ,Right ,"187cm | 6'1"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,28,84,CB,1200,14%,-12%
+202,Xhaka, Arsenal, Switzerland, Premier League,3 ,4 ,Left ,"185cm | 6'0"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,24,84,CM,1900,1%,8%
+195,Matic, Chelsea, Serbia, Premier League,3 ,3 ,Left ,"194cm | 6'4"" ",84 ,Normal,High,Med,2016-09-21,N\A ,28,84,CDM,7000,-18%,8%
+191,Smalling, Manchester Utd, England, Premier League,2 ,3 ,Right ,"192cm | 6'3"" ",90 ,Normal,High,Med,2016-09-21,N\A ,26,84,CB,11750,4%,-10%
+178,Javi Martinez, FC Bayern, Spain, Bundesliga,2 ,3 ,Right ,"190cm | 6'2"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,28,84,CB,2600,58%,3%
+234,Cahill, Chelsea, England, Premier League,2 ,3 ,Right ,"193cm | 6'3"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,30,83,CB,950,-55%,-1%
+253,Musacchio, Villarreal CF, Argentina, LaLiga Santander ,2 ,3 ,Right ,"182cm | 5'11"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,26,83,CB,750,-3%,0%
+223,Sneijder, Galatasaray SK, Netherlands, Süper Lig,3 ,5 ,Right ,"170cm | 5'6"" ",72 ,Normal,Low,Med,2016-09-21,N\A ,32,83,CAM,800,3%,-4%
+254,Oscar, Chelsea, Brazil, Premier League,4 ,3 ,Right ,"179cm | 5'10"" ",67 ,Normal,High,Med,2016-09-21,N\A ,25,83,CAM,950,-48%,7%
+214,Quaresma, Beşiktaş JK, Portugal, Süper Lig,5 ,4 ,Right ,"175cm | 5'8"" ",67 ,Normal,Med,High,2016-09-21,N\A ,33,83,RM,2400,26%,-6%
+268,Nolito, Manchester City, Spain, Premier League,4 ,3 ,Right ,"175cm | 5'8"" ",72 ,Normal,Low,High,2016-09-21,N\A ,30,83,LW,950,-3%,5%
+271,Carvajal, Real Madrid, Spain, LaLiga Santander ,2 ,3 ,Right ,"173cm | 5'8"" ",73 ,Normal,Med,High,2016-09-21,N\A ,24,83,RB,1500,7%,5%
+244,Giroud, Arsenal, France, Premier League,2 ,3 ,Left ,"192cm | 6'3"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,30,83,ST,1300,0%,0%
+251,Giovinco, Toronto FC, Italy, MLS,4 ,4 ,Right ,"164cm | 5'4"" ",59 ,Normal,Med,High,2016-09-21,N\A ,29,83,CF,1300,-25%,-3%
+274,Slimani, Leicester City, Algeria, Premier League,2 ,3 ,Right ,"188cm | 6'2"" ",84 ,Normal,High,High,2016-09-21,N\A ,28,83,ST,1800,-18%,-3%
+255,Trapp, PSG, Germany, Ligue 1,1 ,4 ,Right ,"189cm | 6'2"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,26,83,GK,750,1%,12%
+273,Giménez, Atlético Madrid, Uruguay, LaLiga Santander ,2 ,3 ,Right ,"185cm | 6'0"" ",80 ,Normal,High,Med,2016-09-21,N\A ,21,83,CB,950,2%,1%
+231,Baines, Everton, England, Premier League,3 ,3 ,Left ,"170cm | 5'6"" ",70 ,Normal,Med,High,2016-09-21,N\A ,31,83,LB,2900,13%,13%
+240,Gameiro, Atlético Madrid, France, LaLiga Santander ,3 ,3 ,Right ,"173cm | 5'8"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,29,83,ST,950,3%,6%
+315,Karnezis, Udinese, Greece, Calcio A,1 ,3 ,Right ,"190cm | 6'2"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,31,82,GK,750,0%,0%
+341,Florenzi, Roma, Italy, Calcio A,3 ,3 ,Right ,"173cm | 5'8"" ",67 ,Normal,Med,High,2016-09-21,N\A ,25,82,RB,3000,13%,4%
+280,Jagielka, Everton, England, Premier League,2 ,3 ,Right ,"183cm | 6'0"" ",83 ,Normal,High,Med,2016-09-21,N\A ,34,82,CB,750,0%,0%
+300,Sirigu, Sevilla FC, Italy, LaLiga Santander ,1 ,2 ,Right ,"192cm | 6'3"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,29,82,GK,750,-6%,-3%
+319,N'Zonzi, Sevilla FC, France, LaLiga Santander ,3 ,3 ,Right ,"190cm | 6'2"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,27,82,CDM,750,0%,7%
+336,Morata, Real Madrid, Spain, LaLiga Santander ,3 ,4 ,Right ,"189cm | 6'2"" ",85 ,Normal,Med,High,2016-09-21,N\A ,24,82,ST,1400,0%,1%
+337,Icardi, Inter, Argentina, Calcio A,2 ,4 ,Right ,"181cm | 5'11"" ",75 ,Normal,Low,Med,2016-09-21,N\A ,23,82,ST,750,2%,-1%
+291,Costil, Stade Rennais, France, Ligue 1,1 ,3 ,Right ,"188cm | 6'2"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,29,82,GK,750,1%,0%
+277,Pirlo, NY City FC, Italy, MLS,2 ,4 ,Right ,"177cm | 5'9"" ",68 ,Normal,Low,Low,2016-09-21,N\A ,37,82,CM,850,1%,7%
+297,Škrtel, Fenerbahçe SK, Slovakia, Süper Lig,2 ,2 ,Right ,"191cm | 6'3"" ",81 ,Normal,High,Med,2016-09-21,N\A ,31,82,CB,2000,20%,-6%
+348,Vardy, Leicester City, England, Premier League,3 ,3 ,Right ,"178cm | 5'10"" ",73 ,Normal,High,High,2016-09-21,N\A ,29,82,ST,27000,0%,-10%
+279,Evra, Juventus, France, Calcio A,3 ,2 ,Left ,"174cm | 5'8"" ",74 ,Normal,High,Med,2016-09-21,N\A ,35,82,LB,900,16%,-11%
+287,Gabi, Atlético Madrid, Spain, LaLiga Santander ,2 ,3 ,Right ,"180cm | 5'10"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,33,82,CM,900,17%,-1%
+353,Bailly, Manchester Utd, Ivory Coast, Premier League,2 ,3 ,Right ,"187cm | 6'1"" ",77 ,Normal,Med,High,2016-09-21,N\A ,22,82,CB,10750,0%,-1%
+286,Raffael, Bor. M'gladbach, Brazil, Bundesliga,4 ,4 ,Right ,"174cm | 5'8"" ",69 ,Normal,Med,High,2016-09-21,N\A ,31,82,CF,800,0%,0%
+284,Marchetti, Lazio, Italy, Calcio A,1 ,3 ,Left ,"188cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,33,82,GK,750,0%,0%
+295,Sagna, Manchester City, France, Premier League,3 ,4 ,Right ,"176cm | 5'9"" ",72 ,Normal,Med,High,2016-09-21,N\A ,33,82,RB,1700,-12%,0%
+302,Guardado, PSV, Mexico, Eredivisie,3 ,2 ,Left ,"169cm | 5'6"" ",67 ,Normal,High,High,2016-09-21,N\A ,30,82,CM,750,0%,0%
+351,Rulli, Real Sociedad, Argentina, LaLiga Santander ,1 ,3 ,Right ,"189cm | 6'2"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,24,82,GK,800,-2%,-2%
+329,de Vrij, Lazio, Netherlands, Calcio A,2 ,4 ,Right ,"189cm | 6'2"" ",78 ,Normal,High,Med,2016-09-21,N\A ,24,82,CB,750,0%,0%
+333,Danilo Pereira, FC Porto, Portugal, LIGA NOS,2 ,3 ,Right ,"188cm | 6'2"" ",83 ,Normal,High,Med,2016-09-21,N\A ,25,82,CDM,750,0%,0%
+332,Horn, 1. FC Köln, Germany, Bundesliga,1 ,4 ,Left ,"192cm | 6'3"" ",90 ,Normal,Med,Med,2016-09-21,N\A ,23,82,GK,750,0%,0%
+448,Barkley, Everton, England, Premier League,3 ,5 ,Right ,"189cm | 6'2"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,22,81,CAM,800,-3%,0%
+386,Walcott, Arsenal, England, Premier League,3 ,3 ,Right ,"176cm | 5'9"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,27,81,LM,1900,0%,-2%
+411,José Callejón, Napoli, Spain, Calcio A,3 ,2 ,Right ,"178cm | 5'10"" ",73 ,Normal,High,High,2016-09-21,N\A ,29,81,RW,1100,16%,2%
+450,André André, FC Porto, Portugal, LIGA NOS,3 ,4 ,Right ,"174cm | 5'8"" ",65 ,Normal,High,High,2016-09-21,N\A ,27,81,CM,700,0%,0%
+455,Volland, Bayer 04, Germany, Bundesliga,3 ,3 ,Left ,"179cm | 5'10"" ",75 ,Normal,High,High,2016-09-21,N\A ,24,81,ST,800,12%,-3%
+463,Promes, Spartak Moskva, Netherlands, Russian League,4 ,4 ,Right ,"174cm | 5'8"" ",70 ,Normal,Low,High,2016-09-21,N\A ,24,81,RM,800,11%,2%
+418,Ganso, Sevilla FC, Brazil, LaLiga Santander ,4 ,3 ,Left ,"184cm | 6'0"" ",78 ,Normal,Low,Med,2016-09-21,N\A ,27,81,CAM,700,-3%,0%
+427,Coquelin, Arsenal, France, Premier League,3 ,3 ,Right ,"178cm | 5'10"" ",74 ,Normal,High,Med,2016-09-21,N\A ,25,81,CDM,850,-7%,5%
+375,Fernandinho, Manchester City, Brazil, Premier League,3 ,4 ,Right ,"176cm | 5'9"" ",67 ,Normal,High,Med,2016-09-21,N\A ,31,81,CM,4200,-1%,-3%
+401,Trémoulinas, Sevilla FC, France, LaLiga Santander ,2 ,3 ,Left ,"172cm | 5'7"" ",65 ,Normal,Med,High,2016-09-21,N\A ,30,81,LB,1100,19%,-12%
+447,Bakambu, Villarreal CF, DR Congo, LaLiga Santander ,3 ,4 ,Right ,"182cm | 5'11"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,25,81,ST,950,-17%,-3%
+394,Astori, Fiorentina, Italy, Calcio A,2 ,3 ,Left ,"188cm | 6'2"" ",80 ,Normal,High,Low,2016-09-21,N\A ,29,81,CB,700,2%,10%
+465,Bruno Peres, Roma, Brazil, Calcio A,3 ,3 ,Right ,"178cm | 5'10"" ",72 ,Normal,Med,High,2016-09-21,N\A ,26,81,RWB,2200,14%,-4%
+441,Víctor Ruíz, Villarreal CF, Spain, LaLiga Santander ,2 ,2 ,Left ,"185cm | 6'0"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,27,81,CB,700,-1%,-8%
+407,Jovetic, Inter, Montenegro, Calcio A,4 ,4 ,Right ,"183cm | 6'0"" ",79 ,Normal,Med,High,2016-09-21,N\A ,27,81,ST,800,11%,1%
+431,De Marcos, Athletic Bilbao, Spain, LaLiga Santander ,3 ,3 ,Right ,"180cm | 5'10"" ",76 ,Normal,Med,High,2016-09-21,N\A ,27,81,RB,1200,7%,25%
+469,Kanté, Chelsea, France, Premier League,3 ,3 ,Right ,"169cm | 5'6"" ",69 ,Normal,High,Med,2016-09-21,N\A ,25,81,CM,21000,-4%,-14%
+409,Parolo, Lazio, Italy, Calcio A,3 ,4 ,Right ,"184cm | 6'0"" ",75 ,Normal,Med,High,2016-09-21,N\A ,31,81,CM,1300,2%,8%
+459,Batshuayi, Chelsea, Belgium, Premier League,3 ,4 ,Right ,"185cm | 6'0"" ",78 ,Normal,Low,Med,2016-09-21,N\A ,23,81,ST,800,-62%,0%
+388,Cabaye, Crystal Palace, France, Premier League,3 ,4 ,Right ,"174cm | 5'8"" ",71 ,Normal,Med,Med,2016-09-21,N\A ,30,81,CDM,700,-2%,1%
+420,Camacho, Málaga CF, Spain, LaLiga Santander ,2 ,3 ,Right ,"182cm | 5'11"" ",75 ,Normal,High,Med,2016-09-21,N\A ,26,81,CDM,700,0%,0%
+449,Lucas Pérez, Arsenal, Spain, Premier League,4 ,3 ,Left ,"180cm | 5'10"" ",78 ,Normal,Med,High,2016-09-21,N\A ,28,81,ST,800,-7%,-1%
+457,Deulofeu, Everton, Spain, Premier League,4 ,4 ,Right ,"179cm | 5'10"" ",73 ,Normal,Low,High,2016-09-21,N\A ,22,81,RM,900,-7%,12%
+369,Fernando Torres, Atlético Madrid, Spain, LaLiga Santander ,3 ,4 ,Right ,"186cm | 6'1"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,32,81,ST,800,3%,3%
+472,Marco Asensio, Real Madrid, Spain, LaLiga Santander ,3 ,3 ,Left ,"178cm | 5'10"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,20,81,CAM,950,17%,5%
+426,Daniel Carriço, Sevilla FC, Portugal, LaLiga Santander ,2 ,3 ,Right ,"180cm | 5'10"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,28,81,CB,700,-11%,1%
+421,McCarthy, Everton, Republic of Ireland, Premier League,3 ,4 ,Right ,"180cm | 5'10"" ",72 ,Normal,High,Med,2016-09-21,N\A ,26,81,CDM,700,0%,0%
+419,Dzagoev, CSKA Moskva, Russia, Russian League,3 ,3 ,Right ,"179cm | 5'10"" ",75 ,Normal,High,High,2016-09-21,N\A ,26,81,CM,700,1%,0%
+378,Mirante, Bologna, Italy, Calcio A,1 ,2 ,Right ,"193cm | 6'3"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,33,81,GK,700,0%,-5%
+362,Tiago, Atlético Madrid, Portugal, LaLiga Santander ,4 ,3 ,Right ,"183cm | 6'0"" ",71 ,Normal,Med,Med,2016-09-21,N\A ,35,81,CM,850,4%,6%
+403,Sergio Asenjo, Villarreal CF, Spain, LaLiga Santander ,1 ,3 ,Right ,"189cm | 6'2"" ",87 ,Normal,Med,Med,2016-09-21,N\A ,27,81,GK,700,0%,0%
+479,Rose, Spurs, England, Premier League,3 ,3 ,Left ,"173cm | 5'8"" ",72 ,Normal,Med,High,2016-09-21,N\A ,26,80,LB,1400,-4%,8%
+554,Murillo, Inter, Colombia, Calcio A,2 ,2 ,Right ,"182cm | 5'11"" ",78 ,Normal,High,Med,2016-09-21,N\A ,24,80,CB,700,7%,0%
+14672,Sorrentino, Chievo Verona, Italy, Calcio A,1 ,3 ,Right ,"186cm | 6'1"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,37,80,GK,700,0%,-2%
+579,Rode, Bor. Dortmund, Germany, Bundesliga,3 ,3 ,Right ,"179cm | 5'10"" ",75 ,Normal,High,High,2016-09-21,N\A ,26,80,CDM,750,17%,0%
+14698,Guilavogui, VfL Wolfsburg, France, Bundesliga,2 ,3 ,Right ,"187cm | 6'1"" ",77 ,Normal,High,Med,2016-09-21,N\A ,26,80,CDM,750,5%,0%
+539,Perotti, Roma, Argentina, Calcio A,4 ,5 ,Right ,"179cm | 5'10"" ",70 ,Normal,High,Med,2016-09-21,N\A ,28,80,CF,700,0%,0%
+14695,Kampl, Bayer 04, Slovenia, Bundesliga,4 ,4 ,Right ,"178cm | 5'10"" ",65 ,Normal,High,High,2016-09-21,N\A ,26,80,CM,900,-10%,-2%
+545,Gibbs, Arsenal, England, Premier League,3 ,2 ,Left ,"178cm | 5'10"" ",70 ,Normal,Med,High,2016-09-21,N\A ,27,80,LB,950,-5%,25%
+495,Clichy, Manchester City, France, Premier League,2 ,4 ,Left ,"176cm | 5'9"" ",65 ,Normal,Med,Med,2016-09-21,N\A ,31,80,LB,1200,-2%,8%
+14677,Kolodziejczak, Sevilla FC, France, LaLiga Santander ,2 ,2 ,Left ,"185cm | 6'0"" ",75 ,Normal,Med,High,2016-09-21,N\A ,25,80,CB,750,0%,-3%
+549,Noboa, FC Rostov, Ecuador, Russian League,2 ,3 ,Right ,"183cm | 6'0"" ",75 ,Normal,High,High,2016-09-21,N\A ,31,80,CM,700,2%,0%
+562,Zouma, Chelsea, France, Premier League,2 ,3 ,Right ,"190cm | 6'2"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,22,80,CB,1900,-14%,-12%
+14692,Adrián, West Ham, Spain, Premier League,1 ,2 ,Right ,"188cm | 6'2"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,29,80,GK,700,0%,0%
+553,Saponara, Empoli, Italy, Calcio A,4 ,4 ,Right ,"184cm | 6'0"" ",73 ,Normal,Med,High,2016-09-21,N\A ,24,80,CAM,700,0%,0%
+548,Asamoah, Juventus, Ghana, Calcio A,4 ,3 ,Left ,"173cm | 5'8"" ",76 ,Normal,High,High,2016-09-21,N\A ,27,80,CM,1700,10%,1%
+565,Shaw, Manchester Utd, England, Premier League,2 ,2 ,Left ,"185cm | 6'0"" ",75 ,Normal,Med,High,2016-09-21,N\A ,21,80,LB,2600,6%,9%
+14691,Neto, Juventus, Brazil, Calcio A,1 ,2 ,Right ,"192cm | 6'3"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,27,80,GK,700,0%,-1%
+609,Williams, Athletic Bilbao, Spain, LaLiga Santander ,4 ,3 ,Right ,"186cm | 6'1"" ",77 ,Normal,High,High,2016-09-21,N\A ,22,80,RW,3100,7%,-1%
+499,Manuel Fernandes, Lokomotiv, Portugal, Russian League,4 ,4 ,Right ,"175cm | 5'8"" ",69 ,Normal,Med,Med,2016-09-21,N\A ,30,80,CAM,700,0%,0%
+14687,Baumann, 1899 Hoffenheim, Germany, Bundesliga,1 ,3 ,Right ,"187cm | 6'1"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,26,80,GK,750,-4%,-4%
+14680,Mangala, Valencia CF, France, LaLiga Santander ,2 ,4 ,Left ,"187cm | 6'1"" ",84 ,Normal,High,Med,2016-09-21,N\A ,25,80,CB,750,-2%,-5%
+606,Gayà, Valencia CF, Spain, LaLiga Santander ,2 ,3 ,Left ,"172cm | 5'7"" ",64 ,Normal,Med,High,2016-09-21,N\A ,21,80,LB,1100,39%,-3%
+14694,Bruma, VfL Wolfsburg, Netherlands, Bundesliga,2 ,3 ,Right ,"189cm | 6'2"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,25,80,CB,700,9%,-3%
+14676,Topal, Fenerbahçe SK, Turkey, Süper Lig,2 ,4 ,Right ,"187cm | 6'1"" ",82 ,Normal,High,Med,2016-09-21,N\A ,30,80,CDM,1400,21%,-7%
+522,Eder, Inter, Italy, Calcio A,3 ,4 ,Right ,"179cm | 5'10"" ",74 ,Normal,Med,High,2016-09-21,N\A ,30,80,ST,800,5%,-1%
+14675,Inan, Galatasaray SK, Turkey, Süper Lig,3 ,4 ,Right ,"182cm | 5'11"" ",74 ,Normal,High,Med,2016-09-21,N\A ,31,80,CM,750,2%,-6%
+723,Zaha, Crystal Palace, England, Premier League,4 ,3 ,Right ,"180cm | 5'10"" ",66 ,Normal,Low,Med,2016-09-21,N\A ,24,79,RM,700,0%,0%
+758,Višca, Başakşehir, Bosnia Herzegovina, Süper Lig,3 ,4 ,Right ,"172cm | 5'7"" ",63 ,Normal,Med,Med,2016-09-21,N\A ,26,79,RM,1600,34%,0%
+670,Wernbloom, CSKA Moskva, Sweden, Russian League,2 ,2 ,Right ,"187cm | 6'1"" ",85 ,Normal,High,Med,2016-09-21,N\A ,30,79,CDM,700,1%,2%
+711,Badstuber, FC Bayern, Germany, Bundesliga,2 ,3 ,Left ,"190cm | 6'2"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,27,79,CB,2500,56%,-1%
+782,Tah, Bayer 04, Germany, Bundesliga,2 ,4 ,Right ,"194cm | 6'4"" ",98 ,Normal,Med,Med,2016-09-21,N\A ,20,79,CB,800,14%,-7%
+790,Sané, Manchester City, Germany, Premier League,3 ,3 ,Left ,"183cm | 6'0"" ",75 ,Normal,Med,High,2016-09-21,N\A ,20,79,RM,1100,4%,4%
+698,Lanzini, West Ham, Argentina, Premier League,4 ,3 ,Right ,"170cm | 5'6"" ",66 ,Normal,Med,Med,2016-09-21,N\A ,23,79,CAM,700,0%,1%
+775,João Cancelo, Valencia CF, Portugal, LaLiga Santander ,3 ,3 ,Right ,"182cm | 5'11"" ",72 ,Normal,Med,High,2016-09-21,N\A ,22,79,RB,850,-19%,21%
+778,Rugani, Juventus, Italy, Calcio A,2 ,3 ,Right ,"190cm | 6'2"" ",82 ,Normal,Med,Low,2016-09-21,N\A ,22,79,CB,700,0%,0%
+783,Correa, Atlético Madrid, Argentina, LaLiga Santander ,4 ,4 ,Right ,"174cm | 5'8"" ",70 ,Normal,Low,Med,2016-09-21,N\A ,21,79,ST,800,1%,4%
+690,Montero, Swansea City, Ecuador, Premier League,4 ,4 ,Right ,"169cm | 5'6"" ",64 ,Normal,High,High,2016-09-21,N\A ,27,79,LM,700,0%,0%
+681,Gradel, Bournemouth, Ivory Coast, Premier League,4 ,3 ,Right ,"175cm | 5'8"" ",69 ,Normal,Med,Med,2016-09-21,N\A ,28,79,LW,700,12%,5%
+634,Young, Manchester Utd, England, Premier League,4 ,3 ,Right ,"175cm | 5'8"" ",65 ,Normal,High,High,2016-09-21,N\A ,31,79,LM,700,0%,0%
+757,Bernard, FC Shakhtar, Brazil, Ukrayina Liha,4 ,4 ,Right ,"164cm | 5'4"" ",57 ,Normal,Med,High,2016-09-21,N\A ,24,79,CAM,700,0%,0%
+750,Brooks, Hertha BSC, United States, Bundesliga,2 ,3 ,Left ,"193cm | 6'3"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,23,79,CB,750,2%,5%
+767,Mané, Liverpool, Senegal, Premier League,4 ,3 ,Right ,"175cm | 5'8"" ",75 ,Normal,Med,High,2016-09-21,N\A ,24,79,RM,2200,33%,16%
+771,Goretzka, FC Schalke 04, Germany, Bundesliga,3 ,4 ,Right ,"189cm | 6'2"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,21,79,CM,1300,7%,6%
+715,Montoya, Valencia CF, Spain, LaLiga Santander ,2 ,4 ,Right ,"174cm | 5'8"" ",72 ,Normal,Med,High,2016-09-21,N\A ,25,79,RB,750,-10%,-8%
+753,Bernat, FC Bayern, Spain, Bundesliga,3 ,3 ,Left ,"170cm | 5'6"" ",67 ,Normal,Med,High,2016-09-21,N\A ,23,79,LB,2400,72%,5%
+683,Fernando, Manchester City, Brazil, Premier League,2 ,2 ,Right ,"185cm | 6'0"" ",76 ,Normal,High,Med,2016-09-21,N\A ,29,79,CDM,700,0%,0%
+666,Fernández, Milan, Chile, Calcio A,5 ,4 ,Right ,"178cm | 5'10"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,30,79,CAM,700,0%,2%
+615,Maxwell, PSG, Brazil, Ligue 1,3 ,2 ,Left ,"176cm | 5'9"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,35,79,LB,900,15%,18%
+766,Samaris, SL Benfica, Greece, LIGA NOS,3 ,3 ,Right ,"189cm | 6'2"" ",80 ,Normal,High,Med,2016-09-21,N\A ,27,79,CDM,700,0%,0%
+747,Joãozinho, FC Krasnodar, Brazil, Russian League,4 ,2 ,Left ,"166cm | 5'5"" ",61 ,Normal,Med,High,2016-09-21,N\A ,27,79,LM,700,4%,-3%
+616,Tošic, CSKA Moskva, Serbia, Russian League,4 ,3 ,Left ,"171cm | 5'7"" ",71 ,Normal,Med,High,2016-09-21,N\A ,29,79,RM,700,0%,0%
+764,Kovacic, Real Madrid, Croatia, LaLiga Santander ,4 ,4 ,Right ,"178cm | 5'10"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,22,79,CM,1100,4%,27%
+643,Ménez, Bordeaux, France, Ligue 1,4 ,4 ,Right ,"181cm | 5'11"" ",78 ,Normal,Low,Med,2016-09-21,N\A ,29,79,ST,700,1%,-2%
+650,Radu, Lazio, Romania, Calcio A,2 ,3 ,Left ,"183cm | 6'0"" ",79 ,Normal,High,Med,2016-09-21,N\A ,30,79,LB,700,5%,0%
+966,Musa, Leicester City, Nigeria, Premier League,4 ,3 ,Right ,"176cm | 5'9"" ",65 ,Normal,High,High,2016-09-21,N\A ,24,78,ST,1800,11%,1%
+881,Carroll, West Ham, England, Premier League,2 ,3 ,Left ,"191cm | 6'3"" ",79 ,Normal,High,Med,2016-09-21,N\A ,27,78,ST,700,0%,0%
+953,Aboubakar, Beşiktaş JK, Cameroon, Süper Lig,4 ,3 ,Right ,"184cm | 6'0"" ",82 ,Normal,Med,High,2016-09-21,N\A ,24,78,ST,700,0%,0%
+973,Stones, Manchester City, England, Premier League,2 ,3 ,Right ,"188cm | 6'2"" ",75 ,Normal,Med,High,2016-09-21,N\A ,22,78,CB,700,2%,0%
+900,El Kaddouri, Napoli, Morocco, Calcio A,3 ,4 ,Right ,"185cm | 6'0"" ",74 ,Normal,Med,High,2016-09-21,N\A ,26,78,CM,700,1%,-2%
+843,Mikel, Chelsea, Nigeria, Premier League,2 ,3 ,Right ,"188cm | 6'2"" ",83 ,Normal,High,Med,2016-09-21,N\A ,29,78,CDM,700,-32%,0%
+897,Diouf, Stoke City, Senegal, Premier League,3 ,3 ,Right ,"185cm | 6'0"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,28,78,ST,700,0%,0%
+859,Tioté, Newcastle Utd, Ivory Coast, EFL Championship,2 ,3 ,Right ,"180cm | 5'10"" ",86 ,Normal,High,Med,2016-09-21,N\A ,30,78,CDM,700,0%,0%
+835,Montolivo, Milan, Italy, Calcio A,3 ,4 ,Right ,"181cm | 5'11"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,31,78,CDM,700,0%,2%
+1011,Nkoudou, Spurs, France, Premier League,3 ,3 ,Right ,"172cm | 5'7"" ",68 ,Normal,Low,High,2016-09-21,N\A ,21,78,LM,700,-5%,1%
+977,Mário Rui, Roma, Portugal, Calcio A,2 ,3 ,Left ,"170cm | 5'6"" ",63 ,Normal,Med,High,2016-09-21,N\A ,25,78,LB,750,6%,0%
+825,Lennon, Everton, England, Premier League,3 ,3 ,Right ,"165cm | 5'4"" ",63 ,Normal,Med,High,2016-09-21,N\A ,29,78,RM,700,0%,0%
+1095,Dyer, Swansea City, England, Premier League,4 ,3 ,Right ,"167cm | 5'5"" ",62 ,Normal,High,High,2016-09-21,N\A ,28,77,RM,700,0%,0%
+1276,Vangioni, Milan, Argentina, Calcio A,3 ,2 ,Left ,"181cm | 5'11"" ",77 ,Normal,Med,High,2016-09-21,N\A ,29,77,LB,700,14%,-3%
+1082,Long, Southampton, Republic of Ireland, Premier League,3 ,3 ,Right ,"180cm | 5'10"" ",81 ,Normal,High,High,2016-09-21,N\A ,29,77,ST,700,0%,0%
+1056,Zárate, Fiorentina, Argentina, Calcio A,4 ,4 ,Right ,"176cm | 5'9"" ",76 ,Normal,Low,Med,2016-09-21,N\A ,29,77,ST,700,0%,0%
+1305,Dembélé, Bor. Dortmund, France, Bundesliga,4 ,5 ,Left ,"178cm | 5'10"" ",67 ,Normal,Med,High,2016-09-21,N\A ,19,77,RM,850,11%,0%
+1300,N'Doye, Angers SCO, Senegal, Ligue 1,2 ,2 ,Right ,"192cm | 6'3"" ",90 ,Normal,High,High,2016-09-21,N\A ,30,77,CM,800,1%,0%
+1181,André Pinto, SC Braga, Portugal, LIGA NOS,2 ,2 ,Right ,"194cm | 6'4"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,27,77,CB,700,0%,0%
+1030,Van Damme, LA Galaxy, Belgium, MLS,2 ,3 ,Left ,"191cm | 6'3"" ",90 ,Normal,High,High,2016-09-21,N\A ,33,77,CB,700,-12%,0%
+1210,De Préville, LOSC Lille, France, Ligue 1,3 ,3 ,Right ,"182cm | 5'11"" ",77 ,Normal,Med,High,2016-09-21,N\A ,25,77,ST,700,-3%,0%
+1128,Alessandrini, Marseille, France, Ligue 1,4 ,4 ,Left ,"173cm | 5'8"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,27,77,RM,700,0%,0%
+1278,Depoitre, FC Porto, Belgium, LIGA NOS,2 ,3 ,Right ,"191cm | 6'3"" ",91 ,Normal,High,High,2016-09-21,N\A ,27,77,ST,700,-10%,0%
+1687,Rashford, Manchester Utd, England, Premier League,3 ,3 ,Right ,"180cm | 5'10"" ",70 ,Normal,Low,High,2016-09-21,N\A ,19,76,ST,1600,0%,-5%
+1436,Sánchez, Fiorentina, Colombia, Calcio A,2 ,3 ,Left ,"182cm | 5'11"" ",82 ,Normal,Med,High,2016-09-21,N\A ,30,76,CDM,700,0%,0%
+1355,Utaka, S-Hiroshima, Nigeria,Meiji Yasuda J1,3 ,3 ,Right ,"178cm | 5'10"" ",79 ,Normal,Low,High,2016-09-21,N\A ,32,76,ST,700,0%,0%
+1389,Balta, Galatasaray SK, Turkey, Süper Lig,2 ,3 ,Left ,"184cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,33,76,CB,2000,21%,-6%
+1324,Bovo, Torino, Italy, Calcio A,2 ,3 ,Right ,"181cm | 5'11"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,33,76,CB,700,0%,0%
+1357,Tettey, Norwich City, Norway, EFL Championship,3 ,3 ,Right ,"180cm | 5'10"" ",68 ,Normal,High,Med,2016-09-21,N\A ,30,76,CDM,700,0%,0%
+1553,Muriel, Sampdoria, Colombia, Calcio A,4 ,4 ,Right ,"178cm | 5'10"" ",79 ,Normal,Low,High,2016-09-21,N\A ,25,76,ST,700,0%,2%
+1556,Emenike, Fenerbahçe SK, Nigeria, Süper Lig,3 ,4 ,Right ,"182cm | 5'11"" ",90 ,Normal,Low,High,2016-09-21,N\A ,29,76,ST,700,0%,-2%
+1402,Elia, Feyenoord, Netherlands, Eredivisie,4 ,3 ,Right ,"179cm | 5'10"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,29,76,LW,700,0%,0%
+1481,Aziz, Galatasaray SK, Turkey, Süper Lig,2 ,3 ,Right ,"183cm | 6'0"" ",79 ,Normal,High,Med,2016-09-21,N\A ,26,76,CB,1900,37%,-10%
+1673,Embolo, FC Schalke 04, Switzerland, Bundesliga,4 ,4 ,Right ,"185cm | 6'0"" ",84 ,Normal,Med,High,2016-09-21,N\A ,19,76,RM,750,-4%,5%
+1438,Deeney, Watford, England, Premier League,3 ,3 ,Right ,"183cm | 6'0"" ",90 ,Normal,Med,High,2016-09-21,N\A ,28,76,ST,700,0%,0%
+1380,Onuoha, QPR, England, EFL Championship,2 ,2 ,Right ,"188cm | 6'2"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,30,76,CB,700,0%,0%
+1659,Bastos, Lazio, Angola, Calcio A,2 ,3 ,Right ,"184cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,24,76,CB,700,0%,0%
+1507,Aquino, Tigres, Mexico, LIGA Bancomer MX,4 ,4 ,Right ,"168cm | 5'6"" ",62 ,Normal,Med,High,2016-09-21,N\A ,26,76,LM,700,0%,0%
+1973,Michel Macedo, UD Las Palmas, Brazil, LaLiga Santander ,2 ,3 ,Right ,"176cm | 5'9"" ",70 ,Normal,Med,High,2016-09-21,N\A ,26,75,RB,650,-8%,-1%
+14706,Barrow, Swansea City, Gambia, Premier League,3 ,2 ,Left ,"176cm | 5'9"" ",63 ,Normal,Med,High,2016-09-21,N\A ,24,75,RW,650,7%,9%
+1749,McGeady, Preston, Republic of Ireland, EFL Championship,5 ,3 ,Right ,"177cm | 5'9"" ",71 ,Normal,Low,High,2016-09-21,N\A ,30,75,RM,650,0%,0%
+1998,Hansen, FC Midtjylland, Denmark, Alka Superliga,2 ,3 ,Right ,"184cm | 6'0"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,27,75,CB,650,0%,0%
+1781,Almirón, Lanús, Paraguay, Primera División,3 ,3 ,Left ,"177cm | 5'9"" ",61 ,Normal,Med,High,2016-09-21,N\A ,22,75,CM,650,0%,0%
+1758,Esiti, KAA Gent, Nigeria, Pro League,2 ,3 ,Right ,"189cm | 6'2"" ",85 ,Normal,High,Med,2016-09-21,N\A ,22,75,CDM,650,0%,0%
+1762,Donsah, Bologna, Ghana, Calcio A,2 ,2 ,Right ,"175cm | 5'8"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,20,75,CM,650,2%,-2%
+1995,Nakoulma, Kayserispor, Burkina Faso, Süper Lig,4 ,3 ,Right ,"176cm | 5'9"" ",70 ,Normal,Low,High,2016-09-21,N\A ,29,75,LM,850,-2%,-6%
+14708,Traoré, Ajax, Burkina Faso, Eredivisie,4 ,3 ,Left ,"180cm | 5'10"" ",72 ,Normal,Low,Med,2016-09-21,N\A ,21,75,ST,650,0%,0%
+2070,Diaby, Club Brugge, Mali, Pro League,2 ,3 ,Left ,"173cm | 5'8"" ",70 ,Normal,Med,High,2016-09-21,N\A ,25,75,ST,650,0%,0%
+14748,Heller, Darmstadt, Germany, Bundesliga,3 ,2 ,Right ,"175cm | 5'8"" ",70 ,Normal,Med,High,2016-09-21,N\A ,30,75,RM,750,-5%,6%
+1752,Asare, KAA Gent, Ghana, Pro League,3 ,4 ,Left ,"174cm | 5'8"" ",65 ,Normal,High,High,2016-09-21,N\A ,30,75,CB,650,0%,0%
+1711,Kishna, Lazio, Netherlands, Calcio A,5 ,3 ,Left ,"183cm | 6'0"" ",77 ,Normal,Low,Med,2016-09-21,N\A ,21,75,LW,750,8%,-6%
+14727,Lodi, Udinese, Italy, Calcio A,3 ,3 ,Left ,"183cm | 6'0"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,32,75,CDM,650,0%,0%
+453,Cillessen, FC Barcelona, Netherlands, LaLiga Santander ,1 ,3 ,Right ,"185cm | 6'0"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,27,81,GK,500,-31%,4%
+471,Bernardo Silva, AS Monaco, Portugal, Ligue 1,4 ,3 ,Left ,"173cm | 5'8"" ",64 ,Normal,Med,Med,2016-09-21,N\A ,22,81,RM,500,3%,2%
+408,Mitroglou, SL Benfica, Greece, LIGA NOS,3 ,5 ,Left ,"188cm | 6'2"" ",85 ,Normal,Low,Med,2016-09-21,N\A ,28,81,ST,800,-12%,50%
+514,Ansaldi, Inter, Argentina, Calcio A,3 ,4 ,Left ,"181cm | 5'11"" ",76 ,Normal,Med,High,2016-09-21,N\A ,30,80,LB,700,16%,-2%
+14699,Jonathan Viera, UD Las Palmas, Spain, LaLiga Santander ,3 ,4 ,Right ,"170cm | 5'6"" ",64 ,Normal,Low,High,2016-09-21,N\A ,27,80,LM,550,-34%,0%
+482,Baier, FC Augsburg, Germany, Bundesliga,3 ,3 ,Right ,"176cm | 5'9"" ",77 ,Normal,High,Med,2016-09-21,N\A ,32,80,CDM,400,-12%,2%
+14681,Zoet, PSV, Netherlands, Eredivisie,1 ,4 ,Right ,"189cm | 6'2"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,25,80,GK,400,0%,4%
+544,Kalinic, Fiorentina, Croatia, Calcio A,3 ,4 ,Right ,"187cm | 6'1"" ",80 ,Normal,High,High,2016-09-21,N\A ,28,80,ST,450,-8%,4%
+528,Sidnei, RC Deportivo, Brazil, LaLiga Santander ,2 ,2 ,Right ,"186cm | 6'1"" ",82 ,Normal,Med,High,2016-09-21,N\A ,27,80,CB,500,-10%,-4%
+498,Granqvist, FC Krasnodar, Sweden, Russian League,2 ,4 ,Right ,"192cm | 6'3"" ",84 ,Normal,Med,High,2016-09-21,N\A ,31,80,CB,450,-18%,-4%
+519,Díaz, Celta Vigo, Chile, LaLiga Santander ,2 ,3 ,Right ,"166cm | 5'5"" ",63 ,Normal,High,Med,2016-09-21,N\A ,29,80,CM,700,-26%,-8%
+516,Lucas Leiva, Liverpool, Brazil, Premier League,2 ,3 ,Right ,"179cm | 5'10"" ",73 ,Normal,High,Low,2016-09-21,N\A ,29,80,CDM,400,-2%,2%
+513,Castán, Torino, Brazil, Calcio A,2 ,2 ,Left ,"186cm | 6'1"" ",80 ,Normal,High,Med,2016-09-21,N\A ,30,80,CB,450,0%,-9%
+640,Afellay, Stoke City, Netherlands, Premier League,4 ,4 ,Right ,"180cm | 5'10"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,30,79,CAM,400,4%,0%
+762,Stepanenko, FC Shakhtar, Ukraine, Ukrayina Liha,2 ,3 ,Left ,"181cm | 5'11"" ",76 ,Normal,High,Low,2016-09-21,N\A ,27,79,CDM,400,0%,0%
+696,Babacan, Başakşehir, Turkey, Süper Lig,1 ,1 ,Right ,"192cm | 6'3"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,28,79,GK,950,-25%,-24%
+648,Lombaerts, Zenit, Belgium, Russian League,2 ,2 ,Left ,"188cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,31,79,CB,400,-29%,3%
+675,Kiko Casilla, Real Madrid, Spain, LaLiga Santander ,1 ,2 ,Right ,"191cm | 6'3"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,30,79,GK,1000,6%,12%
+667,Kums, Udinese, Belgium, Calcio A,2 ,4 ,Right ,"175cm | 5'8"" ",69 ,Normal,High,Med,2016-09-21,N\A ,28,79,CM,550,-12%,7%
+730,Digne, FC Barcelona, France, LaLiga Santander ,3 ,3 ,Left ,"178cm | 5'10"" ",74 ,Normal,Med,High,2016-09-21,N\A ,23,79,LB,550,-32%,-12%
+742,Sergi Darder, Olympique Lyon, Spain, Ligue 1,3 ,4 ,Right ,"180cm | 5'10"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,22,79,CM,900,5%,10%
+717,Jones, Manchester Utd, England, Premier League,2 ,3 ,Right ,"185cm | 6'0"" ",71 ,Normal,High,Med,2016-09-21,N\A ,24,79,CB,500,-2%,7%
+662,Romero, Manchester Utd, Argentina, Premier League,1 ,3 ,Right ,"192cm | 6'3"" ",87 ,Normal,Med,Med,2016-09-21,N\A ,29,79,GK,400,0%,6%
+749,Vrsaljko, Atlético Madrid, Croatia, LaLiga Santander ,2 ,3 ,Right ,"182cm | 5'11"" ",76 ,Normal,Med,High,2016-09-21,N\A ,24,79,RB,850,-4%,7%
+673,Mbokani, Hull City, DR Congo, Premier League,3 ,3 ,Right ,"185cm | 6'0"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,30,79,ST,3500,-25%,-35%
+639,Dann, Crystal Palace, England, Premier League,2 ,3 ,Right ,"191cm | 6'3"" ",78 ,Normal,Med,Low,2016-09-21,N\A ,29,79,CB,450,3%,8%
+789,Weigl, Bor. Dortmund, Germany, Bundesliga,2 ,3 ,Right ,"186cm | 6'1"" ",71 ,Normal,Med,Med,2016-09-21,N\A ,21,79,CDM,500,6%,-2%
+619,Touré, Celtic, Ivory Coast, Scottish Prem,2 ,3 ,Right ,"178cm | 5'10"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,35,79,CB,450,2%,5%
+657,Defour, Burnley, Belgium, Premier League,3 ,3 ,Right ,"175cm | 5'8"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,28,79,CM,450,-45%,10%
+626,Spahic, Hamburger SV, Bosnia Herzegovina, Bundesliga,2 ,4 ,Left ,"186cm | 6'1"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,36,79,CB,500,-13%,4%
+641,Trashorras, Rayo Vallecano, Spain, Liga Adelante,3 ,3 ,Right ,"179cm | 5'10"" ",71 ,Normal,Med,Med,2016-09-21,N\A ,35,79,CM,500,0%,13%
+739,Fernández, Swansea City, Argentina, Premier League,2 ,2 ,Right ,"190cm | 6'2"" ",83 ,Normal,High,Med,2016-09-21,N\A ,27,79,CB,500,0%,14%
+621,Demichelis, RCD Espanyol, Argentina, LaLiga Santander ,2 ,3 ,Right ,"184cm | 6'0"" ",78 ,Normal,Med,Low,2016-09-21,N\A ,35,79,CB,450,-25%,-9%
+645,Agirretxe, Real Sociedad, Spain, LaLiga Santander ,3 ,3 ,Right ,"187cm | 6'1"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,29,79,ST,450,-18%,-5%
+738,Ghoulam, Napoli, Algeria, Calcio A,2 ,4 ,Left ,"188cm | 6'2"" ",80 ,Normal,Med,High,2016-09-21,N\A ,25,79,LB,700,3%,-2%
+679,Luiz Adriano, Milan, Brazil, Calcio A,3 ,3 ,Right ,"182cm | 5'11"" ",71 ,Normal,Med,High,2016-09-21,N\A ,29,79,ST,550,7%,11%
+716,Khazri, Sunderland, Tunisia, Premier League,3 ,4 ,Right ,"182cm | 5'11"" ",76 ,Normal,Med,High,2016-09-21,N\A ,25,79,LM,450,0%,6%
+780,Brandt, Bayer 04, Germany, Bundesliga,4 ,4 ,Right ,"183cm | 6'0"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,20,79,LM,450,-37%,-9%
+672,Valbuena, Olympique Lyon, France, Ligue 1,4 ,3 ,Right ,"167cm | 5'5"" ",58 ,Normal,Med,Med,2016-09-21,N\A ,32,79,RW,750,22%,12%
+703,Canales, Real Sociedad, Spain, LaLiga Santander ,4 ,3 ,Left ,"179cm | 5'10"" ",65 ,Normal,Med,High,2016-09-21,N\A ,25,79,CAM,450,-11%,-1%
+664,Marcano, FC Porto, Spain, LIGA NOS,2 ,3 ,Left ,"187cm | 6'1"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,29,79,CB,700,-4%,33%
+718,Gutiérrez, Rosario Ctral. , Colombia, Primera División,3 ,3 ,Right ,"178cm | 5'10"" ",82 ,Normal,Low,Med,2016-09-21,N\A ,31,79,ST,400,0%,8%
+984,Doucouré, Watford, France, Premier League,2 ,3 ,Right ,"183cm | 6'0"" ",75 ,Normal,Med,High,2016-09-21,N\A ,23,78,CM,500,-14%,17%
+957,Vicente Gómez, UD Las Palmas, Spain, LaLiga Santander ,2 ,2 ,Left ,"188cm | 6'2"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,28,78,CM,500,-14%,-3%
+895,Träsch, VfL Wolfsburg, Germany, Bundesliga,2 ,4 ,Right ,"180cm | 5'10"" ",75 ,Normal,High,Med,2016-09-21,N\A ,29,78,RB,500,-26%,-11%
+952,Pablo Sarabia, Sevilla FC, Spain, LaLiga Santander ,4 ,4 ,Left ,"174cm | 5'8"" ",70 ,Normal,Med,High,2016-09-21,N\A ,24,78,LM,450,-37%,-18%
+949,Wollscheid, VfL Wolfsburg, Germany, Bundesliga,2 ,4 ,Right ,"194cm | 6'4"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,27,78,CB,450,-15%,-2%
+990,Ederson, SL Benfica, Brazil, LIGA NOS,1 ,2 ,Left ,"188cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,23,78,GK,450,13%,15%
+1014,Petros, Real Betis, Brazil, LaLiga Santander ,2 ,3 ,Right ,"181cm | 5'11"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,27,78,CDM,450,-16%,-3%
+865,Mignolet, Liverpool, Belgium, Premier League,1 ,2 ,Right ,"193cm | 6'3"" ",87 ,Normal,Med,Med,2016-09-21,N\A ,28,78,GK,450,-43%,5%
+800,Joaquín, Real Betis, Spain, LaLiga Santander ,3 ,3 ,Right ,"179cm | 5'10"" ",75 ,Normal,Med,High,2016-09-21,N\A ,35,78,RM,500,-20%,-5%
+851,Elm, Kalmar FF, Sweden, Allsvenskan,3 ,4 ,Right ,"184cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,28,78,CM,400,-7%,8%
+1006,Torrico, San Lorenzo, Argentina, Primera División,1 ,3 ,Right ,"186cm | 6'1"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,36,78,GK,400,4%,1%
+945,Mexer, Stade Rennais, Mozambique, Ligue 1,2 ,3 ,Right ,"185cm | 6'0"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,28,78,CB,500,17%,6%
+996,Kimmich, FC Bayern, Germany, Bundesliga,3 ,4 ,Right ,"176cm | 5'9"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,21,78,CM,2300,58%,0%
+885,Subotic, Bor. Dortmund, Serbia, Bundesliga,2 ,3 ,Right ,"191cm | 6'3"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,27,78,CB,500,7%,2%
+918,Cleverley, Everton, England, Premier League,3 ,3 ,Right ,"175cm | 5'8"" ",67 ,Normal,Med,Med,2016-09-21,N\A ,27,78,CM,450,0%,10%
+841,Charles, Málaga CF, Brazil, LaLiga Santander ,3 ,3 ,Right ,"177cm | 5'9"" ",75 ,Normal,High,High,2016-09-21,N\A ,32,78,ST,550,-13%,11%
+798,César Navas, FC Rostov, Spain, Russian League,2 ,3 ,Right ,"197cm | 6'5"" ",88 ,Normal,High,Med,2016-09-21,N\A ,36,78,CB,700,12%,1%
+803,de Jong, Galatasaray SK, Netherlands, Süper Lig,2 ,3 ,Right ,"174cm | 5'8"" ",72 ,Normal,High,Low,2016-09-21,N\A ,31,78,CDM,1500,31%,-6%
+840,Jourdren, Montpellier HSC, France, Ligue 1,1 ,3 ,Right ,"181cm | 5'11"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,30,78,GK,400,2%,1%
+883,Saivet, Saint-Etienne, Senegal, Ligue 1,3 ,4 ,Right ,"175cm | 5'8"" ",73 ,Normal,High,High,2016-09-21,N\A ,26,78,CM,450,0%,17%
+857,Cattermole, Sunderland, England, Premier League,2 ,3 ,Right ,"178cm | 5'10"" ",76 ,Normal,High,Low,2016-09-21,N\A ,28,78,CDM,400,-1%,3%
+832,Gentner, VfB Stuttgart, Germany, Bundesliga 2,2 ,4 ,Right ,"189cm | 6'2"" ",81 ,Normal,High,High,2016-09-21,N\A ,31,78,CM,400,11%,6%
+889,van der Wiel, Fenerbahçe SK, Netherlands, Süper Lig,3 ,3 ,Right ,"181cm | 5'11"" ",69 ,Normal,Med,High,2016-09-21,N\A ,28,78,RB,2800,10%,2%
+878,Guilherme, Lokomotiv, Russia, Russian League,1 ,2 ,Right ,"197cm | 6'5"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,30,78,GK,400,0%,2%
+934,Tosun, Beşiktaş JK, Turkey, Süper Lig,3 ,4 ,Right ,"183cm | 6'0"" ",78 ,Normal,Med,High,2016-09-21,N\A ,25,78,ST,450,-11%,-3%
+893,Ighalo, Watford, Nigeria, Premier League,3 ,3 ,Right ,"179cm | 5'10"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,27,78,ST,400,0%,3%
+1010,Cristóforo, Fiorentina, Uruguay, Calcio A,2 ,3 ,Right ,"173cm | 5'8"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,23,78,CDM,450,-5%,-9%
+821,Iván Cuéllar, Sporting Gijón, Spain, LaLiga Santander ,1 ,2 ,Left ,"187cm | 6'1"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,32,78,GK,450,-14%,0%
+933,Casteels, VfL Wolfsburg, Belgium, Bundesliga,1 ,3 ,Left ,"197cm | 6'5"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,24,78,GK,400,-29%,1%
+1019,Janssen, Spurs, Netherlands, Premier League,2 ,4 ,Left ,"184cm | 6'0"" ",82 ,Normal,High,High,2016-09-21,N\A ,22,78,ST,400,1%,13%
+909,Dost, Sporting CP, Netherlands, LIGA NOS,2 ,3 ,Right ,"196cm | 6'5"" ",78 ,Normal,Low,Med,2016-09-21,N\A ,27,78,ST,400,7%,7%
+960,Chadli, West Brom, Belgium, Premier League,3 ,4 ,Right ,"189cm | 6'2"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,27,78,LM,400,-38%,7%
+842,Adriano, Beşiktaş JK, Brazil, Süper Lig,3 ,5 ,Left ,"173cm | 5'8"" ",73 ,Normal,Med,High,2016-09-21,N\A ,32,78,LB,4500,4%,-5%
+938,Destro, Bologna, Italy, Calcio A,3 ,3 ,Right ,"178cm | 5'10"" ",72 ,Normal,Low,Med,2016-09-21,N\A ,25,78,ST,450,-6%,-1%
+809,Kießling, Bayer 04, Germany, Bundesliga,2 ,3 ,Right ,"191cm | 6'3"" ",80 ,Normal,High,High,2016-09-21,N\A ,32,78,ST,450,-11%,0%
+1012,Sanabria, Real Betis, Paraguay, LaLiga Santander ,3 ,4 ,Right ,"180cm | 5'10"" ",70 ,Normal,Med,High,2016-09-21,N\A ,20,78,ST,450,-16%,-2%
+839,Raggi, AS Monaco, Italy, Ligue 1,2 ,3 ,Right ,"187cm | 6'1"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,32,78,CB,600,16%,23%
+820,Xabi Prieto, Real Sociedad, Spain, LaLiga Santander ,3 ,3 ,Right ,"186cm | 6'1"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,33,78,RM,500,-33%,-10%
+1001,Zapata, Udinese, Colombia, Calcio A,2 ,4 ,Right ,"189cm | 6'2"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,25,78,ST,400,-7%,-1%
+988,Jozabed, Fulham, Spain, EFL Championship,2 ,3 ,Right ,"180cm | 5'10"" ",67 ,Normal,Med,Med,2016-09-21,N\A ,25,78,CAM,450,2%,3%
+906,Heurtaux, Udinese, France, Calcio A,2 ,3 ,Right ,"185cm | 6'0"" ",80 ,Normal,High,High,2016-09-21,N\A ,28,78,CB,450,-3%,0%
+877,Ki Sung Yueng, Swansea City, Korea Republic, Premier League,3 ,4 ,Right ,"186cm | 6'1"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,27,78,CM,450,0%,3%
+867,Birsa, Chievo Verona, Slovenia, Calcio A,3 ,3 ,Left ,"184cm | 6'0"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,30,78,CAM,400,-5%,-8%
+838,Kucher, FC Shakhtar, Ukraine, Ukrayina Liha,2 ,3 ,Right ,"184cm | 6'0"" ",77 ,Normal,High,Med,2016-09-21,N\A ,34,78,CB,400,2%,7%
+995,Diego Llorente, Málaga CF, Spain, LaLiga Santander ,2 ,3 ,Right ,"185cm | 6'0"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,23,78,CB,500,-25%,-1%
+871,Matri, Sassuolo, Italy, Calcio A,2 ,3 ,Right ,"183cm | 6'0"" ",80 ,Normal,Low,Med,2016-09-21,N\A ,32,78,ST,400,-12%,4%
+887,Choupo-Moting, FC Schalke 04, Cameroon, Bundesliga,4 ,4 ,Right ,"191cm | 6'3"" ",91 ,Normal,Med,Med,2016-09-21,N\A ,27,78,LM,500,-36%,-8%
+858,Cork, Swansea City, England, Premier League,2 ,4 ,Right ,"185cm | 6'0"" ",69 ,Normal,High,Med,2016-09-21,N\A ,27,78,CDM,400,2%,6%
+1003,Lodygin, Zenit, Russia, Russian League,1 ,2 ,Right ,"187cm | 6'1"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,26,78,GK,400,1%,5%
+818,Orión, Racing Club, Argentina, Primera División,1 ,4 ,Right ,"187cm | 6'1"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,35,78,GK,450,1%,23%
+855,Rafinha, FC Bayern, Brazil, Bundesliga,3 ,3 ,Right ,"172cm | 5'7"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,31,78,RB,2200,68%,3%
+1199,Dja Djédjé, Watford, Ivory Coast, Premier League,2 ,2 ,Right ,"170cm | 5'6"" ",71 ,Normal,Med,High,2016-09-21,N\A ,25,77,RB,500,6%,1%
+1117,Rukavina, Villarreal CF, Serbia, LaLiga Santander ,3 ,3 ,Right ,"177cm | 5'9"" ",74 ,Normal,Med,High,2016-09-21,N\A ,32,77,RB,650,-30%,-10%
+1243,Bigas, UD Las Palmas, Spain, LaLiga Santander ,2 ,2 ,Left ,"181cm | 5'11"" ",78 ,Normal,Med,High,2016-09-21,N\A ,26,77,CB,500,-21%,-8%
+1246,Vargas, 1899 Hoffenheim, Chile, Bundesliga,4 ,4 ,Right ,"176cm | 5'9"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,27,77,CF,400,-4%,0%
+1272,Gerhardt, VfL Wolfsburg, Germany, Bundesliga,3 ,3 ,Left ,"184cm | 6'0"" ",81 ,Normal,Med,High,2016-09-21,N\A ,22,77,CM,500,-7%,-5%
+1280,Pardo, Olympiakos CFP, Colombia, Hellas Liga,3 ,4 ,Right ,"178cm | 5'10"" ",84 ,Normal,Med,High,2016-09-21,N\A ,26,77,RW,450,0%,5%
+1288,Alario, River Plate, Argentina, Primera División,3 ,3 ,Right ,"178cm | 5'10"" ",67 ,Normal,Med,High,2016-09-21,N\A ,24,77,ST,450,4%,1%
+1033,Dawson, Hull City, England, Premier League,2 ,3 ,Right ,"188cm | 6'2"" ",76 ,Normal,High,Med,2016-09-21,N\A ,33,77,CB,500,-63%,-4%
+1187,Finnbogason, FC Augsburg, Iceland, Bundesliga,2 ,4 ,Right ,"185cm | 6'0"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,27,77,ST,450,-13%,-1%
+1121,Gargano, Monterrey, Uruguay, LIGA Bancomer MX,2 ,3 ,Right ,"170cm | 5'6"" ",64 ,Normal,High,Med,2016-09-21,N\A ,32,77,CDM,400,0%,0%
+1179,Pezzella, Real Betis, Argentina, LaLiga Santander ,2 ,3 ,Right ,"186cm | 6'1"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,25,77,CB,500,-23%,-5%
+1215,Bicakcic, 1899 Hoffenheim, Bosnia Herzegovina, Bundesliga,2 ,3 ,Right ,"185cm | 6'0"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,26,77,CB,450,-13%,-1%
+1027,Pienaar, Sunderland, South Africa, Premier League,4 ,4 ,Right ,"170cm | 5'6"" ",66 ,Normal,Med,High,2016-09-21,N\A ,34,77,LM,400,-2%,6%
+1214,David López, RCD Espanyol, Spain, LaLiga Santander ,2 ,3 ,Right ,"185cm | 6'0"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,27,77,CDM,400,-8%,0%
+1251,Saïss, Wolves, Morocco, EFL Championship,2 ,4 ,Left ,"190cm | 6'2"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,26,77,CDM,400,0%,6%
+1065,Matip, FC Ingolstadt, Cameroon, Bundesliga,2 ,2 ,Right ,"184cm | 6'0"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,31,77,CB,500,-16%,2%
+1240,Chiriches, Napoli, Romania, Calcio A,2 ,3 ,Right ,"184cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,27,77,CB,500,-8%,-3%
+1292,Zappacosta, Torino, Italy, Calcio A,2 ,2 ,Right ,"182cm | 5'11"" ",70 ,Normal,High,High,2016-09-21,N\A ,24,77,RWB,450,11%,0%
+1127,Thomas, Angers SCO, France, Ligue 1,2 ,3 ,Left ,"193cm | 6'3"" ",84 ,Normal,High,Med,2016-09-21,N\A ,28,77,CB,500,-1%,5%
+1183,Potuk, Fenerbahçe SK, Turkey, Süper Lig,3 ,2 ,Right ,"177cm | 5'9"" ",67 ,Normal,Med,High,2016-09-21,N\A ,25,77,RM,2400,41%,-2%
+1106,Sam, FC Schalke 04, Germany, Bundesliga,3 ,3 ,Left ,"174cm | 5'8"" ",71 ,Normal,Low,Med,2016-09-21,N\A ,28,77,RM,450,-24%,-1%
+1247,Lingard, Manchester Utd, England, Premier League,3 ,3 ,Right ,"174cm | 5'8"" ",65 ,Normal,Med,High,2016-09-21,N\A ,23,77,RM,500,4%,9%
+1029,Ledesma, Panathinaikos, Italy, Hellas Liga,2 ,4 ,Right ,"180cm | 5'10"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,34,77,CDM,450,3%,6%
+1275,Medrán, Valencia CF, Spain, LaLiga Santander ,2 ,4 ,Right ,"176cm | 5'9"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,22,77,CM,500,-13%,-4%
+1058,Zhirkov, Zenit, Russia, Russian League,3 ,2 ,Left ,"180cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,33,77,LB,400,0%,5%
+1166,Bóveda, Athletic Bilbao, Spain, LaLiga Santander ,2 ,3 ,Right ,"180cm | 5'10"" ",77 ,Normal,Med,High,2016-09-21,N\A ,27,77,RB,650,-24%,0%
+1182,André Almeida, SL Benfica, Portugal, LIGA NOS,2 ,3 ,Right ,"186cm | 6'1"" ",80 ,Normal,High,Med,2016-09-21,N\A ,26,77,RB,600,-5%,21%
+1069,Gillet, FC Nantes, Belgium, Ligue 1,3 ,3 ,Right ,"186cm | 6'1"" ",80 ,Normal,High,High,2016-09-21,N\A ,32,77,CM,500,-32%,7%
+1075,Refaelov, Club Brugge, Israel, Pro League,4 ,4 ,Right ,"175cm | 5'8"" ",70 ,Normal,Low,Med,2016-09-21,N\A ,30,77,RW,500,-2%,-1%
+1086,De Silvestri, Torino, Italy, Calcio A,2 ,3 ,Right ,"186cm | 6'1"" ",84 ,Normal,Med,High,2016-09-21,N\A ,28,77,RB,900,11%,-10%
+1066,Behrami, Watford, Switzerland, Premier League,2 ,4 ,Right ,"185cm | 6'0"" ",78 ,Normal,High,Med,2016-09-21,N\A ,31,77,CDM,400,-1%,3%
+1088,McArthur, Crystal Palace, Scotland, Premier League,3 ,3 ,Right ,"178cm | 5'10"" ",64 ,Normal,Med,Med,2016-09-21,N\A ,29,77,CDM,400,-2%,2%
+1238,Pavoletti, Genoa, Italy, Calcio A,2 ,3 ,Right ,"188cm | 6'2"" ",85 ,Normal,Med,High,2016-09-21,N\A ,27,77,ST,450,-5%,-3%
+1099,Baiano, SC Braga, Brazil, LIGA NOS,2 ,2 ,Right ,"177cm | 5'9"" ",69 ,Normal,Med,Med,2016-09-21,N\A ,29,77,RB,450,2%,8%
+1223,Zé Luís, Spartak Moskva, Cape Verde Islands, Russian League,2 ,5 ,Left ,"185cm | 6'0"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,25,77,ST,400,2%,0%
+1174,Escudero, Sevilla FC, Spain, LaLiga Santander ,3 ,2 ,Left ,"176cm | 5'9"" ",72 ,Normal,Med,High,2016-09-21,N\A ,27,77,LB,600,-15%,-23%
+1213,Tatarusanu, Fiorentina, Romania, Calcio A,1 ,3 ,Right ,"195cm | 6'4"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,30,77,GK,550,23%,-16%
+1093,Trejo, Toulouse FC, Argentina, Ligue 1,4 ,4 ,Right ,"180cm | 5'10"" ",79 ,Normal,Med,High,2016-09-21,N\A ,28,77,CAM,500,-6%,10%
+1060,Song, Rubin Kazan, Cameroon, Russian League,3 ,3 ,Right ,"185cm | 6'0"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,29,77,CDM,400,1%,5%
+1039,Domínguez, Olympiakos CFP, Argentina, Hellas Liga,3 ,4 ,Right ,"175cm | 5'8"" ",73 ,Normal,Low,High,2016-09-21,N\A ,35,77,CAM,450,4%,4%
+1073,Davies, Hull City, England, Premier League,2 ,3 ,Right ,"188cm | 6'2"" ",89 ,Normal,Med,Med,2016-09-21,N\A ,31,77,CB,600,-58%,-16%
+1044,Delgado, FC Basel, Argentina, Raiffeisen SL,4 ,4 ,Right ,"182cm | 5'11"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,33,77,CAM,400,3%,3%
+1079,Higuaín, Columbus Crew, Argentina, MLS,3 ,4 ,Right ,"173cm | 5'8"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,31,77,CAM,400,7%,0%
+1102,De Guzmán, Chievo Verona, Netherlands, Calcio A,4 ,4 ,Right ,"173cm | 5'8"" ",70 ,Normal,Med,High,2016-09-21,N\A ,29,77,CAM,450,-9%,-4%
+1231,Thauvin, Marseille, France, Ligue 1,4 ,3 ,Left ,"179cm | 5'10"" ",70 ,Normal,Med,High,2016-09-21,N\A ,23,77,RM,450,1%,8%
+1157,Álvaro Domínguez, Bor. M'gladbach, Spain, Bundesliga,2 ,3 ,Left ,"189cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,27,77,CB,650,-3%,5%
+1271,Iuri Medeiros, Boavista, Portugal, LIGA NOS,4 ,3 ,Left ,"174cm | 5'8"" ",66 ,Normal,Med,High,2016-09-21,N\A ,22,77,RM,400,6%,1%
+1196,Luis Alberto, Lazio, Spain, Calcio A,3 ,4 ,Right ,"182cm | 5'11"" ",72 ,Normal,Low,Med,2016-09-21,N\A ,24,77,CAM,500,-9%,-2%
+1239,Jairo, 1. FSV Mainz 05, Spain, Bundesliga,3 ,4 ,Right ,"172cm | 5'7"" ",69 ,Normal,Med,Med,2016-09-21,N\A ,23,77,LM,550,-33%,-10%
+1067,Padelli, Torino, Italy, Calcio A,1 ,2 ,Left ,"191cm | 6'3"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,31,77,GK,550,-2%,-4%
+1295,Kramaric, 1899 Hoffenheim, Croatia, Bundesliga,3 ,4 ,Right ,"177cm | 5'9"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,25,77,ST,450,-9%,2%
+1290,Jemerson, AS Monaco, Brazil, Ligue 1,2 ,2 ,Right ,"184cm | 6'0"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,24,77,CB,550,17%,15%
+1232,Fajr, RC Deportivo, Morocco, LaLiga Santander ,4 ,4 ,Right ,"178cm | 5'10"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,28,77,CAM,450,-17%,1%
+1205,Josué, Galatasaray SK, Portugal, Süper Lig,4 ,2 ,Left ,"174cm | 5'8"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,26,77,RM,2300,39%,1%
+1211,Morrison, Lazio, England, Calcio A,4 ,4 ,Right ,"175cm | 5'8"" ",71 ,Normal,Low,Med,2016-09-21,N\A ,23,77,CAM,450,-11%,-6%
+1265,Carles Gil, RC Deportivo, Spain, LaLiga Santander ,4 ,3 ,Left ,"170cm | 5'6"" ",65 ,Normal,Low,High,2016-09-21,N\A ,24,77,RM,400,-18%,-17%
+1097,Andújar, Estudiantes, Argentina, Primera División,1 ,3 ,Right ,"194cm | 6'4"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,33,77,GK,400,1%,3%
+1094,Cigarini, Sampdoria, Italy, Calcio A,2 ,4 ,Right ,"175cm | 5'8"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,30,77,CM,600,2%,-4%
+1114,Vainqueur, Marseille, France, Ligue 1,2 ,3 ,Right ,"180cm | 5'10"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,28,77,CDM,450,0%,5%
+1042,Britton, Swansea City, England, Premier League,3 ,3 ,Right ,"167cm | 5'5"" ",65 ,Normal,Med,Low,2016-09-21,N\A ,34,77,CM,450,1%,6%
+1134,Ðordevic, Lazio, Serbia, Calcio A,2 ,2 ,Left ,"186cm | 6'1"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,29,77,ST,400,-7%,-2%
+1163,Usami, FC Augsburg, Japan, Bundesliga,4 ,3 ,Right ,"178cm | 5'10"" ",69 ,Normal,Med,Med,2016-09-21,N\A ,24,77,LM,500,-33%,-8%
+1180,Pejcinovic, Lokomotiv, Serbia, Russian League,2 ,3 ,Left ,"185cm | 6'0"" ",80 ,Normal,High,Med,2016-09-21,N\A ,29,77,CB,400,3%,0%
+1228,Luís Neto, Zenit, Portugal, Russian League,2 ,3 ,Right ,"187cm | 6'1"" ",71 ,Normal,Med,Med,2016-09-21,N\A ,28,77,CB,450,3%,7%
+1263,Dos Santos, SD Eibar, Argentina, LaLiga Santander ,2 ,3 ,Right ,"182cm | 5'11"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,27,77,CB,400,-19%,2%
+1237,Feddal, Deport. Alavés, Morocco, LaLiga Santander ,2 ,2 ,Left ,"190cm | 6'2"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,27,77,CB,450,-44%,0%
+1026,Proto, KV Oostende, Belgium, Pro League,1 ,2 ,Right ,"186cm | 6'1"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,33,77,GK,400,-25%,0%
+1143,Chahechouhe, Fenerbahçe SK, Morocco, Süper Lig,4 ,4 ,Right ,"176cm | 5'9"" ",68 ,Normal,Med,High,2016-09-21,N\A ,30,77,CAM,450,0%,-6%
+1081,Rodallega, Akhisarspor, Colombia, Süper Lig,3 ,3 ,Right ,"181cm | 5'11"" ",72 ,Normal,Low,High,2016-09-21,N\A ,31,77,ST,450,-14%,-3%
+1104,Fabricio, Beşiktaş JK, Spain, Süper Lig,1 ,3 ,Right ,"185cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,28,77,GK,1000,-17%,-22%
+1050,Magnanelli, Sassuolo, Italy, Calcio A,2 ,3 ,Right ,"181cm | 5'11"" ",79 ,Normal,High,Med,2016-09-21,N\A ,32,77,CDM,450,-7%,-1%
+1164,Bertolacci, Milan, Italy, Calcio A,3 ,3 ,Left ,"179cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,25,77,CM,600,3%,-4%
+1252,Niasse, Everton, Senegal, Premier League,2 ,3 ,Right ,"182cm | 5'11"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,26,77,ST,400,3%,1%
+1155,Risse, 1. FC Köln, Germany, Bundesliga,3 ,3 ,Right ,"183cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,26,77,RM,400,-16%,-2%
+1059,Talavera, Toluca, Mexico, LIGA Bancomer MX,1 ,4 ,Right ,"188cm | 6'2"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,34,77,GK,400,0%,0%
+1476,Manyisa, Orlando Pirates, South Africa, South African FL,2 ,4 ,Right ,"166cm | 5'5"" ",67 ,Normal,High,High,2016-09-21,N\A ,28,76,CM,400,0%,3%
+1484,McCarthy, Southampton, England, Premier League,1 ,2 ,Right ,"193cm | 6'3"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,26,76,GK,450,-4%,1%
+1349,Arbeloa, West Ham, Spain, Premier League,2 ,3 ,Right ,"184cm | 6'0"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,33,76,RB,450,0%,4%
+1611,Forsberg, RB Leipzig, Sweden, Bundesliga,4 ,4 ,Right ,"179cm | 5'10"" ",78 ,Normal,Med,High,2016-09-21,N\A ,25,76,LM,450,-27%,-19%
+1345,Tito, Granada CF, Spain, LaLiga Santander ,2 ,3 ,Right ,"174cm | 5'8"" ",62 ,Normal,Med,Med,2016-09-21,N\A ,31,76,RB,450,-11%,-3%
+1680,Aritz Elustondo, Real Sociedad, Spain, LaLiga Santander ,2 ,3 ,Right ,"182cm | 5'11"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,22,76,RB,600,-32%,-3%
+1656,El Ghazi, Ajax, Netherlands, Eredivisie,4 ,4 ,Right ,"189cm | 6'2"" ",87 ,Normal,Low,Med,2016-09-21,N\A ,21,76,RW,400,1%,4%
+1457,Sigþórsson, Galatasaray SK, Iceland, Süper Lig,2 ,3 ,Right ,"186cm | 6'1"" ",80 ,Normal,Med,High,2016-09-21,N\A ,26,76,ST,650,14%,7%
+1426,Marin, Olympiakos CFP, Germany, Hellas Liga,4 ,4 ,Right ,"170cm | 5'6"" ",64 ,Normal,Low,High,2016-09-21,N\A ,27,76,CAM,400,0%,3%
+1446,Petersen, SC Freiburg, Germany, Bundesliga,2 ,5 ,Right ,"188cm | 6'2"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,27,76,ST,450,-5%,-4%
+1311,O'Shea, Sunderland, Republic of Ireland, Premier League,2 ,3 ,Right ,"190cm | 6'2"" ",84 ,Normal,High,Med,2016-09-21,N\A ,35,76,CB,450,3%,3%
+1405,Kone, Udinese, Greece, Calcio A,3 ,3 ,Right ,"182cm | 5'11"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,29,76,CAM,400,-10%,-6%
+1598,João Pereira, Sporting CP, Portugal, LIGA NOS,3 ,3 ,Right ,"172cm | 5'7"" ",66 ,Normal,Med,High,2016-09-21,N\A ,32,76,RB,400,0%,8%
+1555,Guidetti, Celta Vigo, Sweden, LaLiga Santander ,3 ,3 ,Right ,"185cm | 6'0"" ",79 ,Normal,Med,High,2016-09-21,N\A ,24,76,ST,550,-14%,-4%
+1332,Briand, EA Guingamp, France, Ligue 1,3 ,3 ,Right ,"183cm | 6'0"" ",80 ,Normal,Med,High,2016-09-21,N\A ,31,76,ST,450,-2%,6%
+1544,Funes Mori, Monterrey, Argentina, LIGA Bancomer MX,3 ,4 ,Right ,"184cm | 6'0"" ",81 ,Normal,High,High,2016-09-21,N\A ,25,76,ST,450,7%,3%
+1486,Latza, 1. FSV Mainz 05, Germany, Bundesliga,2 ,4 ,Right ,"179cm | 5'10"" ",76 ,Normal,High,High,2016-09-21,N\A ,26,76,CM,500,-21%,-12%
+1363,Sivok, Bursaspor, Czech Republic, Süper Lig,2 ,3 ,Right ,"184cm | 6'0"" ",77 ,Normal,High,Med,2016-09-21,N\A ,33,76,CB,1900,19%,-7%
+1615,Isaac Becerra, Real Valladolid, Spain, Liga Adelante,1 ,2 ,Right ,"180cm | 5'10"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,28,76,GK,500,3%,0%
+1376,Naismith, Norwich City, Scotland, EFL Championship,3 ,3 ,Right ,"178cm | 5'10"" ",72 ,Normal,High,High,2016-09-21,N\A ,30,76,CAM,400,-1%,4%
+1558,Pedro Obiang, West Ham, Spain, Premier League,2 ,3 ,Right ,"185cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,24,76,CDM,450,3%,1%
+1361,McCormack, Aston Villa, Scotland, EFL Championship,3 ,4 ,Right ,"175cm | 5'8"" ",74 ,Normal,Med,High,2016-09-21,N\A ,30,76,ST,400,5%,0%
+1378,Pocognoli, Brighton, Belgium, EFL Championship,3 ,3 ,Left ,"181cm | 5'11"" ",73 ,Normal,Med,High,2016-09-21,N\A ,29,76,LB,400,-67%,9%
+1511,Miguel Rosa, Belenenses, Portugal, LIGA NOS,3 ,3 ,Right ,"176cm | 5'9"" ",70 ,Normal,Med,High,2016-09-21,N\A ,27,76,LM,400,0%,5%
+1347,Cejudo, Real Betis, Spain, LaLiga Santander ,3 ,5 ,Right ,"180cm | 5'10"" ",78 ,Normal,Med,High,2016-09-21,N\A ,32,76,RM,450,-23%,-8%
+1602,Paredes, Roma, Argentina, Calcio A,4 ,4 ,Right ,"180cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,22,76,CDM,500,-8%,1%
+1328,Plašil, Bordeaux, Czech Republic, Ligue 1,3 ,5 ,Right ,"182cm | 5'11"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,34,76,CM,450,0%,15%
+1341,Marshall, Hull City, Scotland, Premier League,1 ,3 ,Right ,"190cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,31,76,GK,400,-8%,1%
+1326,McAuley, West Brom, Northern Ireland, Premier League,2 ,3 ,Right ,"195cm | 6'4"" ",89 ,Normal,High,Low,2016-09-21,N\A ,36,76,CB,450,3%,3%
+1386,Cássio, Rio Ave FC, Brazil, LIGA NOS,1 ,2 ,Right ,"186cm | 6'1"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,36,76,GK,400,1%,3%
+1531,Vukovic, Konyaspor, Serbia, Süper Lig,2 ,2 ,Left ,"194cm | 6'4"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,28,76,CB,2000,14%,-5%
+1491,Victor Sánchez, RCD Espanyol, Spain, LaLiga Santander ,3 ,3 ,Right ,"174cm | 5'8"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,29,76,CDM,450,-6%,0%
+1681,André Horta, SL Benfica, Portugal, LIGA NOS,3 ,3 ,Right ,"174cm | 5'8"" ",67 ,Normal,Med,High,2016-09-21,N\A ,20,76,CM,500,14%,10%
+1482,Saúl Berjón, U.N.A.M., Spain, LIGA Bancomer MX,3 ,4 ,Right ,"178cm | 5'10"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,30,76,LM,600,-2%,21%
+1434,Jedinák, Aston Villa, Australia, EFL Championship,2 ,3 ,Right ,"188cm | 6'2"" ",78 ,Normal,High,Med,2016-09-21,N\A ,32,76,CDM,500,6%,-8%
+1348,Iván Ramis, SD Eibar, Spain, LaLiga Santander ,2 ,3 ,Right ,"188cm | 6'2"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,32,76,CB,450,-23%,-2%
+1485,Oczipka, Eint. Frankfurt, Germany, Bundesliga,2 ,2 ,Left ,"185cm | 6'0"" ",87 ,Normal,Med,High,2016-09-21,N\A ,27,76,LB,500,-2%,0%
+1321,Lehmann, 1. FC Köln, Germany, Bundesliga,2 ,3 ,Right ,"179cm | 5'10"" ",75 ,Normal,High,Med,2016-09-21,N\A ,33,76,CDM,400,-3%,-3%
+1369,Gelson Fernandes, Stade Rennais, Switzerland, Ligue 1,2 ,3 ,Right ,"179cm | 5'10"" ",70 ,Normal,High,Med,2016-09-21,N\A ,30,76,CDM,450,0%,6%
+1429,Cardozo, Olympiakos CFP, Paraguay, Hellas Liga,2 ,3 ,Left ,"193cm | 6'3"" ",87 ,Normal,Low,Med,2016-09-21,N\A ,33,76,ST,400,1%,4%
+1489,Bamba Anderson, Eint. Frankfurt, Brazil, Bundesliga,2 ,3 ,Right ,"189cm | 6'2"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,28,76,CB,550,-8%,1%
+1500,Kweuke, Çaykur Rizespor, Cameroon, Süper Lig,3 ,3 ,Right ,"189cm | 6'2"" ",94 ,Normal,Low,High,2016-09-21,N\A ,29,76,ST,400,-9%,-1%
+1586,David Simón, UD Las Palmas, Spain, LaLiga Santander ,2 ,3 ,Right ,"175cm | 5'8"" ",68 ,Normal,Med,High,2016-09-21,N\A ,26,76,RB,500,-12%,-3%
+1684,Pjaca, Juventus, Croatia, Calcio A,4 ,4 ,Right ,"186cm | 6'1"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,21,76,LW,750,0%,-5%
+1494,Seleznyov, FC Shakhtar, Ukraine, Ukrayina Liha,3 ,3 ,Right ,"187cm | 6'1"" ",87 ,Normal,Low,Med,2016-09-21,N\A ,31,76,ST,400,2%,9%
+1587,Korb, Bor. M'gladbach, Germany, Bundesliga,2 ,3 ,Right ,"177cm | 5'9"" ",69 ,Normal,Med,High,2016-09-21,N\A ,24,76,RB,1400,-4%,-2%
+1575,Naldo, FC Krasnodar, Brazil, Russian League,2 ,3 ,Right ,"188cm | 6'2"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,28,76,CB,450,2%,3%
+1366,Marveaux, FC Lorient, France, Ligue 1,3 ,3 ,Left ,"172cm | 5'7"" ",66 ,Normal,Med,Med,2016-09-21,N\A ,30,76,CAM,400,5%,3%
+1660,Carlos Mané, VfB Stuttgart, Portugal, Bundesliga 2,3 ,3 ,Right ,"172cm | 5'7"" ",66 ,Normal,Med,Med,2016-09-21,N\A ,22,76,RM,400,1%,11%
+1621,Hassan, SC Braga, Egypt, LIGA NOS,2 ,5 ,Right ,"191cm | 6'3"" ",85 ,Normal,Low,Med,2016-09-21,N\A ,23,76,ST,400,-1%,7%
+1635,Dendoncker, RSC Anderlecht, Belgium, Pro League,2 ,4 ,Right ,"188cm | 6'2"" ",83 ,Normal,High,Med,2016-09-21,N\A ,21,76,CDM,400,-28%,3%
+1483,Fornaroli, Melbourne City, Uruguay, Hyundai A-League,4 ,4 ,Right ,"174cm | 5'8"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,29,76,ST,400,0%,3%
+1406,Westwood, Sheffield Wed, Republic of Ireland, EFL Championship,1 ,4 ,Left ,"188cm | 6'2"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,32,76,GK,400,2%,1%
+1425,Mulumbu, Norwich City, DR Congo, EFL Championship,2 ,4 ,Right ,"174cm | 5'8"" ",76 ,Normal,High,Med,2016-09-21,N\A ,29,76,CDM,400,0%,5%
+1536,Babacar, Fiorentina, Senegal, Calcio A,3 ,4 ,Right ,"185cm | 6'0"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,23,76,ST,400,-9%,3%
+1449,Koné, Málaga CF, Burkina Faso, LaLiga Santander ,2 ,2 ,Right ,"188cm | 6'2"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,28,76,CB,450,-9%,-7%
+1523,Ðuricic, Sampdoria, Serbia, Calcio A,4 ,4 ,Right ,"181cm | 5'11"" ",72 ,Normal,Low,Med,2016-09-21,N\A ,24,76,CAM,450,-9%,1%
+1471,Isla, Cagliari, Chile, Calcio A,3 ,3 ,Right ,"177cm | 5'9"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,28,76,CDM,400,-5%,-2%
+1364,Villar, Colo-Colo, Paraguay, Camp. Scotiabank,1 ,3 ,Right ,"180cm | 5'10"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,39,76,GK,400,0%,0%
+1407,Tomkins, Crystal Palace, England, Premier League,2 ,2 ,Right ,"191cm | 6'3"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,27,76,CB,450,4%,0%
+1385,Doka, Başakşehir, Brazil, Süper Lig,3 ,3 ,Right ,"178cm | 5'10"" ",70 ,Normal,Low,High,2016-09-21,N\A ,31,76,LM,900,-8%,-1%
+1399,Diego Capel, RSC Anderlecht, Spain, Pro League,4 ,2 ,Left ,"173cm | 5'8"" ",67 ,Normal,Med,High,2016-09-21,N\A ,28,76,LM,600,0%,18%
+1352,Luíz Carlos, Al-Ahli, Brazil, ALJ League,2 ,3 ,Right ,"175cm | 5'8"" ",65 ,Normal,High,Med,2016-09-21,N\A ,31,76,CDM,400,-2%,4%
+1498,Henriksen, Hull City, Norway, Premier League,3 ,3 ,Right ,"187cm | 6'1"" ",80 ,Normal,High,High,2016-09-21,N\A ,24,76,CAM,450,-19%,5%
+1314,Kuyt, Feyenoord, Netherlands, Eredivisie,3 ,2 ,Right ,"183cm | 6'0"" ",84 ,Normal,High,High,2016-09-21,N\A ,36,76,CAM,400,1%,4%
+1670,Vukcevic, SC Braga, Montenegro, LIGA NOS,2 ,3 ,Left ,"184cm | 6'0"" ",76 ,Normal,High,Med,2016-09-21,N\A ,24,76,CDM,400,2%,4%
+1512,Vogt, 1899 Hoffenheim, Germany, Bundesliga,2 ,3 ,Right ,"194cm | 6'4"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,25,76,CDM,400,-6%,2%
+1408,Joselu, RC Deportivo, Spain, LaLiga Santander ,3 ,3 ,Right ,"192cm | 6'3"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,26,76,ST,450,-10%,0%
+1517,Seferovic, Eint. Frankfurt, Switzerland, Bundesliga,3 ,2 ,Left ,"185cm | 6'0"" ",85 ,Normal,High,High,2016-09-21,N\A ,24,76,ST,400,-4%,-3%
+1442,Frei, 1. FSV Mainz 05, Switzerland, Bundesliga,2 ,4 ,Right ,"183cm | 6'0"" ",77 ,Normal,High,High,2016-09-21,N\A ,27,76,CM,500,-25%,-14%
+1427,Sulejmani, BSC Young Boys, Serbia, Raiffeisen SL,3 ,3 ,Left ,"178cm | 5'10"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,27,76,LM,400,0%,6%
+1377,Heaton, Burnley, England, Premier League,1 ,3 ,Right ,"188cm | 6'2"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,30,76,GK,400,0%,2%
+1677,Milinkovic-Savic, Lazio, Serbia, Calcio A,3 ,4 ,Right ,"191cm | 6'3"" ",76 ,Normal,Med,High,2016-09-21,N\A ,21,76,CM,600,-3%,-4%
+1445,El Zhar, UD Las Palmas, Morocco, LaLiga Santander ,4 ,3 ,Right ,"175cm | 5'8"" ",66 ,Normal,Low,Med,2016-09-21,N\A ,30,76,RM,450,-38%,-10%
+1343,Barbosa, Villarreal CF, Argentina, LaLiga Santander ,1 ,2 ,Right ,"188cm | 6'2"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,32,76,GK,450,-25%,4%
+1422,Cerci, Atlético Madrid, Italy, LaLiga Santander ,4 ,3 ,Left ,"180cm | 5'10"" ",78 ,Normal,Low,Med,2016-09-21,N\A ,29,76,RW,1100,1%,-13%
+1330,Douchez, RC Lens, France, Domino's Ligue 2,1 ,3 ,Right ,"186cm | 6'1"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,36,76,GK,450,1%,-3%
+1604,Marçal, EA Guingamp, Brazil, Ligue 1,3 ,4 ,Left ,"178cm | 5'10"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,27,76,LB,550,1%,7%
+1534,Héldon, Rio Ave FC, Cape Verde Islands, LIGA NOS,4 ,3 ,Right ,"174cm | 5'8"" ",68 ,Normal,Low,High,2016-09-21,N\A ,28,76,LW,400,-1%,4%
+1317,Olsson, West Brom, Sweden, Premier League,2 ,3 ,Left ,"193cm | 6'3"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,33,76,CB,850,-22%,18%
+1599,Weiser, Hertha BSC, Germany, Bundesliga,4 ,4 ,Right ,"176cm | 5'9"" ",67 ,Normal,Med,High,2016-09-21,N\A ,22,76,RB,500,-22%,-13%
+1474,Ayité, Fulham, Togo, EFL Championship,4 ,4 ,Right ,"174cm | 5'8"" ",68 ,Normal,Med,High,2016-09-21,N\A ,27,76,LM,400,3%,4%
+1584,Vaclík, FC Basel, Czech Republic, Raiffeisen SL,1 ,3 ,Right ,"188cm | 6'2"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,27,76,GK,400,0%,0%
+1419,Granero, Real Sociedad, Spain, LaLiga Santander ,3 ,4 ,Right ,"180cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,29,76,CM,500,-21%,0%
+1631,Roco, Cruz Azul, Chile, LIGA Bancomer MX,2 ,3 ,Right ,"189cm | 6'2"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,24,76,CB,450,0%,6%
+1614,Duncan, Sassuolo, Ghana, Calcio A,3 ,3 ,Left ,"178cm | 5'10"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,23,76,CM,600,1%,-7%
+1358,Àngel Rangel, Swansea City, Spain, Premier League,3 ,3 ,Right ,"180cm | 5'10"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,34,76,RB,450,0%,2%
+1441,Lemoine, Saint-Etienne, France, Ligue 1,2 ,3 ,Right ,"175cm | 5'8"" ",67 ,Normal,High,Med,2016-09-21,N\A ,29,76,CM,450,0%,4%
+1433,Ekdal, Hamburger SV, Sweden, Bundesliga,3 ,3 ,Right ,"186cm | 6'1"" ",82 ,Normal,Med,High,2016-09-21,N\A ,27,76,CM,650,-20%,-8%
+1390,Kerzhakov, Zenit, Russia, Russian League,1 ,3 ,Right ,"191cm | 6'3"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,29,76,GK,400,1%,5%
+1467,Ward, Crystal Palace, England, Premier League,2 ,3 ,Right ,"188cm | 6'2"" ",83 ,Normal,Med,High,2016-09-21,N\A ,27,76,RB,450,-3%,6%
+1374,Konko, Atalanta, France, Calcio A,3 ,3 ,Right ,"184cm | 6'0"" ",71 ,Normal,Med,High,2016-09-21,N\A ,32,76,RB,850,12%,-3%
+1479,Serey Dié, FC Basel, Ivory Coast, Raiffeisen SL,2 ,3 ,Right ,"179cm | 5'10"" ",77 ,Normal,High,Med,2016-09-21,N\A ,32,76,CDM,400,0%,0%
+1454,Mercado, Sevilla FC, Argentina, LaLiga Santander ,2 ,3 ,Right ,"180cm | 5'10"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,29,76,RB,600,-14%,-6%
+1562,Fedetskyi, Darmstadt, Ukraine, Bundesliga,2 ,3 ,Right ,"183cm | 6'0"" ",76 ,Normal,High,High,2016-09-21,N\A ,31,76,RB,450,-24%,-7%
+1448,Gottardi, CS Marítimo, Brazil, LIGA NOS,1 ,3 ,Right ,"193cm | 6'3"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,31,76,GK,400,4%,0%
+1764,Jojic, 1. FC Köln, Serbia, Bundesliga,3 ,3 ,Right ,"177cm | 5'9"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,24,75,CM,500,-23%,-6%
+1689,Given, Stoke City, Republic of Ireland, Premier League,1 ,3 ,Right ,"185cm | 6'0"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,40,75,GK,400,-2%,3%
+2015,Bargfrede, Werder Bremen, Germany, Bundesliga,2 ,3 ,Right ,"174cm | 5'8"" ",71 ,Normal,Med,Med,2016-09-21,N\A ,27,75,CDM,450,-6%,5%
+14744,Mannone, Sunderland, Italy, Premier League,1 ,3 ,Right ,"188cm | 6'2"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,28,75,GK,400,-2%,5%
+1932,Donati, 1. FSV Mainz 05, Italy, Bundesliga,2 ,3 ,Right ,"178cm | 5'10"" ",76 ,Normal,High,Med,2016-09-21,N\A ,26,75,RB,500,-22%,-17%
+14745,Hooper, Sheffield Wed, England, EFL Championship,3 ,2 ,Right ,"175cm | 5'8"" ",71 ,Normal,Low,Med,2016-09-21,N\A ,28,75,ST,400,5%,4%
+1725,Ferreyra, FC Shakhtar, Argentina, Ukrayina Liha,3 ,3 ,Right ,"187cm | 6'1"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,25,75,ST,700,-9%,38%
+1809,Ben-Hatira, Darmstadt, Tunisia, Bundesliga,4 ,5 ,Left ,"183cm | 6'0"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,28,75,LM,500,-36%,-2%
+1771,Corujo, San Lorenzo, Uruguay, Primera División,2 ,4 ,Right ,"170cm | 5'6"" ",73 ,Normal,Med,High,2016-09-21,N\A ,30,75,RB,400,7%,4%
+14736,Gazzi, Palermo, Italy, Calcio A,2 ,3 ,Left ,"184cm | 6'0"" ",78 ,Normal,High,Low,2016-09-21,N\A ,33,75,CDM,400,-8%,-3%
+14722,Fritz, Werder Bremen, Germany, Bundesliga,2 ,3 ,Right ,"183cm | 6'0"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,35,75,CM,600,-17%,-10%
+2049,Izquierdoz, Santos Laguna, Argentina, LIGA Bancomer MX,2 ,2 ,Right ,"184cm | 6'0"" ",89 ,Normal,Med,Low,2016-09-21,N\A ,28,75,CB,1300,-35%,109%
+14731,Kaldirim, Fenerbahçe SK, Turkey, Süper Lig,3 ,2 ,Left ,"183cm | 6'0"" ",75 ,Normal,High,High,2016-09-21,N\A ,26,75,LB,4100,5%,-3%
+2088,Pereyra, FC Krasnodar, Uruguay, Russian League,3 ,2 ,Right ,"170cm | 5'6"" ",63 ,Normal,Med,Med,2016-09-21,N\A ,26,75,CM,400,-3%,1%
+2091,Inui, SD Eibar, Japan, LaLiga Santander ,3 ,3 ,Right ,"169cm | 5'6"" ",63 ,Normal,Med,Med,2016-09-21,N\A ,28,75,LM,450,-20%,-20%
+14728,Rensing, F. Düsseldorf, Germany, Bundesliga 2,1 ,3 ,Right ,"190cm | 6'2"" ",93 ,Normal,Med,Med,2016-09-21,N\A ,32,75,GK,400,0%,2%
+1983,Berisha, Atalanta, Albania, Calcio A,1 ,2 ,Left ,"194cm | 6'4"" ",92 ,Normal,Med,Med,2016-09-21,N\A ,27,75,GK,550,-9%,-1%
+1811,Babin, Sporting Gijón, France, LaLiga Santander ,2 ,3 ,Right ,"182cm | 5'11"" ",84 ,Normal,Med,High,2016-09-21,N\A ,30,75,CB,450,-26%,3%
+14705,Keane, Burnley, England, Premier League,2 ,3 ,Right ,"188cm | 6'2"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,23,75,CB,450,0%,7%
+2052,Jara, Boca Juniors, Argentina, Primera División,2 ,3 ,Right ,"183cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,25,75,RB,550,6%,20%
+1807,Marrugo, Indep. Medellín, Colombia, Liga Dimayor,3 ,4 ,Right ,"177cm | 5'9"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,31,75,CAM,400,2%,0%
+1944,D'Ambrosio, Inter, Italy, Calcio A,2 ,3 ,Right ,"180cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,28,75,RB,850,23%,-4%
+15016,Bussmann, 1. FSV Mainz 05, France, Bundesliga,2 ,2 ,Left ,"184cm | 6'0"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,25,75,LB,500,-8%,4%
+15000,Ibai Gómez, Deport. Alavés, Spain, LaLiga Santander ,3 ,4 ,Right ,"177cm | 5'9"" ",72 ,Normal,Med,High,2016-09-21,N\A ,27,75,LM,450,-20%,-6%
+14994,Kankava, Stade Reims, Georgia, Domino's Ligue 2,2 ,3 ,Right ,"177cm | 5'9"" ",70 ,Normal,High,Med,2016-09-21,N\A ,30,75,CDM,400,1%,0%
+14743,Miguel Torres, Málaga CF, Spain, LaLiga Santander ,2 ,4 ,Right ,"184cm | 6'0"" ",74 ,Normal,High,Low,2016-09-21,N\A ,30,75,LB,400,-32%,-13%
+1929,Paredes, Colo-Colo, Chile, Camp. Scotiabank,3 ,3 ,Left ,"178cm | 5'10"" ",82 ,Normal,Low,Med,2016-09-21,N\A ,36,75,ST,400,0%,1%
+1718,Kohr, FC Augsburg, Germany, Bundesliga,2 ,3 ,Right ,"183cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,22,75,CDM,400,-10%,0%
+1778,Kovalenko, FC Shakhtar, Ukraine, Ukrayina Liha,3 ,4 ,Right ,"182cm | 5'11"" ",75 ,Normal,High,High,2016-09-21,N\A ,20,75,CAM,400,-1%,1%
+1757,Hernández, Atlético Madrid, France, LaLiga Santander ,2 ,3 ,Left ,"180cm | 5'10"" ",75 ,Normal,Low,High,2016-09-21,N\A ,20,75,CB,800,-2%,10%
+1779,Muto, 1. FSV Mainz 05, Japan, Bundesliga,3 ,4 ,Right ,"179cm | 5'10"" ",72 ,Normal,High,High,2016-09-21,N\A ,24,75,ST,450,-14%,-3%
+2097,Denswil, Club Brugge, Netherlands, Pro League,2 ,4 ,Left ,"185cm | 6'0"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,23,75,CB,1900,27%,36%
+1977,Room, Vitesse, Netherlands Antilles, Eredivisie,1 ,3 ,Right ,"188cm | 6'2"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,27,75,GK,400,-1%,1%
+1715,Beric, Saint-Etienne, Slovenia, Ligue 1,2 ,3 ,Right ,"188cm | 6'2"" ",80 ,Normal,Med,High,2016-09-21,N\A ,25,75,ST,350,4%,9%
+1941,Redmond, Southampton, England, Premier League,4 ,3 ,Right ,"173cm | 5'8"" ",75 ,Normal,Med,High,2016-09-21,N\A ,22,75,RM,500,1%,9%
+15020,Ryder, Udinese, Brazil, Calcio A,3 ,3 ,Right ,"180cm | 5'10"" ",71 ,Normal,Med,High,2016-09-21,N\A ,23,75,ST,400,-5%,3%
+1716,Grifo, SC Freiburg, Italy, Bundesliga,4 ,3 ,Right ,"180cm | 5'10"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,23,75,LM,450,-31%,-6%
+14759,Bartels, Werder Bremen, Germany, Bundesliga,3 ,3 ,Right ,"176cm | 5'9"" ",69 ,Normal,Med,High,2016-09-21,N\A ,29,75,RM,500,-11%,-5%
+2089,Toño, Levante UD, Spain, Liga Adelante,2 ,3 ,Left ,"179cm | 5'10"" ",69 ,Normal,Med,High,2016-09-21,N\A ,27,75,LB,450,3%,12%
+2016,Fábio Espinho, Boavista, Portugal, LIGA NOS,2 ,3 ,Right ,"171cm | 5'7"" ",64 ,Normal,Med,High,2016-09-21,N\A ,31,75,CAM,400,1%,8%
+15003,Lowton, Burnley, England, Premier League,2 ,3 ,Right ,"180cm | 5'10"" ",78 ,Normal,Med,High,2016-09-21,N\A ,27,75,RB,450,-1%,5%
+1782,Ricca, Málaga CF, Uruguay, LaLiga Santander ,3 ,3 ,Left ,"179cm | 5'10"" ",72 ,Normal,Med,High,2016-09-21,N\A ,21,75,LB,450,-41%,-11%
+1733,Zengin, Beşiktaş JK, Turkey, Süper Lig,1 ,2 ,Right ,"192cm | 6'3"" ",90 ,Normal,Med,Med,2016-09-21,N\A ,33,75,GK,900,-22%,-26%
+1822,Nguyen, New England, United States, MLS,4 ,3 ,Right ,"173cm | 5'8"" ",68 ,Normal,Med,High,2016-09-21,N\A ,30,75,CAM,400,0%,0%
+1864,Naughton, Swansea City, England, Premier League,3 ,3 ,Right ,"180cm | 5'10"" ",73 ,Normal,Med,High,2016-09-21,N\A ,28,75,RB,450,-2%,0%
+14703,Mvogo, BSC Young Boys, Switzerland, Raiffeisen SL,1 ,3 ,Right ,"186cm | 6'1"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,22,75,GK,350,3%,0%
+1819,Hurmaci, Akhisarspor, Turkey, Süper Lig,4 ,4 ,Right ,"174cm | 5'8"" ",70 ,Normal,Med,High,2016-09-21,N\A ,30,75,CAM,600,-4%,-6%
+1705,Vázquez, Guadalajara, Mexico, LIGA Bancomer MX,2 ,3 ,Right ,"166cm | 5'5"" ",64 ,Normal,High,Med,2016-09-21,N\A ,28,75,CDM,400,1%,-2%
+1696,Mathis, AJ Auxerre, France, Domino's Ligue 2,2 ,3 ,Right ,"174cm | 5'8"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,35,75,CDM,450,-9%,5%
+1855,Athanasiadis, PAOK, Greece, Hellas Liga,3 ,3 ,Right ,"184cm | 6'0"" ",72 ,Normal,Med,High,2016-09-21,N\A ,27,75,ST,400,-1%,3%
+1770,Afonso Figueiredo, Stade Rennais, Portugal, Ligue 1,2 ,3 ,Left ,"169cm | 5'6"" ",63 ,Normal,Med,High,2016-09-21,N\A ,23,75,LB,400,3%,4%
+1874,Zeca, Panathinaikos, Portugal, Hellas Liga,3 ,3 ,Right ,"180cm | 5'10"" ",68 ,Normal,High,High,2016-09-21,N\A ,28,75,CM,400,5%,7%
+1815,Harnik, Hannover 96, Austria, Bundesliga 2,3 ,4 ,Right ,"186cm | 6'1"" ",80 ,Normal,Med,High,2016-09-21,N\A ,29,75,RM,400,0%,3%
+15013,Juan Jesus, Roma, Brazil, Calcio A,2 ,2 ,Left ,"185cm | 6'0"" ",76 ,Normal,High,Med,2016-09-21,N\A ,25,75,LB,600,12%,-5%
+1769,Cervi, SL Benfica, Argentina, LIGA NOS,4 ,3 ,Left ,"169cm | 5'6"" ",67 ,Normal,Med,High,2016-09-21,N\A ,22,75,LM,600,11%,15%
+1936,Araujo, UD Las Palmas, Argentina, LaLiga Santander ,4 ,4 ,Right ,"180cm | 5'10"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,24,75,ST,450,-13%,0%
+1810,Kolár, Gaziantepspor, Czech Republic, Süper Lig,3 ,4 ,Right ,"180cm | 5'10"" ",77 ,Normal,Low,Med,2016-09-21,N\A ,31,75,CAM,700,-4%,-11%
+1987,Guaita, Getafe CF, Spain, Liga Adelante,1 ,3 ,Right ,"190cm | 6'2"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,29,75,GK,400,0%,4%
+1821,Danzé, Stade Rennais, France, Ligue 1,2 ,3 ,Right ,"184cm | 6'0"" ",73 ,Normal,Med,High,2016-09-21,N\A ,30,75,RB,450,18%,6%
+14764,Moralez, Club León, Argentina, LIGA Bancomer MX,3 ,4 ,Right ,"158cm | 5'2"" ",56 ,Normal,Med,Med,2016-09-21,N\A ,29,75,CF,400,4%,3%
+15001,Gálvez, SD Eibar, Spain, LaLiga Santander ,2 ,3 ,Right ,"190cm | 6'2"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,27,75,CB,400,-10%,-2%
+2090,Mendy, AS Monaco, France, Ligue 1,2 ,3 ,Left ,"185cm | 6'0"" ",85 ,Normal,Med,High,2016-09-21,N\A ,22,75,LB,400,6%,1%
+1971,Hanni, RSC Anderlecht, Algeria, Pro League,4 ,4 ,Right ,"178cm | 5'10"" ",68 ,Normal,Med,High,2016-09-21,N\A ,25,75,CAM,400,0%,1%
+1703,Squillaci, SC Bastia, France, Ligue 1,2 ,3 ,Right ,"185cm | 6'0"" ",80 ,Normal,High,Med,2016-09-21,N\A ,36,75,CB,450,2%,8%
+1773,Acuña, Racing Club, Argentina, Primera División,3 ,3 ,Left ,"172cm | 5'7"" ",72 ,Normal,High,Med,2016-09-21,N\A ,25,75,LM,500,7%,17%
+1823,Vives, Torino, Italy, Calcio A,2 ,4 ,Right ,"178cm | 5'10"" ",70 ,Normal,High,Low,2016-09-21,N\A ,36,75,CDM,450,-11%,-4%
+2073,Griffiths, Celtic, Scotland, Scottish Prem,3 ,4 ,Left ,"173cm | 5'8"" ",76 ,Normal,Med,High,2016-09-21,N\A ,26,75,ST,400,-1%,2%
+1849,Forlin, Querétaro, Argentina, LIGA Bancomer MX,2 ,3 ,Right ,"180cm | 5'10"" ",71 ,Normal,High,Med,2016-09-21,N\A ,28,75,CB,400,-2%,10%
+1690,Gilardino, Empoli, Italy, Calcio A,2 ,3 ,Right ,"184cm | 6'0"" ",79 ,Normal,Med,High,2016-09-21,N\A ,34,75,ST,400,-6%,0%
+1984,Hübner, 1899 Hoffenheim, Germany, Bundesliga,2 ,2 ,Left ,"193cm | 6'3"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,27,75,CB,400,-11%,-1%
+1700,McGregor, Hull City, Scotland, Premier League,1 ,3 ,Right ,"183cm | 6'0"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,34,75,GK,400,-8%,1%
+1816,Gashi, Colorado Rapids, Albania, MLS,3 ,3 ,Left ,"182cm | 5'11"" ",75 ,Normal,Med,High,2016-09-21,N\A ,28,75,LM,400,0%,1%
+1713,Tiago Rodrigues, CD Nacional, Portugal, LIGA NOS,3 ,3 ,Right ,"177cm | 5'9"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,24,75,CM,400,10%,4%
+1970,Carmona, Atalanta, Chile, Calcio A,2 ,3 ,Right ,"178cm | 5'10"" ",68 ,Normal,High,High,2016-09-21,N\A ,29,75,CM,550,-7%,3%
+14761,Howson, Norwich City, England, EFL Championship,3 ,4 ,Right ,"180cm | 5'10"" ",77 ,Normal,High,Med,2016-09-21,N\A ,28,75,CM,450,3%,3%
+1783,Rog, Napoli, Croatia, Calcio A,3 ,3 ,Right ,"180cm | 5'10"" ",73 ,Normal,Med,High,2016-09-21,N\A ,21,75,CAM,450,-14%,1%
+2004,Botía, Olympiakos CFP, Spain, Hellas Liga,2 ,2 ,Right ,"187cm | 6'1"" ",80 ,Normal,High,Med,2016-09-21,N\A ,27,75,CB,400,8%,40%
+1776,Amiri, 1899 Hoffenheim, Germany, Bundesliga,3 ,3 ,Right ,"180cm | 5'10"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,20,75,CAM,400,-9%,4%
+15006,Sviatchenko, Celtic, Denmark, Scottish Prem,2 ,4 ,Right ,"185cm | 6'0"" ",82 ,Normal,Med,High,2016-09-21,N\A ,25,75,CB,350,1%,4%
+2046,Videla, Racing Club, Argentina, Primera División,2 ,2 ,Right ,"174cm | 5'8"" ",73 ,Normal,High,Med,2016-09-21,N\A ,28,75,CM,700,2%,20%
+1805,Ovelar, Junior FC, Paraguay, Liga Dimayor,3 ,4 ,Right ,"180cm | 5'10"" ",81 ,Normal,Low,Med,2016-09-21,N\A ,30,75,ST,400,1%,1%
+1924,Jara, Uni. de Chile, Chile, Camp. Scotiabank,2 ,4 ,Right ,"178cm | 5'10"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,31,75,CB,400,4%,2%
+2011,Ionita, Cagliari, Moldova, Calcio A,3 ,3 ,Right ,"184cm | 6'0"" ",73 ,Normal,Med,High,2016-09-21,N\A ,26,75,CM,600,-15%,-8%
+1761,Cardinale, OGC Nice, France, Ligue 1,1 ,3 ,Right ,"181cm | 5'11"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,22,75,GK,550,10%,-2%
+14982,El Ahmadi, Feyenoord, Morocco, Eredivisie,3 ,2 ,Right ,"179cm | 5'10"" ",78 ,Normal,High,Med,2016-09-21,N\A ,31,75,CM,400,2%,9%
+1980,Durmaz, Toulouse FC, Sweden, Ligue 1,4 ,4 ,Left ,"180cm | 5'10"" ",69 ,Normal,Med,High,2016-09-21,N\A ,27,75,LM,450,1%,4%
+14711,Gerard Moreno, RCD Espanyol, Spain, LaLiga Santander ,2 ,4 ,Left ,"177cm | 5'9"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,24,75,ST,450,-14%,-1%
+1934,Juanmi, Real Sociedad, Spain, LaLiga Santander ,3 ,3 ,Right ,"170cm | 5'6"" ",63 ,Normal,Med,High,2016-09-21,N\A ,23,75,CAM,400,-11%,-3%
+1735,Diego Castro, Perth Glory, Spain, Hyundai A-League,4 ,4 ,Right ,"174cm | 5'8"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,34,75,CF,450,1%,1%
+2071,Serantes, CD Leganés, Spain, LaLiga Santander ,1 ,3 ,Right ,"182cm | 5'11"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,27,75,GK,450,-12%,-4%
+1884,Kisa, Bursaspor, Turkey, Süper Lig,3 ,3 ,Left ,"180cm | 5'10"" ",70 ,Normal,Low,Med,2016-09-21,N\A ,33,75,CM,700,-1%,-8%
+15018,Torje, Terek Grozny, Romania, Russian League,3 ,4 ,Right ,"168cm | 5'6"" ",71 ,Normal,Low,High,2016-09-21,N\A ,26,75,LM,400,-1%,9%
+1942,Taïder, Bologna, Algeria, Calcio A,3 ,3 ,Right ,"180cm | 5'10"" ",73 ,Normal,Med,High,2016-09-21,N\A ,24,75,CM,600,-4%,1%
+1737,Juan Rodriguez, RCD Mallorca, Spain, Liga Adelante,2 ,3 ,Right ,"185cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,34,75,CDM,400,6%,2%
+2077,Kebano, Fulham, DR Congo, EFL Championship,4 ,3 ,Right ,"170cm | 5'6"" ",65 ,Normal,Med,High,2016-09-21,N\A ,24,75,CAM,400,0%,4%
+14987,Diamanti, Palermo, Italy, Calcio A,4 ,2 ,Left ,"180cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,33,75,CF,400,0%,1%
+1723,Castillo, Uni. Católica, Chile, Camp. Scotiabank,3 ,3 ,Right ,"177cm | 5'9"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,23,75,ST,400,0%,1%
+1894,Castro, Málaga CF, Uruguay, LaLiga Santander ,3 ,3 ,Left ,"176cm | 5'9"" ",70 ,Normal,Low,High,2016-09-21,N\A ,32,75,LW,800,-15%,-24%
+2075,Viviani, Bologna, Italy, Calcio A,3 ,4 ,Right ,"180cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,24,75,CM,600,-1%,-1%
+1710,Douglas Santos, Hamburger SV, Brazil, Bundesliga,2 ,3 ,Left ,"173cm | 5'8"" ",67 ,Normal,Med,High,2016-09-21,N\A ,22,75,LB,550,-5%,4%
+15010,Berghuis, Feyenoord, Netherlands, Eredivisie,3 ,3 ,Left ,"182cm | 5'11"" ",70 ,Normal,Low,Med,2016-09-21,N\A ,24,75,RW,400,-2%,5%
+1869,Ionov, CSKA Moskva, Russia, Russian League,3 ,4 ,Left ,"177cm | 5'9"" ",69 ,Normal,Low,Med,2016-09-21,N\A ,27,75,RM,400,4%,12%
+1751,Kranjcar, Rangers, Croatia, Scottish Prem,4 ,3 ,Right ,"185cm | 6'0"" ",75 ,Normal,Low,Med,2016-09-21,N\A ,32,75,CM,400,0%,1%
+1820,Mangani, Angers SCO, France, Ligue 1,2 ,2 ,Left ,"183cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,29,75,CM,450,4%,2%
+1727,Balanta, FC Basel, Colombia, Raiffeisen SL,2 ,2 ,Left ,"181cm | 5'11"" ",84 ,Normal,Med,High,2016-09-21,N\A ,23,75,CB,400,3%,7%
+2056,Jedvaj, Bayer 04, Croatia, Bundesliga,2 ,3 ,Right ,"184cm | 6'0"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,20,75,RB,500,-26%,-9%
+2379,Ignjovski, SC Freiburg, Serbia, Bundesliga,2 ,4 ,Right ,"175cm | 5'8"" ",71 ,Normal,High,Med,2016-09-21,N\A ,25,74,RB,2700,1%,60%
+2510,Konaté, FC Sion, Senegal, Raiffeisen SL,3 ,4 ,Right ,"183cm | 6'0"" ",78 ,Normal,Med,High,2016-09-21,N\A ,23,74,ST,500,3%,9%
+2173,Lopo, Gimnàstic, Spain, Liga Adelante,2 ,3 ,Right ,"186cm | 6'1"" ",81 ,Normal,High,Low,2016-09-21,N\A ,36,74,CB,350,22%,-3%
+2537,Villalba, Tijuana, Argentina, LIGA Bancomer MX,3 ,4 ,Right ,"172cm | 5'7"" ",67 ,Normal,Med,Med,2016-09-21,N\A ,22,74,RM,1100,-8%,35%
+2634,Lanzarote, Real Zaragoza, Spain, Liga Adelante,2 ,3 ,Left ,"178cm | 5'10"" ",69 ,Normal,Med,Med,2016-09-21,N\A ,32,73,RM,750,14%,-12%
+2680,Murray, Brighton, England, EFL Championship,2 ,3 ,Right ,"185cm | 6'0"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,33,73,ST,350,0%,9%
+2614,Olic, 1860 Munich, Croatia, Bundesliga 2,3 ,4 ,Left ,"182cm | 5'11"" ",85 ,Normal,High,High,2016-09-21,N\A ,37,73,ST,850,45%,0%
+2988,Makola, Orlando Pirates, South Africa, South African FL,3 ,3 ,Right ,"173cm | 5'8"" ",71 ,Normal,Med,High,2016-09-21,N\A ,30,73,CAM,350,0%,1%
+2993,Vargas, Deportivo Cali, Colombia, Liga Dimayor,1 ,3 ,Left ,"185cm | 6'0"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,27,73,GK,450,-30%,-2%
+2926,Joan Román, Śląsk Wrocław, Spain, Ekstraklasa,3 ,2 ,Right ,"171cm | 5'7"" ",65 ,Normal,Med,Med,2016-09-21,N\A ,23,73,LM,600,-14%,0%
+2745,Gulácsi, RB Leipzig, Hungary, Bundesliga,1 ,3 ,Right ,"190cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,26,73,GK,850,24%,-8%
+3655,Blake, Philadelphia, Jamaica, MLS,1 ,2 ,Right ,"193cm | 6'3"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,26,72,GK,950,8%,3%
+3613,Aketxe, Athletic Bilbao, Spain, LaLiga Santander ,3 ,3 ,Left ,"174cm | 5'8"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,22,72,LM,500,31%,-50%
+3421,Lazarevic, Karabükspor, Slovenia, Süper Lig,4 ,4 ,Right ,"174cm | 5'8"" ",66 ,Normal,Low,High,2016-09-21,N\A ,26,72,LM,500,0%,9%
+3311,Smith, Ipswich Town, New Zealand, EFL Championship,2 ,2 ,Left ,"187cm | 6'1"" ",82 ,Normal,High,Med,2016-09-21,N\A ,26,72,CB,400,1%,20%
+3742,Caktaš, Rubin Kazan, Croatia, Russian League,3 ,4 ,Right ,"178cm | 5'10"" ",68 ,Normal,Med,High,2016-09-21,N\A ,24,72,CAM,1000,9%,-20%
+3687,Klostermann, RB Leipzig, Germany, Bundesliga,2 ,3 ,Right ,"189cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,20,72,RB,1100,-2%,0%
+3188,Kobin, FC Shakhtar, Ukraine, Ukrayina Liha,2 ,3 ,Right ,"179cm | 5'10"" ",74 ,Normal,High,Med,2016-09-21,N\A ,31,72,RB,350,-2%,193%
+3237,Tomlin, Bristol City, England, EFL Championship,3 ,3 ,Right ,"180cm | 5'10"" ",74 ,Normal,Med,High,2016-09-21,N\A ,27,72,CAM,350,-4%,6%
+3356,Noone, Cardiff City, England, EFL Championship,4 ,2 ,Left ,"177cm | 5'9"" ",69 ,Normal,Med,High,2016-09-21,N\A ,29,72,RM,700,18%,1%
+3566,Al Hussien, Al-Taawoun, Syria, ALJ League,4 ,4 ,Right ,"168cm | 5'6"" ",63 ,Normal,Med,Med,2016-09-21,N\A ,34,72,CAM,350,-2%,10%
+3668,Ajagun, Roda JC, Nigeria, Eredivisie,3 ,3 ,Right ,"165cm | 5'4"" ",60 ,Normal,Low,High,2016-09-21,N\A ,23,72,CAM,700,8%,11%
+3530,Kverkvelia, Rubin Kazan, Georgia, Russian League,2 ,2 ,Right ,"196cm | 6'5"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,24,72,CB,400,-1%,3%
+3329,Pesyakov, Spartak Moskva, Russia, Russian League,1 ,3 ,Right ,"199cm | 6'6"" ",92 ,Normal,Med,Med,2016-09-21,N\A ,27,72,GK,600,-4%,3%
+3611,McNair, Sunderland, Northern Ireland, Premier League,2 ,3 ,Right ,"183cm | 6'0"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,21,72,CDM,350,0%,16%
+3788,Jones, Sunderland, England, Premier League,2 ,3 ,Right ,"180cm | 5'10"" ",77 ,Normal,Med,High,2016-09-21,N\A ,29,71,RB,500,14%,0%
+4205,Busk, Union Berlin, Denmark, Bundesliga 2,1 ,2 ,Right ,"189cm | 6'2"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,23,71,GK,300,-9%,16%
+3905,Faty, Bursaspor, Senegal, Süper Lig,2 ,3 ,Right ,"192cm | 6'3"" ",82 ,Normal,High,Med,2016-09-21,N\A ,30,71,CDM,400,0%,6%
+4101,Ebecilio, Anzhi Makhach., Netherlands, Russian League,4 ,3 ,Right ,"177cm | 5'9"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,25,71,CAM,350,21%,-8%
+4353,Bensebaini, Stade Rennais, Algeria, Ligue 1,2 ,3 ,Left ,"186cm | 6'1"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,21,71,LB,700,-2%,1%
+3947,Nogueira, RC Strasbourg, France, Domino's Ligue 2,3 ,3 ,Right ,"170cm | 5'6"" ",61 ,Normal,High,High,2016-09-21,N\A ,28,71,CDM,350,1%,19%
+3809,Figueroa, Newell's, Argentina, Primera División,4 ,3 ,Right ,"168cm | 5'6"" ",63 ,Normal,Med,High,2016-09-21,N\A ,33,71,CM,500,5%,-7%
+4031,Makeev, Spartak Moskva, Russia, Russian League,2 ,3 ,Right ,"181cm | 5'11"" ",73 ,Normal,Med,High,2016-09-21,N\A ,27,71,CB,1000,-1%,-3%
+4839,Achahbar, PEC Zwolle, Netherlands, Eredivisie,4 ,4 ,Left ,"174cm | 5'8"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,22,70,ST,500,9%,24%
+14949,Paurevic, Huddersfield, Croatia, EFL Championship,2 ,4 ,Right ,"194cm | 6'4"" ",86 ,Normal,High,Low,2016-09-21,N\A ,25,70,CDM,550,28%,-13%
+14866,Carlos David, SD Huesca, Spain, Liga Adelante,2 ,3 ,Right ,"185cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,30,70,CB,500,-14%,11%
+14803,Salazar, Rosario Ctral. , Argentina, Primera División,2 ,2 ,Right ,"175cm | 5'8"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,23,70,RB,750,41%,-8%
+14808,André Moreira, Atlético Madrid, Portugal, LaLiga Santander ,1 ,2 ,Right ,"195cm | 6'4"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,20,70,GK,1100,2%,5%
+5229,Occéan, ODD, Canada, Tippeligaen,2 ,3 ,Right ,"185cm | 6'0"" ",86 ,Normal,Med,High,2016-09-21,N\A ,35,69,ST,900,7%,39%
+5458,Wakalible, RCD Mallorca, Ivory Coast, Liga Adelante,4 ,4 ,Left ,"182cm | 5'11"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,25,69,RM,300,9%,5%
+5226,Halsti, FC Midtjylland, Finland, Alka Superliga,2 ,3 ,Right ,"185cm | 6'0"" ",84 ,Normal,High,Low,2016-09-21,N\A ,32,69,CDM,300,5%,-10%
+5604,Kochenkov, Tom Tomsk, Kyrgyzstan, Russian League,1 ,3 ,Right ,"197cm | 6'5"" ",87 ,Normal,Med,Med,2016-09-21,N\A ,29,69,GK,500,4%,1%
+5330,Vincelot, Bradford City, France, Football League,3 ,3 ,Right ,"177cm | 5'9"" ",71 ,Normal,High,Med,2016-09-21,N\A ,31,69,CDM,300,8%,-11%
+5948,Mrcela, Jeonnam Dragons, Australia, K LEAGUE Classic,2 ,3 ,Right ,"195cm | 6'4"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,26,69,CB,350,-5%,-8%
+5879,João Teixeira, Wolves, Portugal, EFL Championship,3 ,3 ,Right ,"179cm | 5'10"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,22,69,LW,350,-5%,19%
+6008,Ceylan, Başakşehir, Turkey, Süper Lig,1 ,2 ,Left ,"194cm | 6'4"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,30,68,GK,450,2%,-4%
+6018,O'Grady, Burton Albion, England, EFL Championship,3 ,3 ,Right ,"191cm | 6'3"" ",78 ,Normal,Low,High,2016-09-21,N\A ,30,68,ST,400,0%,9%
+6698,Dudú, Ventforet Kofu, Brazil,Meiji Yasuda J1,3 ,3 ,Right ,"180cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,26,68,RW,900,6%,8%
+6207,Feltscher, Getafe CF, Venezuela, Liga Adelante,2 ,3 ,Right ,"181cm | 5'11"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,26,68,RB,450,-9%,8%
+7168,Jaime Gavilán, Suwon FC, Spain, K LEAGUE Classic,2 ,3 ,Left ,"178cm | 5'10"" ",75 ,Normal,Med,High,2016-09-21,N\A ,31,67,CM,550,-7%,3%
+7062,Ghoddos, Östersunds FK, Sweden, Allsvenskan,3 ,3 ,Right ,"176cm | 5'9"" ",75 ,Normal,Med,High,2016-09-21,N\A ,23,67,CAM,400,10%,-3%
+7286,Gamboa, Le Havre AC, France, Domino's Ligue 2,3 ,4 ,Left ,"177cm | 5'9"" ",73 ,Normal,Low,Med,2016-09-21,N\A ,30,67,LM,700,20%,-17%
+6948,Mac-Intosch, Port Vale, Suriname, Football League,2 ,3 ,Right ,"181cm | 5'11"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,27,67,CB,550,22%,-9%
+7712,Frankowski, Jagiellonia, Poland, Ekstraklasa,3 ,3 ,Left ,"175cm | 5'8"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,21,67,RM,550,14%,-17%
+7334,Moretti, Latina, Italy, Calcio B,3 ,3 ,Right ,"187cm | 6'1"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,28,67,CM,550,6%,23%
+7407,Dembélé, Le Havre AC, Mali, Domino's Ligue 2,3 ,3 ,Right ,"184cm | 6'0"" ",82 ,Normal,Low,Med,2016-09-21,N\A ,27,67,ST,400,9%,-6%
+8204,Bettinelli, Fulham, England, EFL Championship,1 ,3 ,Right ,"194cm | 6'4"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,24,66,GK,400,14%,4%
+8038,Elsneg, SV Ried, Austria, O. Bundesliga,4 ,3 ,Left ,"176cm | 5'9"" ",74 ,Normal,Med,High,2016-09-21,N\A ,26,66,CAM,300,-3%,0%
+7844,Borring, FC Midtjylland, Denmark, Alka Superliga,3 ,3 ,Left ,"193cm | 6'3"" ",81 ,Normal,Med,High,2016-09-21,N\A ,31,66,LM,400,-14%,5%
+8051,Sordell, Coventry City, England, Football League,3 ,3 ,Right ,"177cm | 5'9"" ",81 ,Normal,Low,Med,2016-09-21,N\A ,25,66,ST,500,3%,3%
+2104,Sandro, Málaga CF, Spain, LaLiga Santander ,3 ,4 ,Right ,"175cm | 5'8"" ",71 ,Normal,Med,High,2016-09-21,N\A ,21,74,ST,1700,3%,23%
+2590,El Hamdaoui, Al-Taawoun, Morocco, ALJ League,3 ,3 ,Right ,"183cm | 6'0"" ",84 ,Normal,Low,Med,2016-09-21,N\A ,32,73,ST,250,-100%,-
+2711,Stieber, 1. FC K'lautern, Hungary, Bundesliga 2,3 ,3 ,Left ,"175cm | 5'8"" ",67 ,Normal,Med,Med,2016-09-21,N\A ,28,73,RM,200,-100%,-
+3040,André Claro, Vitória FC, Portugal, LIGA NOS,3 ,3 ,Right ,"183cm | 6'0"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,25,73,ST,1100,13%,2%
+3002,Selke, RB Leipzig, Germany, Bundesliga,2 ,3 ,Right ,"192cm | 6'3"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,21,73,ST,250,-100%,-
+2664,Maduro, FC Groningen, Netherlands, Eredivisie,2 ,3 ,Right ,"188cm | 6'2"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,31,73,CDM,200,-,-
+3728,Buitrago, Cortuluá, Colombia, Liga Dimayor,3 ,2 ,Left ,"178cm | 5'10"" ",76 ,Normal,High,Med,2016-09-21,N\A ,25,72,CAM,200,-,-
+3480,Landre, RC Lens, France, Domino's Ligue 2,2 ,3 ,Right ,"182cm | 5'11"" ",75 ,Normal,High,Med,2016-09-21,N\A ,24,72,CB,200,-100%,-
+3698,Zé Manuel, Vitória FC, Portugal, LIGA NOS,3 ,4 ,Right ,"178cm | 5'10"" ",71 ,Normal,Med,High,2016-09-21,N\A ,26,72,ST,1400,25%,-43%
+3291,Hansen, FC Ingolstadt, Denmark, Bundesliga,1 ,3 ,Right ,"188cm | 6'2"" ",87 ,Normal,Med,Med,2016-09-21,N\A ,26,72,GK,250,-100%,-
+3120,Agazzi, Cesena, Italy, Calcio B,1 ,2 ,Right ,"190cm | 6'2"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,32,72,GK,400,-7%,15%
+3682,Gruezo, FC Dallas, Ecuador, MLS,2 ,3 ,Right ,"171cm | 5'7"" ",67 ,Normal,High,Low,2016-09-21,N\A ,21,72,CDM,1800,22%,-16%
+3510,Kitsiou, PAOK, Greece, Hellas Liga,2 ,3 ,Right ,"173cm | 5'8"" ",70 ,Normal,High,Med,2016-09-21,N\A ,23,72,RB,200,-100%,-
+3153,Seoane, CD Lugo, Spain, Liga Adelante,2 ,3 ,Right ,"179cm | 5'10"" ",75 ,Normal,High,High,2016-09-21,N\A ,33,72,CDM,200,-,-
+3591,Leipertz, FC Ingolstadt, Germany, Bundesliga,2 ,4 ,Left ,"183cm | 6'0"" ",82 ,Normal,Med,High,2016-09-21,N\A ,23,72,RM,550,-3%,-24%
+3705,Dyego Sousa, CS Marítimo, Brazil, LIGA NOS,2 ,3 ,Right ,"188cm | 6'2"" ",81 ,Normal,Med,High,2016-09-21,N\A ,27,72,ST,900,35%,-38%
+3619,Moreno, Indep. Medellín, Colombia, Liga Dimayor,2 ,2 ,Right ,"178cm | 5'10"" ",71 ,Normal,High,Med,2016-09-21,N\A ,25,72,CDM,200,-,-
+3142,Nugent, Middlesbrough, England, Premier League,3 ,3 ,Right ,"180cm | 5'10"" ",81 ,Normal,Med,High,2016-09-21,N\A ,31,72,ST,400,-15%,30%
+3303,Kike Sola, Getafe CF, Spain, Liga Adelante,3 ,3 ,Right ,"184cm | 6'0"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,30,72,ST,200,-100%,-
+3189,Viera, Junior FC, Uruguay, Liga Dimayor,1 ,3 ,Right ,"185cm | 6'0"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,33,72,GK,200,-,-
+3502,Vranješ, Tom Tomsk, Bosnia Herzegovina, Russian League,2 ,3 ,Right ,"182cm | 5'11"" ",74 ,Normal,High,Med,2016-09-21,N\A ,27,72,CB,200,-,-
+4259,Fuentes, San Luis de Quillota, Chile, Camp. Scotiabank,3 ,4 ,Left ,"169cm | 5'6"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,32,71,CAM,200,-,-
+4116,Colin, Brentford, France, EFL Championship,2 ,3 ,Right ,"179cm | 5'10"" ",76 ,Normal,Med,High,2016-09-21,N\A ,25,71,RB,250,-100%,-
+3770,Brozek, Wisła Kraków, Poland, Ekstraklasa,3 ,4 ,Right ,"180cm | 5'10"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,33,71,ST,200,-100%,-
+4361,Ferrari, Crotone, Italy, Calcio A,2 ,3 ,Left ,"189cm | 6'2"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,24,71,CB,300,-7%,-9%
+3865,Lee, Sheffield Wed, England, EFL Championship,3 ,3 ,Right ,"178cm | 5'10"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,28,71,CM,200,-100%,-
+4382,Raillo, RCD Mallorca, Spain, Liga Adelante,2 ,3 ,Right ,"186cm | 6'1"" ",77 ,Normal,High,Low,2016-09-21,N\A ,25,71,CB,200,-,-
+4318,Arango, Al. Petrolera, Colombia, Liga Dimayor,4 ,3 ,Right ,"170cm | 5'6"" ",63 ,Normal,Med,High,2016-09-21,N\A ,22,71,RM,200,-100%,-
+4243,Castellanos, Ind. Santa Fe, Colombia, Liga Dimayor,1 ,3 ,Right ,"183cm | 6'0"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,32,71,GK,200,-100%,-
+4388,Leandro Silva, Paços Ferreira, Portugal, LIGA NOS,2 ,3 ,Right ,"173cm | 5'8"" ",71 ,Normal,Med,Med,2016-09-21,N\A ,22,71,CM,1300,82%,-38%
+3908,Bassi, Atalanta, Italy, Calcio A,1 ,2 ,Right ,"190cm | 6'2"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,31,71,GK,250,-,-
+4211,Cikalleshi, Başakşehir, Albania, Süper Lig,3 ,4 ,Right ,"185cm | 6'0"" ",80 ,Normal,High,Med,2016-09-21,N\A ,26,71,ST,200,-100%,-
+4001,Paulo Tavares, Port Vale, Portugal, Football League,3 ,2 ,Right ,"179cm | 5'10"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,30,71,CM,200,-100%,-
+4096,Royer, NY Red Bulls, Austria, MLS,3 ,3 ,Right ,"177cm | 5'9"" ",73 ,Normal,High,High,2016-09-21,N\A ,26,71,LM,700,2%,2%
+4339,Pešic, Atalanta, Serbia, Calcio A,2 ,3 ,Right ,"190cm | 6'2"" ",87 ,Normal,Med,High,2016-09-21,N\A ,24,71,ST,500,-10%,5%
+4132,Martos, Sp. Charleroi, Spain, Pro League,2 ,3 ,Right ,"181cm | 5'11"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,32,71,CB,250,-,-
+4137,Tarkowski, Burnley, England, Premier League,2 ,4 ,Right ,"191cm | 6'3"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,24,71,CB,850,68%,-10%
+3816,De la Cuesta, Once Caldas, Colombia, Liga Dimayor,2 ,3 ,Right ,"184cm | 6'0"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,33,71,CB,300,27%,23%
+3850,Murawski, Pogoń Szczecin, Poland, Ekstraklasa,3 ,3 ,Right ,"175cm | 5'8"" ",75 ,Normal,High,High,2016-09-21,N\A ,35,71,CDM,200,-100%,-
+4176,Katsikas, FC Twente, Greece, Eredivisie,2 ,2 ,Left ,"187cm | 6'1"" ",84 ,Normal,High,Med,2016-09-21,N\A ,26,71,CB,200,-,-
+3990,Kashi, Charlton Ath, Algeria, Football League,2 ,3 ,Right ,"178cm | 5'10"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,28,71,CDM,200,-,-
+3977,Politsevich, Gençlerbirliği, Belarus, Süper Lig,2 ,4 ,Right ,"186cm | 6'1"" ",80 ,Normal,Med,Low,2016-09-21,N\A ,26,71,CB,200,-,-
+3842,Ward, Burton Albion, Northern Ireland, EFL Championship,3 ,4 ,Right ,"165cm | 5'4"" ",59 ,Normal,Med,High,2016-09-21,N\A ,30,71,LW,200,-100%,-
+4400,Shibasaki, S-Hiroshima, Japan,Meiji Yasuda J1,3 ,3 ,Right ,"176cm | 5'9"" ",65 ,Normal,Med,High,2016-09-21,N\A ,32,71,CAM,200,-,-
+4076,Guitián, Real Valladolid, Spain, Liga Adelante,2 ,3 ,Right ,"182cm | 5'11"" ",74 ,Normal,Med,Low,2016-09-21,N\A ,26,71,CB,200,-,-
+4262,Llanos, Uni. Católica, Chile, Camp. Scotiabank,3 ,3 ,Right ,"173cm | 5'8"" ",68 ,Normal,Med,High,2016-09-21,N\A ,27,71,ST,200,-,-
+3899,Guerrero, América, Mexico, LIGA Bancomer MX,2 ,3 ,Right ,"175cm | 5'8"" ",75 ,Normal,High,Med,2016-09-21,N\A ,29,71,CDM,200,-,-
+4212,Al Dawsari, Al-Hilal, Saudi Arabia, ALJ League,4 ,4 ,Right ,"175cm | 5'8"" ",62 ,Normal,Med,High,2016-09-21,N\A ,25,71,RM,550,-13%,-26%
+3759,Brighi, Perugia, Italy, Calcio B,2 ,3 ,Right ,"178cm | 5'10"" ",77 ,Normal,High,Med,2016-09-21,N\A ,35,71,CM,200,-,-
+3929,Beevers, Bolton, England, Football League,2 ,2 ,Left ,"193cm | 6'3"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,27,71,CB,200,-,-
+3948,Maniero, Bari, Italy, Calcio B,3 ,3 ,Right ,"185cm | 6'0"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,28,71,ST,200,-,-
+4222,Borja López, FC Barcelona, Spain, LaLiga Santander ,2 ,3 ,Left ,"192cm | 6'3"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,22,71,CB,500,-6%,-2%
+4042,Jiménez, Jaguares de Chiapas, Mexico, LIGA Bancomer MX,1 ,3 ,Right ,"182cm | 5'11"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,28,71,GK,200,-,-
+4401,Shibasaki, Kashima Antlers, Japan,Meiji Yasuda J1,3 ,3 ,Right ,"175cm | 5'8"" ",64 ,Normal,Med,High,2016-09-21,N\A ,24,71,CM,200,-100%,-
+14840,Sow, Kayserispor, Mali, Süper Lig,3 ,3 ,Right ,"185cm | 6'0"" ",75 ,Normal,Med,High,2016-09-21,N\A ,27,70,CDM,200,-,-
+4984,Ubilla, Uni. de Chile, Chile, Camp. Scotiabank,4 ,2 ,Right ,"172cm | 5'7"" ",68 ,Normal,Med,High,2016-09-21,N\A ,26,70,RW,200,-100%,-
+14886,Carlos Ruiz, CD Tenerife, Spain, Liga Adelante,2 ,3 ,Right ,"183cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,33,70,CB,200,-,-
+15062,Giannetti, Cagliari, Italy, Calcio A,3 ,4 ,Right ,"181cm | 5'11"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,25,70,ST,200,-,-
+4431,Dani Güiza, Cádiz CF, Spain, Liga Adelante,3 ,4 ,Right ,"180cm | 5'10"" ",80 ,Normal,Low,Med,2016-09-21,N\A ,36,70,ST,200,-100%,-
+4854,Hall, QPR, England, EFL Championship,2 ,3 ,Right ,"191cm | 6'3"" ",71 ,Normal,Med,Low,2016-09-21,N\A ,25,70,CB,200,-100%,-
+4666,Murphy, Brighton, Scotland, EFL Championship,3 ,4 ,Right ,"175cm | 5'8"" ",64 ,Normal,Med,Med,2016-09-21,N\A ,27,70,LM,200,-100%,-
+4484,Ikeme, Wolves, Nigeria, EFL Championship,1 ,3 ,Right ,"191cm | 6'3"" ",100 ,Normal,Med,Med,2016-09-21,N\A ,30,70,GK,200,105%,-40%
+14827,Boswell, D.C. United, United States, MLS,2 ,3 ,Right ,"188cm | 6'2"" ",83 ,Normal,High,Low,2016-09-21,N\A ,33,70,CB,1200,92%,-20%
+15054,Rivière, CA Osasuna, France, LaLiga Santander ,2 ,3 ,Right ,"182cm | 5'11"" ",76 ,Normal,Med,High,2016-09-21,N\A ,26,70,ST,200,-,-
+4411,Donati, Hamilton, Italy, Scottish Prem,2 ,3 ,Right ,"189cm | 6'2"" ",79 ,Normal,High,Low,2016-09-21,N\A ,35,70,CDM,200,-100%,-
+4581,Bertolo, Banfield, Argentina, Primera División,4 ,3 ,Right ,"179cm | 5'10"" ",75 ,Normal,Low,Med,2016-09-21,N\A ,30,70,RM,200,-,-
+4515,Moiraghi, Newell's, Argentina, Primera División,2 ,3 ,Left ,"179cm | 5'10"" ",79 ,Normal,Med,Low,2016-09-21,N\A ,31,70,CB,200,-100%,-
+4553,Tipton, Indep. Medellín, Colombia, Liga Dimayor,2 ,3 ,Left ,"179cm | 5'10"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,24,70,LB,200,-,-
+4893,Yattara, Standard Liège, Guinea, Pro League,3 ,3 ,Right ,"185cm | 6'0"" ",77 ,Normal,Low,High,2016-09-21,N\A ,23,70,ST,200,-,-
+4791,Powell, Wigan Athletic, England, EFL Championship,3 ,3 ,Right ,"183cm | 6'0"" ",65 ,Normal,Med,Med,2016-09-21,N\A ,22,70,CAM,200,-100%,-
+4830,Dallas, Leeds United, Northern Ireland, EFL Championship,3 ,3 ,Right ,"183cm | 6'0"" ",81 ,Normal,High,High,2016-09-21,N\A ,25,70,LM,200,-100%,-
+4989,Moreno, Tondela, Colombia, LIGA NOS,3 ,3 ,Right ,"184cm | 6'0"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,24,70,ST,2500,-4%,53%
+5085,Marušic, KV Oostende, Montenegro, Pro League,3 ,2 ,Right ,"177cm | 5'9"" ",81 ,Normal,High,High,2016-09-21,N\A ,24,70,RM,2700,21%,-15%
+5151,Zaldívar, Guadalajara, Mexico, LIGA Bancomer MX,2 ,3 ,Left ,"178cm | 5'10"" ",76 ,Normal,Low,High,2016-09-21,N\A ,22,70,ST,200,-,-
+15067,Milinkovic, Gençlerbirliği, Serbia, Süper Lig,3 ,3 ,Left ,"179cm | 5'10"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,28,70,LM,200,-,-
+4880,Dezi, Perugia, Italy, Calcio B,2 ,3 ,Right ,"178cm | 5'10"" ",69 ,Normal,Med,High,2016-09-21,N\A ,24,70,CM,200,-,-
+4949,Heylen, KVC Westerlo, Belgium, Pro League,2 ,3 ,Right ,"187cm | 6'1"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,22,70,CB,800,-17%,28%
+4872,Verre, Pescara, Italy, Calcio A,2 ,3 ,Right ,"181cm | 5'11"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,22,70,CM,250,-,-
+4877,Longhi, Pisa, Italy, Calcio B,2 ,3 ,Left ,"185cm | 6'0"" ",76 ,Normal,Med,High,2016-09-21,N\A ,27,70,LB,250,-,-
+14858,Yabo, RB Salzburg, Germany, O. Bundesliga,3 ,3 ,Right ,"177cm | 5'9"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,24,70,CM,200,-,-
+4837,Meneses, Veracruz, Chile, LIGA Bancomer MX,4 ,3 ,Right ,"172cm | 5'7"" ",81 ,Normal,Low,High,2016-09-21,N\A ,31,70,RM,200,-100%,-
+4859,Clerc, CA Osasuna, Spain, LaLiga Santander ,2 ,2 ,Left ,"180cm | 5'10"" ",72 ,Normal,Med,High,2016-09-21,N\A ,24,70,LB,400,-23%,-20%
+4625,Lod, Panathinaikos, Finland, Hellas Liga,2 ,4 ,Left ,"180cm | 5'10"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,23,70,CAM,200,-100%,-
+4652,Chatziisaias, PAOK, Greece, Hellas Liga,2 ,2 ,Right ,"193cm | 6'3"" ",77 ,Normal,High,Low,2016-09-21,N\A ,24,70,CB,200,-100%,-
+5792,Opazo, Wanderers, Chile, Camp. Scotiabank,2 ,4 ,Right ,"169cm | 5'6"" ",72 ,Normal,High,High,2016-09-21,N\A ,26,69,RB,200,-,-
+5190,Bergougnoux, Tours FC, France, Domino's Ligue 2,3 ,3 ,Right ,"177cm | 5'9"" ",79 ,Normal,Med,High,2016-09-21,N\A ,33,69,CAM,200,-100%,-
+5936,Rosales, Racing Club, Argentina, Primera División,4 ,4 ,Right ,"179cm | 5'10"" ",69 ,Normal,Med,Med,2016-09-21,N\A ,21,69,LM,200,-,-
+5571,Mokhtar, PEC Zwolle, Morocco, Eredivisie,4 ,2 ,Right ,"179cm | 5'10"" ",72 ,Normal,Med,High,2016-09-21,N\A ,25,69,LW,200,-9%,10%
+5735,Bateau, Krylya Sovetov, Trinidad & Tobago, Russian League,2 ,3 ,Right ,"186cm | 6'1"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,25,69,CB,200,-,-
+5523,Germán, CD Tenerife, Spain, Liga Adelante,2 ,2 ,Right ,"188cm | 6'2"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,30,69,CB,200,-100%,-
+5216,Sheshukov, Arsenal Tula, Russia, Russian League,2 ,3 ,Right ,"181cm | 5'11"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,33,69,CDM,200,-,-
+5624,Orlishausen, Karlsruher SC, Germany, Bundesliga 2,1 ,3 ,Right ,"197cm | 6'5"" ",94 ,Normal,Med,Med,2016-09-21,N\A ,34,69,GK,200,-,-
+5555,Balaj, Terek Grozny, Albania, Russian League,3 ,2 ,Right ,"188cm | 6'2"" ",86 ,Normal,Low,Med,2016-09-21,N\A ,25,69,ST,200,-,-
+5985,Afif, Sporting Gijón, Qatar, LaLiga Santander ,3 ,4 ,Right ,"177cm | 5'9"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,20,69,LW,200,-,-
+5855,Isaac Carcelén, Real Zaragoza, Spain, Liga Adelante,2 ,3 ,Right ,"178cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,23,69,RB,250,-100%,-
+5721,Marcondes, FC Nordsjælland, Denmark, Alka Superliga,3 ,4 ,Right ,"183cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,21,69,CAM,900,-4%,-3%
+5709,Sciaudone, La Spezia, Italy, Calcio B,3 ,3 ,Right ,"183cm | 6'0"" ",72 ,Normal,High,High,2016-09-21,N\A ,28,69,CM,200,-,-
+5552,Tié Bi, Stade Brest, Ivory Coast, Domino's Ligue 2,2 ,3 ,Right ,"181cm | 5'11"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,26,69,CDM,200,-,-
+5967,Skubic, Konyaspor, Slovenia, Süper Lig,2 ,3 ,Right ,"178cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,27,69,RB,200,-,-
+5321,Taylor, Portland, Jamaica, MLS,2 ,3 ,Right ,"178cm | 5'10"" ",88 ,Normal,Med,Low,2016-09-21,N\A ,31,69,CB,650,8%,-8%
+5491,Hutchinson, Millwall, England, Football League,2 ,3 ,Right ,"188cm | 6'2"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,25,69,CB,250,-,-
+5801,Núñez, Millonarios FC, Argentina, Liga Dimayor,3 ,3 ,Right ,"168cm | 5'6"" ",69 ,Normal,Low,High,2016-09-21,N\A ,30,69,RW,200,-100%,-
+5246,Castro, U.N.A.M., Mexico, LIGA Bancomer MX,2 ,3 ,Right ,"177cm | 5'9"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,29,69,CDM,200,-,-
+5892,Paqarada, SV Sandhausen, Kosovo, Bundesliga 2,2 ,3 ,Left ,"184cm | 6'0"" ",76 ,Normal,Med,High,2016-09-21,N\A ,22,69,LB,250,-,-
+5623,Teixeira, Dresden, Germany, Bundesliga 2,2 ,3 ,Right ,"177cm | 5'9"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,26,69,LB,200,-100%,-
+5736,Maupay, Stade Brest, France, Domino's Ligue 2,3 ,3 ,Right ,"171cm | 5'7"" ",69 ,Normal,Med,High,2016-09-21,N\A ,20,69,ST,200,-100%,-
+5264,Matthys, KV Mechelen, Belgium, Pro League,3 ,3 ,Right ,"180cm | 5'10"" ",76 ,Normal,Med,High,2016-09-21,N\A ,32,69,RM,1700,-8%,41%
+5171,Diarra, Valenciennes FC, Mali, Domino's Ligue 2,3 ,3 ,Left ,"176cm | 5'9"" ",74 ,Normal,Med,High,2016-09-21,N\A ,32,69,LM,200,-100%,-
+5217,Vlasov, Arsenal Tula, Russia, Russian League,2 ,3 ,Left ,"177cm | 5'9"" ",73 ,Normal,Med,High,2016-09-21,N\A ,31,69,CAM,200,-,-
+5185,Cappone, Stade Lavallois, France, Domino's Ligue 2,1 ,3 ,Right ,"182cm | 5'11"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,37,69,GK,200,-,-
+5270,Degirmenci, Gaziantepspor, Turkey, Süper Lig,1 ,2 ,Right ,"185cm | 6'0"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,27,69,GK,200,-,-
+5434,Veselinovic, KV Mechelen, Serbia, Pro League,2 ,2 ,Right ,"198cm | 6'5"" ",91 ,Normal,Med,High,2016-09-21,N\A ,29,69,ST,200,-,-
+5547,Brattan, Melbourne City, Australia, Hyundai A-League,2 ,3 ,Right ,"175cm | 5'8"" ",65 ,Normal,Med,Med,2016-09-21,N\A ,26,69,CDM,200,-100%,-
+5188,Coutinho, AZ, Suriname, Eredivisie,1 ,2 ,Right ,"180cm | 5'10"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,34,69,GK,200,-100%,-
+5238,Haggui, FC St. Gallen, Tunisia, Raiffeisen SL,2 ,3 ,Right ,"190cm | 6'2"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,32,69,CB,200,-,-
+5281,Davies, Bolton, England, Football League,3 ,3 ,Right ,"180cm | 5'10"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,28,69,CM,200,-100%,-
+5201,Orozco, Envigado, Colombia, Liga Dimayor,2 ,3 ,Right ,"182cm | 5'11"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,37,69,CB,200,-,-
+5166,Cetto, Rosario Ctral. , Argentina, Primera División,2 ,3 ,Right ,"183cm | 6'0"" ",81 ,Normal,High,Med,2016-09-21,N\A ,34,69,CB,200,-100%,-
+5519,Morsy, Barnsley, England, EFL Championship,3 ,3 ,Right ,"175cm | 5'8"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,25,69,CDM,200,-,-
+5768,Mowatt, Leeds United, England, EFL Championship,3 ,2 ,Left ,"175cm | 5'8"" ",71 ,Normal,Low,Med,2016-09-21,N\A ,21,69,CAM,250,-,-
+5631,Trajkovski, Palermo, FYR Macedonia, Calcio A,2 ,4 ,Right ,"179cm | 5'10"" ",76 ,Normal,Low,Med,2016-09-21,N\A ,24,69,ST,350,-3%,5%
+6645,Miljkovic, Amkar Perm, Serbia, Russian League,2 ,3 ,Right ,"184cm | 6'0"" ",76 ,Normal,High,Med,2016-09-21,N\A ,26,68,RB,200,-100%,-
+6498,Morisbak Skjønsberg, Stabæk Fotball, Norway, Tippeligaen,2 ,3 ,Right ,"183cm | 6'0"" ",81 ,Normal,High,Med,2016-09-21,N\A ,33,68,CB,200,-,-
+6592,Peralta, Atl. Bucaramanga, Colombia, Liga Dimayor,2 ,3 ,Right ,"188cm | 6'2"" ",84 ,Normal,High,Med,2016-09-21,N\A ,31,68,CB,200,-,-
+6829,Petrovic, Chaves, Serbia, LIGA NOS,2 ,3 ,Left ,"176cm | 5'9"" ",71 ,Normal,Med,High,2016-09-21,N\A ,24,68,LB,1300,42%,-18%
+6346,Court, GFC Ajaccio, France, Domino's Ligue 2,3 ,3 ,Left ,"172cm | 5'7"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,26,68,LM,200,-,-
+6027,Toledo, Puebla, Mexico, LIGA Bancomer MX,3 ,4 ,Right ,"167cm | 5'5"" ",65 ,Normal,Low,Med,2016-09-21,N\A ,34,68,CM,200,-,-
+6424,Afonso Taira, Estoril-Praia, Portugal, LIGA NOS,2 ,3 ,Right ,"177cm | 5'9"" ",67 ,Normal,Med,Med,2016-09-21,N\A ,24,68,CM,750,34%,10%
+6290,Cros, Red Star FC, France, Domino's Ligue 2,1 ,3 ,Right ,"185cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,25,68,GK,200,-,-
+6235,Zaseev, FC Ufa, Russia, Russian League,2 ,3 ,Right ,"179cm | 5'10"" ",69 ,Normal,High,Low,2016-09-21,N\A ,28,68,CDM,200,-,-
+6143,Amos, Cardiff City, England, EFL Championship,1 ,2 ,Right ,"193cm | 6'3"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,26,68,GK,2400,-4%,47%
+6685,Oto'o, KVC Westerlo, Gabon, Pro League,2 ,2 ,Right ,"177cm | 5'9"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,22,68,RB,200,-,-
+6445,Çavlan, sc Heerenveen, Netherlands, Eredivisie,3 ,4 ,Left ,"175cm | 5'8"" ",73 ,Normal,Med,High,2016-09-21,N\A ,24,68,LB,200,-100%,-
+6804,Sosa, CD O'Higgins, Uruguay, Camp. Scotiabank,3 ,3 ,Right ,"171cm | 5'7"" ",61 ,Normal,Low,High,2016-09-21,N\A ,22,68,CAM,200,-,-
+6728,Aguilar, AJ Auxerre, France, Domino's Ligue 2,2 ,2 ,Left ,"172cm | 5'7"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,23,68,RB,200,-100%,-
+6587,Tiago Caeiro, Belenenses, Portugal, LIGA NOS,2 ,3 ,Right ,"192cm | 6'3"" ",84 ,Normal,Low,Med,2016-09-21,N\A ,32,68,ST,1600,13%,-6%
+6343,Tyronne, UD Las Palmas, Spain, LaLiga Santander ,4 ,3 ,Left ,"180cm | 5'10"" ",74 ,Normal,Med,High,2016-09-21,N\A ,25,68,RM,500,108%,-81%
+6802,Cataño, Atl. Bucaramanga, Colombia, Liga Dimayor,3 ,3 ,Right ,"174cm | 5'8"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,24,68,CAM,200,-,-
+6331,Anene, Amkar Perm, Norway, Russian League,3 ,3 ,Right ,"188cm | 6'2"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,23,68,ST,200,-,-
+6181,Cocco, Frosinone, Italy, Calcio B,3 ,3 ,Right ,"182cm | 5'11"" ",75 ,Normal,Low,Med,2016-09-21,N\A ,30,68,ST,200,-,-
+6350,Lamprou, Willem II, Greece, Eredivisie,1 ,3 ,Left ,"175cm | 5'8"" ",64 ,Normal,Med,Med,2016-09-21,N\A ,25,68,GK,200,-,-
+6551,Schiavone, Cesena, Italy, Calcio B,2 ,3 ,Right ,"180cm | 5'10"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,23,68,CM,200,-,-
+6704,Roberts, Celtic, England, Scottish Prem,3 ,2 ,Left ,"167cm | 5'5"" ",58 ,Normal,Med,High,2016-09-21,N\A ,19,68,RM,200,-100%,-
+6566,Vásquez, La Equidad, Colombia, Liga Dimayor,3 ,4 ,Left ,"167cm | 5'5"" ",67 ,Normal,Med,High,2016-09-21,N\A ,27,68,CAM,200,-,-
+6455,Putnocký, Lech Poznań, Slovakia, Ekstraklasa,1 ,2 ,Right ,"195cm | 6'4"" ",91 ,Normal,Med,Med,2016-09-21,N\A ,32,68,GK,250,-,-
+6278,Héctor Yuste, RCD Mallorca, Spain, Liga Adelante,3 ,4 ,Right ,"191cm | 6'3"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,28,68,CDM,200,-,-
+6239,Birighitti, Swansea City, Australia, Premier League,1 ,2 ,Right ,"189cm | 6'2"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,25,68,GK,200,-100%,-
+6089,Núñez, Tijuana, Mexico, LIGA Bancomer MX,2 ,4 ,Right ,"166cm | 5'5"" ",67 ,Normal,High,Med,2016-09-21,N\A ,33,68,RB,200,-,-
+6792,Hasegawa, Shonan Bellmare, Japan,Meiji Yasuda J1,3 ,4 ,Right ,"186cm | 6'1"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,28,68,CM,200,-,-
+6237,Tafer, FC St. Gallen, Algeria, Raiffeisen SL,2 ,4 ,Left ,"181cm | 5'11"" ",67 ,Normal,Med,Med,2016-09-21,N\A ,25,68,RM,200,-100%,-
+6773,Omar Perdomo, CD Tenerife, Spain, Liga Adelante,3 ,4 ,Right ,"178cm | 5'10"" ",75 ,Normal,Med,High,2016-09-21,N\A ,23,68,LM,200,-,-
+6304,Mason, Wolves, Republic of Ireland, EFL Championship,3 ,4 ,Right ,"178cm | 5'10"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,25,68,ST,250,-,-
+6572,Harbottle, CD Antofagasta, Chile, Camp. Scotiabank,4 ,3 ,Left ,"165cm | 5'4"" ",59 ,Normal,Med,High,2016-09-21,N\A ,26,68,LW,200,-100%,-
+6726,Loeschbor, Monarcas, Argentina, LIGA Bancomer MX,2 ,2 ,Right ,"180cm | 5'10"" ",77 ,Normal,Med,Low,2016-09-21,N\A ,30,68,CB,200,-100%,-
+6574,Banggaard, FC Midtjylland, Denmark, Alka Superliga,2 ,3 ,Right ,"194cm | 6'4"" ",84 ,Normal,High,Med,2016-09-21,N\A ,22,68,CB,200,-,-
+6264,Kiernan, Rangers, Republic of Ireland, Scottish Prem,2 ,4 ,Right ,"186cm | 6'1"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,25,68,CB,200,-100%,-
+6642,Muñoz, CD O'Higgins, Chile, Camp. Scotiabank,3 ,3 ,Right ,"172cm | 5'7"" ",72 ,Normal,Low,Med,2016-09-21,N\A ,30,68,RW,200,-100%,-
+6502,Philp, Heidenheim, Romania, Bundesliga 2,2 ,3 ,Right ,"180cm | 5'10"" ",77 ,Normal,Med,High,2016-09-21,N\A ,27,68,RB,200,-,-
+6761,Romero, Temperley, Argentina, Primera División,2 ,3 ,Left ,"179cm | 5'10"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,23,68,LB,200,-,-
+6697,Raúl, CS Marítimo, Brazil, LIGA NOS,2 ,3 ,Left ,"189cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,27,68,CB,4900,15%,-15%
+6263,Bakenga, Rosenborg BK, Norway, Tippeligaen,2 ,4 ,Right ,"181cm | 5'11"" ",77 ,Normal,Med,High,2016-09-21,N\A ,24,68,ST,200,-,-
+6382,Camporese, Benevento, Italy, Calcio B,2 ,3 ,Right ,"187cm | 6'1"" ",75 ,Normal,High,Low,2016-09-21,N\A ,24,68,CB,200,-,-
+6501,Sharahili, Al-Hilal, Saudi Arabia, ALJ League,1 ,3 ,Left ,"188cm | 6'2"" ",87 ,Normal,Med,Med,2016-09-21,N\A ,28,68,GK,200,-,-
+6373,Høegh, FC Basel, Denmark, Raiffeisen SL,2 ,2 ,Right ,"190cm | 6'2"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,25,68,CB,250,-,-
+6586,Loftus-Cheek, Chelsea, England, Premier League,2 ,4 ,Right ,"191cm | 6'3"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,20,68,CAM,250,-100%,-
+6928,Pich, 1. FC K'lautern, Slovakia, Bundesliga 2,3 ,3 ,Right ,"173cm | 5'8"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,28,67,LM,200,-100%,-
+7055,Pedro Pereira, Sampdoria, Portugal, Calcio A,2 ,2 ,Right ,"174cm | 5'8"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,18,67,RB,900,18%,-6%
+7547,Newell, Rotherham Utd, England, EFL Championship,2 ,3 ,Left ,"185cm | 6'0"" ",79 ,Normal,Med,High,2016-09-21,N\A ,23,67,LM,200,-,-
+7102,Retsos, Olympiakos CFP, Greece, Hellas Liga,2 ,3 ,Right ,"190cm | 6'2"" ",75 ,Normal,High,Low,2016-09-21,N\A ,18,67,CB,200,-100%,-
+7220,Jacobo, Wolfsberger AC, Spain, O. Bundesliga,4 ,2 ,Left ,"181cm | 5'11"" ",75 ,Normal,Med,High,2016-09-21,N\A ,32,67,LM,200,-100%,-
+7138,Broadfoot, Rotherham Utd, Scotland, EFL Championship,2 ,3 ,Right ,"191cm | 6'3"" ",89 ,Normal,Med,Med,2016-09-21,N\A ,32,67,CB,250,-,-
+7277,Chávez, Necaxa, Mexico, LIGA Bancomer MX,2 ,3 ,Right ,"184cm | 6'0"" ",82 ,Normal,Med,Low,2016-09-21,N\A ,30,67,CB,200,-,-
+6919,Lolley, Huddersfield, England, EFL Championship,3 ,3 ,Left ,"179cm | 5'10"" ",72 ,Normal,Med,High,2016-09-21,N\A ,24,67,RM,200,-100%,-
+7069,Morioka, Śląsk Wrocław, Japan, Ekstraklasa,3 ,3 ,Right ,"180cm | 5'10"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,25,67,CAM,200,-,-
+7316,Schembri, Boavista, Malta, LIGA NOS,2 ,3 ,Right ,"178cm | 5'10"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,30,67,ST,350,5%,7%
+6980,Eneko Capilla, CD Numancia, Spain, Liga Adelante,3 ,2 ,Left ,"169cm | 5'6"" ",60 ,Normal,Med,Med,2016-09-21,N\A ,21,67,CAM,200,-,-
+7024,Alphonse, FC Sochaux, France, Domino's Ligue 2,2 ,2 ,Right ,"182cm | 5'11"" ",75 ,Normal,High,High,2016-09-21,N\A ,27,67,RB,250,-,-
+7005,Veerman, sc Heerenveen, Netherlands, Eredivisie,2 ,3 ,Right ,"201cm | 6'7"" ",92 ,Normal,Med,Med,2016-09-21,N\A ,25,67,ST,200,-,-
+7629,Lozano, Atlético Huila, Colombia, Liga Dimayor,2 ,3 ,Right ,"183cm | 6'0"" ",77 ,Normal,High,Low,2016-09-21,N\A ,32,67,CB,200,-,-
+7517,Moncur, Peterborough, England, Football League,3 ,3 ,Right ,"176cm | 5'9"" ",63 ,Normal,Med,High,2016-09-21,N\A ,23,67,CAM,250,-,-
+7328,Sukuta-Pasu, SV Sandhausen, Germany, Bundesliga 2,3 ,4 ,Right ,"190cm | 6'2"" ",97 ,Normal,Med,High,2016-09-21,N\A ,26,67,ST,200,-,-
+7490,Edgar Hernández, CF Reus Deportiu, Spain, Liga Adelante,2 ,2 ,Left ,"189cm | 6'2"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,29,67,ST,200,-,-
+7320,Sævarsson, Hammarby, Iceland, Allsvenskan,2 ,3 ,Right ,"187cm | 6'1"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,32,67,RB,250,-,-
+7492,Mantom, Scunthorpe Utd, England, Football League,2 ,3 ,Right ,"175cm | 5'8"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,24,67,CM,200,-,-
+7594,Schoppenhauer, Würzburg, Germany, Bundesliga 2,2 ,3 ,Right ,"185cm | 6'0"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,24,67,CB,250,-100%,-
+7017,Holding, Arsenal, England, Premier League,2 ,3 ,Right ,"182cm | 5'11"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,21,67,CB,650,14%,38%
+7776,Povea, CD Huachipato, Chile, Camp. Scotiabank,3 ,3 ,Right ,"176cm | 5'9"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,22,67,CM,200,-,-
+7151,Foley, Charlton Ath, Republic of Ireland, Football League,2 ,3 ,Right ,"183cm | 6'0"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,32,67,RB,200,-,-
+6901,Aramu, Torino, Italy, Calcio A,3 ,3 ,Left ,"180cm | 5'10"" ",67 ,Normal,Med,Med,2016-09-21,N\A ,21,67,RW,1000,-57%,4%
+7336,Robson-Kanu, West Brom, Wales, Premier League,3 ,3 ,Left ,"184cm | 6'0"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,27,67,LM,400,-12%,14%
+7592,Bayramyan, FC Rostov, Russia, Russian League,2 ,4 ,Right ,"170cm | 5'6"" ",63 ,Normal,Med,Med,2016-09-21,N\A ,24,67,RM,200,-,-
+7530,Zavaleta, Toronto FC, United States, MLS,2 ,3 ,Right ,"185cm | 6'0"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,24,67,CB,1100,37%,15%
+6985,Gallardo, U.N.A.M., Mexico, LIGA Bancomer MX,2 ,2 ,Left ,"176cm | 5'9"" ",68 ,Normal,Low,High,2016-09-21,N\A ,22,67,LM,200,-,-
+7256,Santamaría, RCD Mallorca, Spain, Liga Adelante,1 ,3 ,Right ,"183cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,31,67,GK,200,-,-
+7176,Hamoud, Strømsgodset IF, Norway, Tippeligaen,2 ,3 ,Right ,"177cm | 5'9"" ",69 ,Normal,Med,High,2016-09-21,N\A ,31,67,LB,200,-,-
+7666,Altinay, Osmanlıspor, Turkey, Süper Lig,3 ,2 ,Right ,"176cm | 5'9"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,25,67,CDM,200,-,-
+7689,Lobantsev, Lokomotiv, Russia, Russian League,1 ,2 ,Right ,"188cm | 6'2"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,21,67,GK,200,-,-
+7425,Downing, MK Dons, England, Football League,2 ,3 ,Right ,"186cm | 6'1"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,25,67,CB,200,-,-
+6844,Depetris, Sarmiento, Argentina, Primera División,3 ,3 ,Right ,"177cm | 5'9"" ",69 ,Normal,High,Med,2016-09-21,N\A ,26,67,ST,200,-,-
+7522,Alejandro Rodríguez, Cesena, Spain, Calcio B,3 ,2 ,Right ,"180cm | 5'10"" ",79 ,Normal,Low,High,2016-09-21,N\A ,25,67,ST,200,-,-
+7025,Mervó, Śląsk Wrocław, Hungary, Ekstraklasa,3 ,3 ,Right ,"185cm | 6'0"" ",83 ,Normal,Med,High,2016-09-21,N\A ,21,67,ST,200,-,-
+7488,Cools, Waasl.-Beveren, Belgium, Pro League,2 ,3 ,Right ,"189cm | 6'2"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,26,67,CDM,200,-,-
+7369,Burchert, Greuther Fürth, Germany, Bundesliga 2,1 ,3 ,Right ,"187cm | 6'1"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,27,67,GK,200,-,-
+7096,van der Steen, sc Heerenveen, Netherlands, Eredivisie,1 ,2 ,Right ,"187cm | 6'1"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,26,67,GK,200,-100%,-
+7473,Calisir, J-Södra, Sweden, Allsvenskan,2 ,3 ,Right ,"180cm | 5'10"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,26,67,CB,200,-,-
+7570,McKenzie, Kilmarnock, Scotland, Scottish Prem,3 ,3 ,Right ,"175cm | 5'8"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,23,67,RM,200,-,-
+7137,Bourillon, Angers SCO, France, Ligue 1,2 ,4 ,Right ,"187cm | 6'1"" ",74 ,Normal,Med,Low,2016-09-21,N\A ,32,67,CDM,200,-,-
+6971,Micai, Bari, Italy, Calcio B,1 ,2 ,Right ,"186cm | 6'1"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,23,67,GK,200,-,-
+7611,Ganz, Hellas Verona, Italy, Calcio B,3 ,2 ,Right ,"175cm | 5'8"" ",67 ,Normal,Low,High,2016-09-21,N\A ,23,67,ST,200,-,-
+7768,Mosquera, La Equidad, Colombia, Liga Dimayor,2 ,3 ,Left ,"182cm | 5'11"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,25,67,LB,200,-,-
+7117,Ericsson, BK Häcken, Sweden, Allsvenskan,2 ,3 ,Right ,"178cm | 5'10"" ",75 ,Normal,Low,Med,2016-09-21,N\A ,36,67,CAM,200,-,-
+7421,Zúñiga, Jaguares de Chiapas, Mexico, LIGA Bancomer MX,2 ,3 ,Right ,"185cm | 6'0"" ",78 ,Normal,Med,High,2016-09-21,N\A ,23,67,ST,200,-,-
+7411,Jónasson, Lyngby BK, Iceland, Alka Superliga,2 ,3 ,Right ,"184cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,30,67,CB,200,-,-
+7155,Ponce, Uni. Concepción, Chile, Camp. Scotiabank,2 ,2 ,Right ,"185cm | 6'0"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,33,67,CB,200,-,-
+7729,Clough, Bolton, England, Football League,3 ,3 ,Right ,"170cm | 5'6"" ",64 ,Normal,Med,High,2016-09-21,N\A ,21,67,CAM,200,-,-
+7035,Hoggas, Bourg en Bresse 01, France, Domino's Ligue 2,3 ,2 ,Right ,"183cm | 6'0"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,25,67,CAM,200,-,-
+7765,Escalona, CD Cobresal, Chile, Camp. Scotiabank,2 ,3 ,Right ,"180cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,26,67,CB,200,-,-
+7698,Rusike, Helsingborgs IF, Zimbabwe, Allsvenskan,3 ,3 ,Right ,"181cm | 5'11"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,26,67,ST,200,-,-
+7785,Ekobo, Clermont Foot, Cameroon, Domino's Ligue 2,2 ,3 ,Right ,"182cm | 5'11"" ",85 ,Normal,High,Low,2016-09-21,N\A ,35,66,CDM,200,-,-
+7784,McFadden, Motherwell, Scotland, Scottish Prem,3 ,3 ,Left ,"178cm | 5'10"" ",78 ,Normal,Low,Med,2016-09-21,N\A ,33,66,ST,200,-,-
+8447,Sanneh, AC Horsens, Gambia, Alka Superliga,2 ,3 ,Right ,"183cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,22,66,CB,200,-,-
+8392,Mackiewicz, Jagiellonia, Poland, Ekstraklasa,2 ,2 ,Left ,"178cm | 5'10"" ",66 ,Normal,Med,High,2016-09-21,N\A ,24,66,LM,200,-,-
+8239,Høibråten, Strømsgodset IF, Norway, Tippeligaen,2 ,4 ,Left ,"184cm | 6'0"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,21,66,CB,200,-,-
+7849,Adler, Aue, Germany, Bundesliga 2,3 ,4 ,Right ,"181cm | 5'11"" ",75 ,Normal,Med,High,2016-09-21,N\A ,31,66,LM,300,353%,60%
+8610,Aoki, Urawa Reds, Japan,Meiji Yasuda J1,2 ,3 ,Right ,"179cm | 5'10"" ",77 ,Normal,High,Med,2016-09-21,N\A ,27,66,CDM,200,-,-
+8389,Svendsen, Molde FK, Norway, Tippeligaen,3 ,4 ,Right ,"172cm | 5'7"" ",67 ,Normal,Med,High,2016-09-21,N\A ,19,66,ST,200,-,-
+8035,Mills, Perth Glory, England, Hyundai A-League,2 ,3 ,Left ,"175cm | 5'8"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,27,66,LB,300,27%,-4%
+7988,Evans, Blackburn Rvrs, Northern Ireland, EFL Championship,2 ,3 ,Right ,"173cm | 5'8"" ",69 ,Normal,High,Low,2016-09-21,N\A ,26,66,CM,200,-100%,-
+7855,Rivière, Dijon FCO, France, Ligue 1,2 ,2 ,Left ,"186cm | 6'1"" ",89 ,Normal,Med,Med,2016-09-21,N\A ,32,66,ST,250,-,-
+8196,Mytides, Roda JC, Cyprus, Eredivisie,2 ,3 ,Right ,"184cm | 6'0"" ",70 ,Normal,Med,High,2016-09-21,N\A ,25,66,ST,200,-,-
+8374,Arrechea, Deportivo Pasto, Colombia, Liga Dimayor,2 ,3 ,Right ,"186cm | 6'1"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,36,66,CB,200,-,-
+8406,Gil, T. Córdoba, Argentina, Primera División,2 ,2 ,Left ,"171cm | 5'7"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,25,66,CM,200,-,-
+8476,Esparza, San Lorenzo, Argentina, Primera División,3 ,3 ,Left ,"168cm | 5'6"" ",69 ,Normal,Low,Med,2016-09-21,N\A ,23,66,LM,200,-100%,-
+8040,Ranger, Southend United, England, Football League,3 ,3 ,Right ,"188cm | 6'2"" ",84 ,Normal,Low,Med,2016-09-21,N\A ,25,66,ST,200,-,-
+8094,Uludag, Akhisarspor, Turkey, Süper Lig,2 ,3 ,Left ,"180cm | 5'10"" ",77 ,Normal,Med,High,2016-09-21,N\A ,25,66,LB,200,-,-
+7870,Cuthbert, Luton Town, Scotland, Football League 2,2 ,3 ,Right ,"188cm | 6'2"" ",89 ,Normal,High,Med,2016-09-21,N\A ,29,66,CB,200,-,-
+8178,Carrasco, Orlando City, United States, MLS,2 ,3 ,Right ,"180cm | 5'10"" ",77 ,Normal,High,Med,2016-09-21,N\A ,28,66,CDM,400,36%,-11%
+8373,Palacios, Boyacá Chicó, Colombia, Liga Dimayor,2 ,3 ,Right ,"178cm | 5'10"" ",73 ,Normal,High,Low,2016-09-21,N\A ,31,66,CDM,200,-,-
+8034,Wallace, Sheffield Utd, England, Football League,3 ,3 ,Right ,"180cm | 5'10"" ",83 ,Normal,High,High,2016-09-21,N\A ,24,66,CM,200,-,-
+8456,Al Buraik, Al-Hilal, Saudi Arabia, ALJ League,2 ,3 ,Right ,"173cm | 5'8"" ",85 ,Normal,Med,High,2016-09-21,N\A ,24,66,RB,200,-100%,-
+8212,Iván Sánchez, UD Almería, Spain, Liga Adelante,2 ,3 ,Left ,"174cm | 5'8"" ",64 ,Normal,Med,High,2016-09-21,N\A ,24,66,LM,200,-,-
+8470,Scougall, Sheffield Utd, Scotland, Football League,3 ,3 ,Left ,"170cm | 5'6"" ",57 ,Normal,Med,High,2016-09-21,N\A ,23,66,CM,200,-,-
+8130,Avevor, FC St. Pauli, Germany, Bundesliga 2,2 ,3 ,Right ,"185cm | 6'0"" ",88 ,Normal,High,Med,2016-09-21,N\A ,24,66,CDM,200,-,-
+7802,Teber, Karabükspor, Turkey, Süper Lig,2 ,2 ,Left ,"181cm | 5'11"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,31,66,LB,200,-,-
+7991,Ferati, FC Sion, Switzerland, Raiffeisen SL,2 ,3 ,Right ,"188cm | 6'2"" ",81 ,Normal,Med,Low,2016-09-21,N\A ,30,66,CB,200,-,-
+8370,Ávila, Al. Petrolera, Colombia, Liga Dimayor,2 ,3 ,Right ,"190cm | 6'2"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,25,66,CDM,200,-,-
+8117,Warner, Houston Dynamo, United States, MLS,2 ,3 ,Right ,"178cm | 5'10"" ",80 ,Normal,High,Med,2016-09-21,N\A ,28,66,CDM,1700,9%,1%
+7894,Pedro Júnior, Vissel Kobe, Brazil,Meiji Yasuda J1,3 ,3 ,Right ,"182cm | 5'11"" ",75 ,Normal,Low,High,2016-09-21,N\A ,29,66,CF,200,-,-
+7874,Young, Brisbane Roar, England, Hyundai A-League,1 ,2 ,Left ,"180cm | 5'10"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,31,66,GK,200,-,-
+8633,Ketting, Sparta Rotterdam, Netherlands, Eredivisie,2 ,2 ,Left ,"188cm | 6'2"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,20,66,CB,200,-100%,-
+8047,Barraza, Atlas, Mexico, LIGA Bancomer MX,3 ,3 ,Left ,"176cm | 5'9"" ",68 ,Normal,Low,Med,2016-09-21,N\A ,26,66,ST,200,-,-
+8065,Friberg, Sounders FC, Sweden, MLS,2 ,4 ,Right ,"180cm | 5'10"" ",66 ,Normal,High,Med,2016-09-21,N\A ,30,66,CM,550,41%,27%
+8444,Kemen, Olympique Lyon, France, Ligue 1,2 ,3 ,Right ,"177cm | 5'9"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,20,66,CM,250,-,-
+8135,Maeda, F.C. Tokyo, Japan,Meiji Yasuda J1,3 ,3 ,Right ,"184cm | 6'0"" ",78 ,Normal,Low,High,2016-09-21,N\A ,35,66,ST,200,-,-
+8151,Lowe, Blackburn Rvrs, England, EFL Championship,2 ,3 ,Right ,"178cm | 5'10"" ",80 ,Normal,High,Low,2016-09-21,N\A ,25,66,CM,250,-8%,24%
+8613,Watanabe, Vegalta Sendai, Japan,Meiji Yasuda J1,2 ,3 ,Right ,"186cm | 6'1"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,29,66,CB,200,-,-
+8395,Formella, Lech Poznań, Poland, Ekstraklasa,2 ,2 ,Right ,"177cm | 5'9"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,21,66,RM,200,-,-
+7832,Netzer, SCR Altach, Austria, O. Bundesliga,2 ,3 ,Left ,"188cm | 6'2"" ",80 ,Normal,High,Med,2016-09-21,N\A ,31,66,CDM,200,-,-
+8466,Sobottka, F. Düsseldorf, Germany, Bundesliga 2,2 ,3 ,Right ,"185cm | 6'0"" ",76 ,Normal,High,Med,2016-09-21,N\A ,22,66,CDM,200,-,-
+7835,Douglas, Ipswich Town, Republic of Ireland, EFL Championship,2 ,3 ,Right ,"180cm | 5'10"" ",75 ,Normal,High,Med,2016-09-21,N\A ,34,66,CM,250,-,-
+7893,Khagush, Arsenal Tula, Russia, Russian League,2 ,4 ,Right ,"177cm | 5'9"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,30,66,RB,200,-,-
+7825,Cases, KAS Eupen, Spain, Pro League,3 ,3 ,Right ,"175cm | 5'8"" ",69 ,Normal,Low,Med,2016-09-21,N\A ,29,66,CAM,1400,22%,-7%
+8017,Dufour, KAS Eupen, Belgium, Pro League,2 ,3 ,Left ,"176cm | 5'9"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,29,66,CM,1700,37%,2%
+7979,Nestor, Valenciennes FC, France, Domino's Ligue 2,2 ,3 ,Right ,"179cm | 5'10"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,27,66,CB,200,-,-
+8637,Fall, Sp. Charleroi, Senegal, Pro League,3 ,3 ,Right ,"184cm | 6'0"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,24,66,RM,900,5%,1%
+7831,Coppinger, Doncaster, England, Football League 2,3 ,3 ,Right ,"170cm | 5'6"" ",65 ,Normal,Med,High,2016-09-21,N\A ,35,66,RM,200,-100%,-
+8020,Nuhiu, Sheffield Wed, Austria, EFL Championship,3 ,4 ,Right ,"197cm | 6'5"" ",85 ,Normal,High,High,2016-09-21,N\A ,27,66,ST,200,-,-
+8369,Balanta, Junior FC, Colombia, Liga Dimayor,2 ,3 ,Right ,"185cm | 6'0"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,23,66,CB,200,-,-
+8396,Heerkens, Willem II, Netherlands, Eredivisie,2 ,3 ,Right ,"184cm | 6'0"" ",76 ,Normal,High,Med,2016-09-21,N\A ,27,66,RB,200,-,-
+8275,Grant, Perth Glory, Australia, Hyundai A-League,2 ,3 ,Left ,"191cm | 6'3"" ",88 ,Normal,Med,Med,2016-09-21,N\A ,22,66,CB,200,-,-
+8424,Bjelica, KV Mechelen, Serbia, Pro League,2 ,4 ,Left ,"186cm | 6'1"" ",80 ,Normal,High,Med,2016-09-21,N\A ,22,66,CB,200,-,-
+8489,Fortes, Excelsior, Cape Verde Islands, Eredivisie,2 ,2 ,Right ,"182cm | 5'11"" ",80 ,Normal,High,Med,2016-09-21,N\A ,27,66,CDM,200,-,-
+7922,Scobbie, St. Johnstone, Scotland, Scottish Prem,2 ,3 ,Left ,"183cm | 6'0"" ",70 ,Normal,Med,High,2016-09-21,N\A ,28,66,CB,200,-,-
+8296,Lomb, Bayer 04, Germany, Bundesliga,1 ,3 ,Right ,"187cm | 6'1"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,23,66,GK,200,-,-
+7909,Huntington, Preston, England, EFL Championship,2 ,2 ,Right ,"191cm | 6'3"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,29,66,CB,200,-,-
+8207,Smith, Peterborough, Northern Ireland, Football League,2 ,4 ,Right ,"180cm | 5'10"" ",71 ,Normal,High,High,2016-09-21,N\A ,28,66,RB,200,-,-
+8344,Lefèvre, Montreal Impact, Canada, MLS,2 ,2 ,Right ,"185cm | 6'0"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,26,66,CB,1200,1%,2%
+7900,André Bahia, Shonan Bellmare, Brazil,Meiji Yasuda J1,2 ,2 ,Left ,"182cm | 5'11"" ",85 ,Normal,Med,Low,2016-09-21,N\A ,32,66,CB,200,-,-
+8241,Maddison, Peterborough, England, Football League,3 ,3 ,Left ,"180cm | 5'10"" ",71 ,Normal,Med,Med,2016-09-21,N\A ,23,66,RM,200,-100%,-
+8172,White, NY City FC, United States, MLS,2 ,3 ,Right ,"183cm | 6'0"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,25,66,CB,2000,33%,-2%
+8559,Zhang Yuning, Vitesse, China PR, Eredivisie,3 ,5 ,Right ,"185cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,19,66,ST,200,-,-
+8383,Avellaneda, Lanús, Argentina, Primera División,1 ,2 ,Right ,"191cm | 6'3"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,23,66,GK,200,-,-
+8614,Okuno, Vegalta Sendai, Japan,Meiji Yasuda J1,3 ,3 ,Right ,"171cm | 5'7"" ",67 ,Normal,Med,Med,2016-09-21,N\A ,27,66,RM,200,-,-
+8160,Booth, Partick Thistle, Scotland, Scottish Prem,2 ,3 ,Left ,"180cm | 5'10"" ",75 ,Normal,Med,High,2016-09-21,N\A ,25,66,LB,200,-,-
+8144,Cuvelier, Walsall, Belgium, Football League,3 ,3 ,Right ,"175cm | 5'8"" ",76 ,Normal,Med,High,2016-09-21,N\A ,24,66,CM,200,-100%,-
+8015,Mthembu, Kaizer Chiefs, South Africa, South African FL,3 ,3 ,Right ,"182cm | 5'11"" ",81 ,Normal,Low,High,2016-09-21,N\A ,29,66,ST,200,-,-
+7927,Sturgis, Sounders FC, United States, MLS,2 ,4 ,Right ,"178cm | 5'10"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,29,66,CDM,1000,37%,-4%
+8626,Kawano, F.C. Tokyo, Japan,Meiji Yasuda J1,3 ,3 ,Right ,"168cm | 5'6"" ",65 ,Normal,Med,Med,2016-09-21,N\A ,26,66,RM,200,-,-
+9292,Depe, Karabükspor, Turkey, Süper Lig,3 ,3 ,Left ,"172cm | 5'7"" ",66 ,Normal,Low,High,2016-09-21,N\A ,24,65,LM,200,-,-
+8689,Aigner, SCR Altach, Austria, O. Bundesliga,2 ,3 ,Right ,"185cm | 6'0"" ",81 ,Normal,Med,High,2016-09-21,N\A ,35,65,ST,200,97%,-1%
+9203,Cremonesi, Ferrara, Italy, Calcio B,2 ,2 ,Right ,"183cm | 6'0"" ",78 ,Normal,High,Low,2016-09-21,N\A ,28,65,CB,200,-,-
+8873,Etheridge, Walsall, Philippines, Football League,1 ,2 ,Right ,"191cm | 6'3"" ",89 ,Normal,Med,Med,2016-09-21,N\A ,26,65,GK,250,-,-
+8870,Jonassen, FK Bodø/Glimt, Norway, Tippeligaen,2 ,2 ,Left ,"176cm | 5'9"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,23,65,LB,200,-,-
+9165,Vargas, Atl. Nacional, Colombia, Liga Dimayor,1 ,2 ,Right ,"184cm | 6'0"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,27,65,GK,200,-,-
+9042,Dibba, Hammarby, Gambia, Allsvenskan,3 ,3 ,Right ,"177cm | 5'9"" ",68 ,Normal,Med,High,2016-09-21,N\A ,29,65,ST,200,-,-
+8694,Patronen, Sogndal Fotball, Finland, Tippeligaen,2 ,3 ,Right ,"183cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,32,65,CB,200,-,-
+8848,Taylor, AFC Wimbledon, Montserrat, Football League,3 ,3 ,Right ,"188cm | 6'2"" ",79 ,Normal,Med,High,2016-09-21,N\A ,26,65,ST,200,-,-
+9193,Rasic, G. La Plata, Argentina, Primera División,3 ,3 ,Right ,"194cm | 6'4"" ",88 ,Normal,High,Low,2016-09-21,N\A ,24,65,ST,200,-,-
+9423,Gojani, J-Södra, Sweden, Allsvenskan,3 ,3 ,Right ,"174cm | 5'8"" ",71 ,Normal,Med,Med,2016-09-21,N\A ,24,65,CM,200,-,-
+9377,Civelek, Fenerbahçe SK, Turkey, Süper Lig,3 ,3 ,Right ,"171cm | 5'7"" ",65 ,Normal,Med,High,2016-09-21,N\A ,20,65,CAM,250,-,-
+8669,Faivre, Bourg en Bresse 01, France, Domino's Ligue 2,2 ,3 ,Left ,"180cm | 5'10"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,38,65,CB,200,-,-
+8776,Deleu, Cracovia, Brazil, Ekstraklasa,2 ,2 ,Right ,"176cm | 5'9"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,32,65,RB,450,-22%,4%
+9422,Hopcutt, Östersunds FK, England, Allsvenskan,2 ,3 ,Right ,"180cm | 5'10"" ",74 ,Normal,Med,High,2016-09-21,N\A ,24,65,CAM,200,-100%,-
+8856,Brands, Go Ahead Eagles, Netherlands, Eredivisie,2 ,3 ,Right ,"186cm | 6'1"" ",87 ,Normal,Med,High,2016-09-21,N\A ,28,65,CAM,200,-,-
+9209,Washington, QPR, Northern Ireland, EFL Championship,3 ,3 ,Right ,"178cm | 5'10"" ",85 ,Normal,Med,High,2016-09-21,N\A ,24,65,ST,200,-100%,-
+8784,Müller, Dresden, Germany, Bundesliga 2,2 ,3 ,Right ,"175cm | 5'8"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,30,65,LB,200,-,-
+8717,Rui Sacramento, FC Arouca, Portugal, LIGA NOS,1 ,3 ,Right ,"184cm | 6'0"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,31,65,GK,1200,8%,-11%
+8926,Kafkasyali, Karabükspor, Turkey, Süper Lig,1 ,1 ,Right ,"189cm | 6'2"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,31,65,GK,200,-,-
+8954,Röcher, SV Mattersburg, Austria, O. Bundesliga,3 ,3 ,Left ,"181cm | 5'11"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,25,65,LM,200,-100%,-
+9491,Khutumela, Orlando Pirates, South Africa, South African FL,3 ,3 ,Right ,"174cm | 5'8"" ",68 ,Normal,Med,High,2016-09-21,N\A ,23,65,ST,200,-,-
+9434,Nasu, Urawa Reds, Japan,Meiji Yasuda J1,2 ,3 ,Left ,"180cm | 5'10"" ",77 ,Normal,High,Med,2016-09-21,N\A ,35,65,CB,200,-,-
+8839,Mickel, Hamburger SV, Germany, Bundesliga,1 ,2 ,Right ,"184cm | 6'0"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,27,65,GK,200,-,-
+8978,Fabinho, Vicenza, Brazil, Calcio B,3 ,4 ,Left ,"178cm | 5'10"" ",78 ,Normal,Med,High,2016-09-21,N\A ,25,65,LM,200,-100%,-
+8841,Archibald-Henville, Exeter City, England, Football League 2,2 ,3 ,Right ,"188cm | 6'2"" ",80 ,Normal,High,Med,2016-09-21,N\A ,28,65,CB,250,-,-
+9466,Kikuchi, Shonan Bellmare, Japan,Meiji Yasuda J1,2 ,3 ,Right ,"180cm | 5'10"" ",75 ,Normal,High,High,2016-09-21,N\A ,25,65,CM,200,-100%,-
+9157,Orellana, Everton de Viña, Chile, Camp. Scotiabank,2 ,3 ,Left ,"180cm | 5'10"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,21,65,RW,200,-100%,-
+9405,Dzhikiya, Amkar Perm, Russia, Russian League,2 ,3 ,Left ,"183cm | 6'0"" ",79 ,Normal,High,Med,2016-09-21,N\A ,23,65,LB,200,-,-
+8851,Powell, MK Dons, England, Football League,2 ,3 ,Right ,"188cm | 6'2"" ",87 ,Normal,Med,Med,2016-09-21,N\A ,25,65,LM,200,-100%,-
+9237,Babayan, Randers FC, Denmark, Alka Superliga,2 ,4 ,Right ,"178cm | 5'10"" ",71 ,Normal,Low,Med,2016-09-21,N\A ,21,65,LM,200,-,-
+9241,Rivas, Orlando City, Colombia, MLS,2 ,2 ,Left ,"174cm | 5'8"" ",70 ,Normal,Low,High,2016-09-21,N\A ,22,65,LM,850,-16%,26%
+9374,McCarthy, Philadelphia, United States, MLS,1 ,2 ,Right ,"191cm | 6'3"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,24,65,GK,500,46%,11%
+9350,Tierney, Celtic, Scotland, Scottish Prem,2 ,2 ,Left ,"178cm | 5'10"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,19,65,LB,200,-,-
+8750,Boguski, Wisła Kraków, Poland, Ekstraklasa,3 ,4 ,Right ,"173cm | 5'8"" ",69 ,Normal,High,High,2016-09-21,N\A ,32,65,RM,200,-,-
+8976,Alvarinho, Śląsk Wrocław, Portugal, Ekstraklasa,2 ,3 ,Left ,"170cm | 5'6"" ",67 ,Normal,Low,Med,2016-09-21,N\A ,26,65,LM,200,-100%,-
+9375,Lacazette, 1860 Munich, France, Bundesliga 2,2 ,3 ,Right ,"175cm | 5'8"" ",74 ,Normal,High,Med,2016-09-21,N\A ,22,65,CDM,200,-100%,-
+9096,Pazio, Ruch Chorzów, Poland, Ekstraklasa,2 ,3 ,Right ,"182cm | 5'11"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,24,65,RB,200,-,-
+9231,Marcelo, CD Lugo, Spain, Liga Adelante,2 ,3 ,Right ,"193cm | 6'3"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,23,65,CB,200,-,-
+9170,Sepúlveda, San Luis de Quillota, Chile, Camp. Scotiabank,2 ,2 ,Right ,"180cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,28,65,CDM,200,-,-
+9077,Kuster, SV Mattersburg, Austria, O. Bundesliga,1 ,3 ,Right ,"194cm | 6'4"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,22,65,GK,200,-,-
+9048,Benning, Mansfield Town, England, Football League 2,2 ,3 ,Left ,"178cm | 5'10"" ",77 ,Normal,Med,High,2016-09-21,N\A ,23,65,LB,250,-100%,-
+9233,Astina, Sarmiento, Argentina, Primera División,3 ,3 ,Right ,"170cm | 5'6"" ",64 ,Normal,Low,Med,2016-09-21,N\A ,20,65,LM,200,-,-
+9232,Ceballos, Puebla, Mexico, LIGA Bancomer MX,2 ,3 ,Right ,"189cm | 6'2"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,22,65,CDM,200,-,-
+8818,Swanson, St. Johnstone, Scotland, Scottish Prem,3 ,3 ,Right ,"168cm | 5'6"" ",59 ,Normal,Med,Med,2016-09-21,N\A ,29,65,RM,200,-,-
+9356,Slidja, Cham. Niortais, France, Domino's Ligue 2,2 ,4 ,Right ,"170cm | 5'6"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,20,65,ST,250,-,-
+9399,Leyton, Everton de Viña, Chile, Camp. Scotiabank,2 ,3 ,Right ,"177cm | 5'9"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,23,65,CM,200,-,-
+8912,Dawson, Yeovil Town, Republic of Ireland, Football League 2,2 ,2 ,Right ,"179cm | 5'10"" ",80 ,Normal,High,High,2016-09-21,N\A ,26,65,RM,200,-100%,-
+9348,Brandán, Melbourne City, Argentina, Hyundai A-League,3 ,3 ,Right ,"165cm | 5'4"" ",66 ,Normal,Low,Med,2016-09-21,N\A ,26,65,RM,250,-,-
+8834,Seaborne, Hamilton, England, Scottish Prem,2 ,3 ,Left ,"190cm | 6'2"" ",75 ,Normal,High,Med,2016-09-21,N\A ,29,65,CB,200,-,-
+9273,Asad, Vélez Sarsfield, Argentina, Primera División,2 ,2 ,Right ,"177cm | 5'9"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,22,65,RM,200,-100%,-
+9163,Meza, Águilas Doradas, Colombia, Liga Dimayor,2 ,2 ,Left ,"185cm | 6'0"" ",74 ,Normal,Med,Low,2016-09-21,N\A ,23,65,CB,200,-,-
+8764,Cissé, Benevento, Guinea, Calcio B,2 ,3 ,Right ,"184cm | 6'0"" ",78 ,Normal,Med,High,2016-09-21,N\A ,28,65,ST,250,-,-
+8966,Jeggo, SK Sturm Graz, Australia, O. Bundesliga,2 ,2 ,Right ,"179cm | 5'10"" ",66 ,Normal,Med,Med,2016-09-21,N\A ,24,65,CM,200,-,-
+9459,Nagaki, Kashima Antlers, Japan,Meiji Yasuda J1,2 ,2 ,Right ,"173cm | 5'8"" ",72 ,Normal,High,Med,2016-09-21,N\A ,28,65,CDM,200,-,-
+9189,Hyndman, Bournemouth, United States, Premier League,3 ,3 ,Right ,"172cm | 5'7"" ",61 ,Normal,Med,Med,2016-09-21,N\A ,20,65,CM,550,-5%,24%
+9164,Ortiz, FC Dallas, Colombia, MLS,2 ,3 ,Right ,"177cm | 5'9"" ",74 ,Normal,High,Low,2016-09-21,N\A ,29,65,CDM,2800,23%,-3%
+8726,Salugin, Amkar Perm, Russia, Russian League,2 ,3 ,Right ,"188cm | 6'2"" ",84 ,Normal,Low,High,2016-09-21,N\A ,28,65,ST,200,-,-
+8917,Novak, SV Mattersburg, Austria, O. Bundesliga,2 ,3 ,Right ,"183cm | 6'0"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,25,65,LB,200,-,-
+13293,Durakovic, SV Ried, Austria, O. Bundesliga,1 ,2 ,Right ,"196cm | 6'5"" ",92 ,Normal,Med,Med,2016-09-21,N\A ,22,57,GK,200,-,-
+10955,Alho, HJK Helsinki, Finland, Finnliiga,2 ,3 ,Right ,"172cm | 5'7"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,23,63,RW,200,-,-
+10652,Allen, Rochdale, England, Football League,2 ,3 ,Right ,"180cm | 5'10"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,21,63,CM,200,-,-
+10901,Modic, Brescia, Bosnia Herzegovina, Calcio B,2 ,3 ,Right ,"180cm | 5'10"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,20,63,CM,200,-,-
+11073,Kantarovski, Newcastle Jets, Australia, Hyundai A-League,2 ,3 ,Right ,"183cm | 6'0"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,24,62,CDM,200,-,-
+11161,Kim Dong Hee, Seongnam FC, Korea Republic, K LEAGUE Classic,3 ,3 ,Right ,"169cm | 5'6"" ",65 ,Normal,Low,High,2016-09-21,N\A ,27,62,LM,200,-,-
+11230,Healey, Newport County, Wales, Football League 2,2 ,2 ,Right ,"173cm | 5'8"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,21,62,ST,200,-,-
+12025,Song Si Woo, Incheon United, Korea Republic, K LEAGUE Classic,2 ,2 ,Right ,"175cm | 5'8"" ",71 ,Normal,Low,Med,2016-09-21,N\A ,23,61,RW,300,-,-
+11861,Sellars, Aston Villa, England, EFL Championship,2 ,2 ,Left ,"173cm | 5'8"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,21,61,LM,200,-,-
+11980,Karlsson Lagemyr, IFK Göteborg, Sweden, Allsvenskan,3 ,3 ,Right ,"168cm | 5'6"" ",55 ,Normal,Med,Med,2016-09-21,N\A ,19,61,LM,200,-,-
+11632,Edmundsson, Odense Boldklub, Faroe Islands, Alka Superliga,2 ,3 ,Right ,"184cm | 6'0"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,25,61,RM,200,-,-
+11997,Okada, Sagan Tosu, Japan,Meiji Yasuda J1,3 ,3 ,Right ,"169cm | 5'6"" ",68 ,Normal,Low,Med,2016-09-21,N\A ,27,61,RM,200,-,-
+11726,Munns, Cheltenham Town, England, Football League 2,3 ,3 ,Right ,"166cm | 5'5"" ",64 ,Normal,Med,Med,2016-09-21,N\A ,23,61,LM,200,-,-
+11662,Johnson, Barnet, England, Football League 2,2 ,3 ,Left ,"178cm | 5'10"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,22,61,LB,200,-,-
+11916,Lee In Soo, Suwon FC, Korea Republic, K LEAGUE Classic,1 ,3 ,Right ,"191cm | 6'3"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,23,61,GK,200,-,-
+12256,Smuczynski, Termalica Bruk-Bet Nieciecza, Poland, Ekstraklasa,3 ,4 ,Right ,"175cm | 5'8"" ",69 ,Normal,Med,Med,2016-09-21,N\A ,21,60,LM,200,-,-
+12242,Grant, Nott'm Forest, England, EFL Championship,2 ,2 ,Right ,"175cm | 5'8"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,22,60,CM,200,-,-
+12424,Kawabe, Júbilo Iwata, Japan,Meiji Yasuda J1,2 ,3 ,Right ,"178cm | 5'10"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,21,60,CDM,200,-,-
+12277,Coulson, Cambridge Utd, England, Football League 2,2 ,3 ,Right ,"191cm | 6'3"" ",75 ,Normal,High,Med,2016-09-21,N\A ,27,60,CB,200,-,-
+12352,Agyei, Coventry City, England, Football League,2 ,3 ,Left ,"183cm | 6'0"" ",77 ,Normal,Med,High,2016-09-21,N\A ,19,60,ST,200,-,-
+12222,Sachpekidis, Kalmar FF, Sweden, Allsvenskan,2 ,2 ,Right ,"180cm | 5'10"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,19,60,LM,200,-,-
+12158,Dyngeland, Sogndal Fotball, Norway, Tippeligaen,1 ,3 ,Right ,"184cm | 6'0"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,21,60,GK,200,-,-
+12803,Furlong, MK Dons, England, Football League,2 ,3 ,Right ,"170cm | 5'6"" ",65 ,Normal,Med,Med,2016-09-21,N\A ,18,59,CAM,200,-,-
+12773,Cameron, Newport County, England, Football League 2,2 ,3 ,Left ,"190cm | 6'2"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,19,59,CB,200,-,-
+12893,Charrier, Amiens SC, France, Domino's Ligue 2,3 ,3 ,Right ,"181cm | 5'11"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,30,58,CM,200,-,-
+13035,Caicedo, Envigado, Colombia, Liga Dimayor,3 ,3 ,Left ,"178cm | 5'10"" ",76 ,Normal,Low,Med,2016-09-21,N\A ,21,58,CAM,200,-,-
+13282,Martinsen, Viking FK, Norway, Tippeligaen,2 ,2 ,Right ,"177cm | 5'9"" ",69 ,Normal,Med,Med,2016-09-21,N\A ,20,57,CB,200,-,-
+13736,Siemaszko, Zagłębie Lubin, Poland, Ekstraklasa,3 ,3 ,Right ,"181cm | 5'11"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,19,56,ST,200,-,-
+13547,Okwi, SønderjyskE, Uganda, Alka Superliga,2 ,3 ,Right ,"179cm | 5'10"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,23,56,ST,200,-,-
+13762,Barkhuizen, Morecambe, England, Football League 2,3 ,3 ,Right ,"175cm | 5'8"" ",70 ,Normal,Med,High,2016-09-21,N\A ,23,55,RM,200,-,-
+13799,Cameron, Blackpool, New Zealand, Football League 2,2 ,2 ,Right ,"178cm | 5'10"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,19,55,LM,200,-,-
+13879,Race, Stabæk Fotball, Norway, Tippeligaen,2 ,2 ,Right ,"180cm | 5'10"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,19,55,RB,200,-,-
+14133,Tierney, Hamilton, Scotland, Scottish Prem,2 ,3 ,Right ,"178cm | 5'10"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,18,54,ST,200,-,-
+14006,Brodersen, FC St. Pauli, Germany, Bundesliga 2,1 ,3 ,Right ,"188cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,19,54,GK,200,-,-
+14236,Al Hajji, Al-Khaleej, Saudi Arabia, ALJ League,3 ,2 ,Right ,"178cm | 5'10"" ",65 ,Normal,Low,Med,2016-09-21,N\A ,20,53,RM,200,-,-
+14179,Calder, Doncaster, England, Football League 2,2 ,3 ,Left ,"183cm | 6'0"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,20,53,CM,200,-,-
+339,Sterling, Manchester City, England, Premier League,4 ,2 ,Right ,"170cm | 5'6"" ",69 ,Normal,Med,High,2016-09-21,N\A ,21,82,LM,8000,0%,-1%
+547,Welbeck, Arsenal, England, Premier League,3 ,3 ,Right ,"185cm | 6'0"" ",73 ,Normal,High,High,2016-09-21,N\A ,25,80,ST,950,-13%,1%
+823,Luisão, SL Benfica, Brazil, LIGA NOS,2 ,2 ,Right ,"193cm | 6'3"" ",92 ,Normal,Med,Low,2016-09-21,N\A ,35,78,CB,500,23%,16%
+907,Miguel Lopes, Akhisarspor, Portugal, Süper Lig,3 ,4 ,Right ,"182cm | 5'11"" ",83 ,Normal,Med,High,2016-09-21,N\A ,29,78,RB,2500,15%,-4%
+944,Pérez, Valencia CF, Argentina, LaLiga Santander ,3 ,4 ,Right ,"177cm | 5'9"" ",71 ,Normal,High,Med,2016-09-21,N\A ,30,78,CM,650,-17%,-9%
+1466,Fer, Swansea City, Netherlands, Premier League,3 ,4 ,Right ,"188cm | 6'2"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,26,76,CAM,400,0%,3%
+1642,Kanibolotskyi, FC Shakhtar, Ukraine, Ukrayina Liha,1 ,2 ,Right ,"193cm | 6'3"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,28,76,GK,400,0%,0%
+1450,Bjelland, Brentford, Denmark, EFL Championship,2 ,4 ,Left ,"188cm | 6'2"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,28,76,CB,400,2%,10%
+1323,Boruc, Bournemouth, Poland, Premier League,1 ,3 ,Right ,"193cm | 6'3"" ",87 ,Normal,Med,Med,2016-09-21,N\A ,36,76,GK,400,-1%,3%
+1804,Yeom Ki Hun, Suwon Bluewings, Korea Republic, K LEAGUE Classic,3 ,3 ,Left ,"182cm | 5'11"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,33,75,LM,400,2%,9%
+2248,Omar Ramos, CD Leganés, Spain, LaLiga Santander ,4 ,3 ,Left ,"175cm | 5'8"" ",65 ,Normal,Low,Med,2016-09-21,N\A ,28,74,RM,1400,-9%,-33%
+2422,Oriol Romeu, Southampton, Spain, Premier League,2 ,3 ,Right ,"183cm | 6'0"" ",83 ,Normal,High,Med,2016-09-21,N\A ,25,74,CDM,500,-6%,15%
+3825,Fernández, Unión Santa Fe, Argentina, Primera División,1 ,3 ,Right ,"195cm | 6'4"" ",85 ,Normal,Med,Med,2016-09-21,N\A ,37,71,GK,400,4%,-8%
+14847,Rodríguez, Tigres, Mexico, LIGA Bancomer MX,3 ,2 ,Right ,"175cm | 5'8"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,25,70,RB,200,-,-
+6007,Sam, Gençlerbirliği, Turkey, Süper Lig,2 ,2 ,Right ,"181cm | 5'11"" ",74 ,Normal,High,Med,2016-09-21,N\A ,30,68,RB,250,-,-
+6044,Raúl Cámara, CD Tenerife, Spain, Liga Adelante,2 ,3 ,Right ,"170cm | 5'6"" ",64 ,Normal,High,High,2016-09-21,N\A ,32,68,RB,250,-100%,-
+6967,Carlos Blanco, FC Lausanne-Sport, Spain, Raiffeisen SL,2 ,3 ,Right ,"188cm | 6'2"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,20,67,CB,250,-,-
+7602,Ba, AJ Auxerre, Mauritania, Domino's Ligue 2,3 ,3 ,Right ,"179cm | 5'10"" ",68 ,Normal,Med,High,2016-09-21,N\A ,23,67,RM,200,-,-
+8310,Fernández, Real Madrid, France, LaLiga Santander ,3 ,4 ,Right ,"186cm | 6'1"" ",75 ,Normal,Low,Med,2016-09-21,N\A ,21,66,LM,1300,10%,7%
+8622,Hernández, Deport. Alavés, France, LaLiga Santander ,2 ,3 ,Left ,"185cm | 6'0"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,19,66,LB,2400,-35%,-24%
+9183,Da Silva, Perugia, Brazil, Calcio B,3 ,3 ,Right ,"178cm | 5'10"" ",75 ,Normal,Low,Med,2016-09-21,N\A ,21,65,CF,200,-,-
+8869,Shields, Dundalk, Republic of Ireland, SSE Airtricity League,2 ,3 ,Right ,"186cm | 6'1"" ",74 ,Normal,High,Med,2016-09-21,N\A ,25,65,CDM,200,-100%,-
+9662,González, Lanús, Argentina, Primera División,2 ,3 ,Right ,"180cm | 5'10"" ",76 ,Normal,Low,Med,2016-09-21,N\A ,21,64,ST,200,-,-
+10856,Bin Khayrallah, Al-Shabab, Saudi Arabia, ALJ League,3 ,3 ,Right ,"180cm | 5'10"" ",62 ,Normal,Med,Med,2016-09-21,N\A ,20,63,RM,200,-,-
+11170,Hwang Soon Min, Sangju Sangmu, Korea Republic, K LEAGUE Classic,2 ,3 ,Left ,"178cm | 5'10"" ",69 ,Normal,Med,High,2016-09-21,N\A ,26,62,CAM,200,-,-
+13002,Stryjek, Sunderland, Poland, Premier League,1 ,2 ,Right ,"188cm | 6'2"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,20,58,GK,200,-,-
+845,Polanski, 1899 Hoffenheim, Poland, Bundesliga,2 ,4 ,Right ,"183cm | 6'0"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,30,78,CDM,400,-11%,2%
+3244,Ovono Ebang, KV Oostende, Gabon, Pro League,1 ,3 ,Right ,"186cm | 6'1"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,33,72,GK,750,-22%,1%
+3175,Stearman, Wolves, England, EFL Championship,2 ,3 ,Right ,"191cm | 6'3"" ",76 ,Normal,Med,Low,2016-09-21,N\A ,29,72,CB,200,-100%,-
+3269,Anderson Luís, FC Arouca, Brazil, LIGA NOS,2 ,2 ,Right ,"175cm | 5'8"" ",69 ,Normal,Med,High,2016-09-21,N\A ,28,72,RB,3300,8%,4%
+4419,McNaughton, Inverness CT, Scotland, Scottish Prem,2 ,3 ,Right ,"178cm | 5'10"" ",66 ,Normal,High,Med,2016-09-21,N\A ,34,70,RB,200,-,-
+5158,Vaughan, Nott'm Forest, Wales, EFL Championship,3 ,3 ,Left ,"168cm | 5'6"" ",70 ,Normal,High,Med,2016-09-21,N\A ,33,69,CDM,200,-100%,-
+5426,Cooper, Leeds United, Scotland, EFL Championship,2 ,3 ,Left ,"187cm | 6'1"" ",76 ,Normal,High,Med,2016-09-21,N\A ,25,69,CB,200,-,-
+6313,Mazzotta, Frosinone, Italy, Calcio B,2 ,2 ,Left ,"183cm | 6'0"" ",73 ,Normal,Med,High,2016-09-21,N\A ,27,68,LB,200,-,-
+6055,Rask, Viborg FF, Denmark, Alka Superliga,2 ,2 ,Right ,"185cm | 6'0"" ",70 ,Normal,High,Med,2016-09-21,N\A ,33,68,CB,200,-,-
+7731,Opare, D.C. United, United States, MLS,2 ,2 ,Right ,"188cm | 6'2"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,26,67,CB,900,35%,-11%
+9128,Kinsombi, Karlsruher SC, Germany, Bundesliga 2,2 ,3 ,Right ,"183cm | 6'0"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,20,65,CB,200,-100%,-
+8653,Clarke, Bradford City, England, Football League,2 ,3 ,Right ,"185cm | 6'0"" ",81 ,Normal,Med,Low,2016-09-21,N\A ,33,65,CB,200,-,-
+13587,D'Attilio, Avellino, Italy, Calcio B,2 ,3 ,Right ,"178cm | 5'10"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,22,56,CM,200,-,-
+1035,Gastaldello, Bologna, Italy, Calcio A,2 ,3 ,Right ,"185cm | 6'0"" ",77 ,Normal,Med,High,2016-09-21,N\A ,33,77,CB,500,-10%,-1%
+1071,Whelan, Stoke City, Republic of Ireland, Premier League,3 ,4 ,Right ,"180cm | 5'10"" ",80 ,Normal,High,Med,2016-09-21,N\A ,32,77,CDM,400,-1%,2%
+1645,Lezcano, CD O'Higgins, Argentina, Camp. Scotiabank,4 ,4 ,Right ,"169cm | 5'6"" ",67 ,Normal,Med,Med,2016-09-21,N\A ,30,76,LW,700,12%,37%
+1289,Rúben Vezo, Granada CF, Portugal, LaLiga Santander ,2 ,2 ,Right ,"183cm | 6'0"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,22,77,CB,450,-25%,-5%
+1541,Lejeune, SD Eibar, France, LaLiga Santander ,2 ,3 ,Right ,"188cm | 6'2"" ",81 ,Normal,High,Med,2016-09-21,N\A ,25,76,CB,500,-23%,-1%
+975,Kramer, Bor. M'gladbach, Germany, Bundesliga,3 ,3 ,Right ,"191cm | 6'3"" ",80 ,Normal,High,High,2016-09-21,N\A ,25,78,CDM,400,-10%,3%
+402,Layún, FC Porto, Mexico, LIGA NOS,3 ,5 ,Right ,"179cm | 5'10"" ",69 ,Normal,High,High,2016-09-21,N\A ,28,81,LB,1100,8%,13%
+801,Bonera, Villarreal CF, Italy, LaLiga Santander ,2 ,3 ,Right ,"183cm | 6'0"" ",74 ,Normal,High,Low,2016-09-21,N\A ,35,78,CB,550,-14%,-8%
+1177,Souaré, Crystal Palace, Senegal, Premier League,2 ,2 ,Left ,"178cm | 5'10"" ",68 ,Normal,Med,High,2016-09-21,N\A ,26,77,LB,450,3%,9%
+1212,Krejcí, Bologna, Czech Republic, Calcio A,3 ,2 ,Left ,"180cm | 5'10"" ",68 ,Normal,Med,High,2016-09-21,N\A ,24,77,LM,800,0%,-3%
+1396,Miku, Rayo Vallecano, Venezuela, Liga Adelante,3 ,3 ,Right ,"185cm | 6'0"" ",80 ,Normal,High,Med,2016-09-21,N\A ,31,76,ST,400,0%,2%
+5928,Hassan, Royal Mouscron, Egypt, Pro League,2 ,5 ,Right ,"180cm | 5'10"" ",77 ,Normal,Low,Med,2016-09-21,N\A ,22,69,LM,3000,29%,-6%
+1480,Mehmedi, Bayer 04, Switzerland, Bundesliga,3 ,3 ,Right ,"183cm | 6'0"" ",80 ,Normal,Med,High,2016-09-21,N\A ,25,76,LM,500,-35%,-11%
+1334,Pazzini, Hellas Verona, Italy, Calcio B,2 ,3 ,Right ,"180cm | 5'10"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,32,76,ST,400,-2%,4%
+3801,Mateo, Newell's, Argentina, Primera División,2 ,3 ,Right ,"178cm | 5'10"" ",77 ,Normal,High,Low,2016-09-21,N\A ,38,71,CDM,200,-,-
+8222,Igor Rossi, Hearts, Brazil, Scottish Prem,2 ,2 ,Left ,"189cm | 6'2"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,27,66,CB,200,-,-
+1140,Tarasov, Lokomotiv, Russia, Russian League,2 ,3 ,Right ,"192cm | 6'3"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,29,77,CDM,400,1%,5%
+318,Adrien Silva, Sporting CP, Portugal, LIGA NOS,3 ,4 ,Right ,"175cm | 5'8"" ",69 ,Normal,High,Med,2016-09-21,N\A ,27,82,CM,750,0%,1%
+281,Victor Valdés, Middlesbrough, Spain, Premier League,1 ,3 ,Right ,"183cm | 6'0"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,34,82,GK,750,0%,0%
+551,Schmelzer, Bor. Dortmund, Germany, Bundesliga,2 ,2 ,Left ,"180cm | 5'10"" ",72 ,Normal,High,High,2016-09-21,N\A ,28,80,LB,950,14%,-5%
+605,Boufal, Southampton, Morocco, Premier League,5 ,4 ,Right ,"170cm | 5'6"" ",60 ,Normal,Low,High,2016-09-21,N\A ,23,80,LW,1000,23%,0%
+785,Halilovic, Hamburger SV, Croatia, Bundesliga,4 ,3 ,Left ,"170cm | 5'6"" ",65 ,Normal,Med,High,2016-09-21,N\A ,20,79,CAM,700,2%,0%
+927,Cardona, Monterrey, Colombia, LIGA Bancomer MX,4 ,4 ,Right ,"188cm | 6'2"" ",91 ,Normal,Low,Med,2016-09-21,N\A ,23,78,CAM,700,0%,0%
+1005,Morales, Levante UD, Spain, Liga Adelante,3 ,4 ,Right ,"180cm | 5'10"" ",70 ,Normal,Med,High,2016-09-21,N\A ,29,78,LM,700,0%,0%
+1007,Rúben Semedo, Sporting CP, Portugal, LIGA NOS,2 ,3 ,Right ,"189cm | 6'2"" ",84 ,Normal,High,Med,2016-09-21,N\A ,22,78,CB,700,3%,11%
+14995,Nababkin, CSKA Moskva, Russia, Russian League,2 ,4 ,Right ,"184cm | 6'0"" ",77 ,Normal,High,Med,2016-09-21,N\A ,30,75,LB,650,0%,0%
+429,Strootman, Roma, Netherlands, Calcio A,3 ,3 ,Left ,"186cm | 6'1"" ",78 ,Normal,High,High,2016-09-21,N\A ,26,81,CM,700,3%,0%
+14697,Abdennour, Valencia CF, Tunisia, LaLiga Santander ,2 ,3 ,Left ,"187cm | 6'1"" ",84 ,Normal,High,High,2016-09-21,N\A ,27,80,CB,700,-18%,-7%
+699,Dragovic, Bayer 04, Austria, Bundesliga,2 ,4 ,Right ,"186cm | 6'1"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,25,79,CB,750,3%,-3%
+624,Bruno Alves, Cagliari, Portugal, Calcio A,2 ,3 ,Right ,"187cm | 6'1"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,34,79,CB,700,0%,0%
+647,Rossi, Celta Vigo, Italy, LaLiga Santander ,3 ,3 ,Left ,"173cm | 5'8"" ",72 ,Normal,Low,High,2016-09-21,N\A ,29,79,ST,700,-1%,0%
+917,Rafael, Olympique Lyon, Brazil, Ligue 1,3 ,4 ,Right ,"172cm | 5'7"" ",71 ,Normal,Med,High,2016-09-21,N\A ,26,78,RB,750,26%,0%
+1004,Wendell, Bayer 04, Brazil, Bundesliga,3 ,2 ,Left ,"176cm | 5'9"" ",68 ,Normal,Med,High,2016-09-21,N\A ,23,78,LB,950,0%,3%
+879,Suchý, FC Basel, Czech Republic, Raiffeisen SL,2 ,3 ,Right ,"183cm | 6'0"" ",76 ,Normal,High,Low,2016-09-21,N\A ,28,78,CB,700,0%,0%
+14714,Lawal, Osmanlıspor, Nigeria, Süper Lig,2 ,4 ,Right ,"185cm | 6'0"" ",80 ,Normal,Med,High,2016-09-21,N\A ,26,75,CDM,1400,6%,-7%
+438,Areola, PSG, France, Ligue 1,1 ,3 ,Right ,"191cm | 6'3"" ",91 ,Normal,Med,Med,2016-09-21,N\A ,23,81,GK,750,1%,-7%
+392,Raúl García, Athletic Bilbao, Spain, LaLiga Santander ,3 ,3 ,Right ,"184cm | 6'0"" ",81 ,Normal,Med,High,2016-09-21,N\A ,30,81,CAM,700,-2%,-5%
+396,Reid, West Ham, New Zealand, Premier League,2 ,3 ,Right ,"190cm | 6'2"" ",87 ,Normal,High,Med,2016-09-21,N\A ,28,81,CB,800,5%,0%
+424,Nkoulou, Olympique Lyon, Cameroon, Ligue 1,2 ,3 ,Right ,"180cm | 5'10"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,26,81,CB,800,12%,10%
+475,Fabianski, Swansea City, Poland, Premier League,1 ,2 ,Right ,"190cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,31,80,GK,700,0%,0%
+607,Meyer, FC Schalke 04, Germany, Bundesliga,4 ,4 ,Right ,"173cm | 5'8"" ",68 ,Normal,Med,High,2016-09-21,N\A ,21,80,CAM,700,0%,4%
+509,Sahin, Bor. Dortmund, Turkey, Bundesliga,3 ,3 ,Left ,"180cm | 5'10"" ",73 ,Normal,Med,Med,2016-09-21,N\A ,28,80,CDM,800,12%,-5%
+646,Llorente, Swansea City, Spain, Premier League,2 ,3 ,Right ,"195cm | 6'4"" ",90 ,Normal,Med,Med,2016-09-21,N\A ,31,79,ST,700,0%,0%
+1672,Lozano, Pachuca, Mexico, LIGA Bancomer MX,4 ,4 ,Right ,"174cm | 5'8"" ",63 ,Normal,Med,High,2016-09-21,N\A ,21,76,LW,700,0%,0%
+2050,Casco, River Plate, Argentina, Primera División,2 ,4 ,Right ,"170cm | 5'6"" ",69 ,Normal,Med,High,2016-09-21,N\A ,28,75,LB,650,0%,0%
+269,Konoplyanka, FC Schalke 04, Ukraine, Bundesliga,4 ,4 ,Right ,"176cm | 5'9"" ",69 ,Normal,Med,Med,2016-09-21,N\A ,27,83,LM,1300,16%,-3%
+232,Diarra, Marseille, France, Ligue 1,3 ,3 ,Right ,"173cm | 5'8"" ",73 ,Normal,High,Med,2016-09-21,N\A ,31,83,CDM,900,2%,-2%
+225,Rodríguez, Fiorentina, Argentina, Calcio A,2 ,3 ,Right ,"182cm | 5'11"" ",79 ,Normal,High,Med,2016-09-21,N\A ,32,83,CB,750,0%,2%
+488,Sosa, Milan, Argentina, Calcio A,3 ,4 ,Right ,"179cm | 5'10"" ",71 ,Normal,High,High,2016-09-21,N\A ,31,80,CAM,750,1%,2%
+611,Lemos, UD Las Palmas, Uruguay, LaLiga Santander ,2 ,3 ,Right ,"185cm | 6'0"" ",80 ,Normal,Med,High,2016-09-21,N\A ,20,80,CB,700,-8%,-1%
+740,Felipe Anderson, Lazio, Brazil, Calcio A,4 ,4 ,Right ,"175cm | 5'8"" ",70 ,Normal,Low,Med,2016-09-21,N\A ,23,79,LW,1000,13%,-4%
+1105,Grosicki, Stade Rennais, Poland, Ligue 1,3 ,3 ,Right ,"180cm | 5'10"" ",78 ,Normal,Med,Med,2016-09-21,N\A ,28,77,RW,700,11%,-2%
+397,Fernández, Atlético Madrid, Argentina, LaLiga Santander ,3 ,3 ,Right ,"177cm | 5'9"" ",71 ,Normal,Med,Med,2016-09-21,N\A ,30,81,CM,850,0%,15%
+387,Falcao, AS Monaco, Colombia, Ligue 1,3 ,4 ,Right ,"177cm | 5'9"" ",72 ,Normal,Med,High,2016-09-21,N\A ,30,81,ST,700,1%,-1%
+578,Hernández, Celta Vigo, Chile, LaLiga Santander ,4 ,3 ,Left ,"185cm | 6'0"" ",81 ,Normal,Low,High,2016-09-21,N\A ,30,80,CM,700,-17%,-5%
+510,Fábio Coentrão, Real Madrid, Portugal, LaLiga Santander ,3 ,2 ,Left ,"179cm | 5'10"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,28,80,LB,1100,3%,0%
+14669,Keane, LA Galaxy, Republic of Ireland, MLS,3 ,4 ,Right ,"175cm | 5'8"" ",73 ,Normal,Low,High,2016-09-21,N\A ,36,80,ST,700,0%,0%
+866,Caicedo, RCD Espanyol, Ecuador, LaLiga Santander ,3 ,3 ,Left ,"183cm | 6'0"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,28,78,ST,700,-4%,1%
+2475,Sabitzer, RB Leipzig, Austria, Bundesliga,3 ,4 ,Right ,"177cm | 5'9"" ",74 ,Normal,Med,High,2016-09-21,N\A ,22,74,CAM,4500,30%,36%
+2576,Terzi, La Spezia, Italy, Calcio B,2 ,3 ,Right ,"180cm | 5'10"" ",69 ,Normal,High,Med,2016-09-21,N\A ,32,73,CB,350,14%,-9%
+6588,Cerri, Ferrara, Italy, Calcio B,2 ,2 ,Right ,"194cm | 6'4"" ",91 ,Normal,Med,Low,2016-09-21,N\A ,20,68,ST,300,-3%,21%
+3827,Galekovic, Adelaide United, Australia, Hyundai A-League,1 ,2 ,Right ,"188cm | 6'2"" ",91 ,Normal,Med,Med,2016-09-21,N\A ,35,71,GK,200,-,-
+4645,Ounas, Bordeaux, France, Ligue 1,3 ,4 ,Left ,"172cm | 5'7"" ",65 ,Normal,Med,High,2016-09-21,N\A ,20,70,LM,600,14%,4%
+5831,Vergara, Arsenal Tula, Colombia, Russian League,2 ,2 ,Right ,"190cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,22,69,CB,200,-100%,-
+8579,Miguel Vieira, Paços Ferreira, Portugal, LIGA NOS,2 ,2 ,Right ,"190cm | 6'2"" ",80 ,Normal,Med,Low,2016-09-21,N\A ,26,66,CB,1300,21%,-18%
+8463,Kim Do Hyeok, Incheon United, Korea Republic, K LEAGUE Classic,2 ,3 ,Left ,"175cm | 5'8"" ",65 ,Normal,High,High,2016-09-21,N\A ,24,66,CM,200,-,-
+9490,Norodien, Orlando Pirates, South Africa, South African FL,3 ,3 ,Right ,"168cm | 5'6"" ",65 ,Normal,Med,Med,2016-09-21,N\A ,21,65,LM,200,-,-
+13881,Eastwood, Sheffield Utd, England, Football League,1 ,3 ,Right ,"180cm | 5'10"" ",62 ,Normal,Med,Med,2016-09-21,N\A ,20,55,GK,200,-,-
+636,Batalla, Bursaspor, Argentina, Süper Lig,4 ,4 ,Right ,"170cm | 5'6"" ",74 ,Normal,Low,Med,2016-09-21,N\A ,32,79,CAM,650,-7%,-3%
+15019,Sørensen, 1. FC Köln, Denmark, Bundesliga,2 ,3 ,Right ,"194cm | 6'4"" ",88 ,Normal,High,Low,2016-09-21,N\A ,24,75,CB,450,-6%,-4%
+806,Reyes, RCD Espanyol, Spain, LaLiga Santander ,4 ,3 ,Left ,"176cm | 5'9"" ",72 ,Normal,Low,Med,2016-09-21,N\A ,33,78,RW,550,-23%,-11%
+1413,Beck, Beşiktaş JK, Germany, Süper Lig,3 ,3 ,Right ,"180cm | 5'10"" ",76 ,Normal,High,High,2016-09-21,N\A ,29,76,RB,2700,14%,-4%
+1986,Cop, Sporting Gijón, Croatia, LaLiga Santander ,3 ,3 ,Right ,"184cm | 6'0"" ",73 ,Normal,Med,High,2016-09-21,N\A ,26,75,ST,450,-26%,0%
+853,Bocchetti, Spartak Moskva, Italy, Russian League,2 ,2 ,Left ,"186cm | 6'1"" ",86 ,Normal,High,Med,2016-09-21,N\A ,29,78,CB,400,3%,0%
+848,Kasaev, Lokomotiv, Russia, Russian League,4 ,4 ,Right ,"174cm | 5'8"" ",76 ,Normal,Med,High,2016-09-21,N\A ,30,78,LM,400,0%,5%
+811,Cambiasso, Olympiakos CFP, Argentina, Hellas Liga,2 ,4 ,Left ,"177cm | 5'9"" ",78 ,Normal,High,High,2016-09-21,N\A ,36,78,CM,750,-4%,55%
+1487,Souza, Fenerbahçe SK, Brazil, Süper Lig,2 ,4 ,Right ,"188cm | 6'2"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,27,76,CM,700,0%,-3%
+1873,Amalfitano, LOSC Lille, France, Ligue 1,3 ,4 ,Right ,"176cm | 5'9"" ",68 ,Normal,Low,Med,2016-09-21,N\A ,31,75,CM,450,0%,-10%
+2044,Vikonis, Millonarios FC, Uruguay, Liga Dimayor,1 ,3 ,Left ,"184cm | 6'0"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,32,75,GK,400,7%,1%
+5951,Edu Machado, Boavista, Portugal, LIGA NOS,2 ,2 ,Right ,"175cm | 5'8"" ",67 ,Normal,Med,High,2016-09-21,N\A ,26,69,RB,1200,34%,2%
+8720,Lillis, Rochdale, England, Football League,1 ,2 ,Right ,"183cm | 6'0"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,29,65,GK,250,-,-
+531,Chedjou, Galatasaray SK, Cameroon, Süper Lig,3 ,3 ,Right ,"184cm | 6'0"" ",86 ,Normal,Med,Med,2016-09-21,N\A ,31,80,CB,2000,35%,-2%
+1084,Richards, Aston Villa, England, EFL Championship,2 ,3 ,Right ,"180cm | 5'10"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,28,77,CB,700,0%,0%
+14690,Hugo Mallo, Celta Vigo, Spain, LaLiga Santander ,2 ,3 ,Right ,"173cm | 5'8"" ",69 ,Normal,Med,High,2016-09-21,N\A ,25,80,RB,650,-23%,-7%
+1543,Sérgio Oliveira, FC Porto, Portugal, LIGA NOS,4 ,3 ,Right ,"181cm | 5'11"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,24,76,CM,400,3%,9%
+1889,Varela, FC Porto, Portugal, LIGA NOS,4 ,5 ,Right ,"179cm | 5'10"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,31,75,LW,400,-1%,10%
+1892,Kavlak, Beşiktaş JK, Austria, Süper Lig,2 ,5 ,Right ,"178cm | 5'10"" ",68 ,Normal,High,Med,2016-09-21,N\A ,28,75,CDM,1500,6%,-5%
+3545,Pablo Iñiguez, Rayo Vallecano, Spain, Liga Adelante,2 ,3 ,Left ,"183cm | 6'0"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,22,72,CB,200,-100%,-
+1921,Gray, Burnley, England, Premier League,3 ,3 ,Right ,"180cm | 5'10"" ",78 ,Normal,Med,High,2016-09-21,N\A ,25,75,ST,650,0%,1%
+1083,Gibson, Everton, Republic of Ireland, Premier League,2 ,4 ,Right ,"180cm | 5'10"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,29,77,CM,450,3%,5%
+14720,Downing, Middlesbrough, England, Premier League,3 ,3 ,Left ,"180cm | 5'10"" ",64 ,Normal,Med,Med,2016-09-21,N\A ,32,75,CAM,400,-2%,3%
+727,Tadic, Southampton, Serbia, Premier League,4 ,2 ,Left ,"181cm | 5'11"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,28,79,LM,500,-14%,16%
+2060,Wallace, Lazio, Brazil, Calcio A,2 ,2 ,Right ,"191cm | 6'3"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,22,75,CB,500,-3%,-3%
+5928,Hassan, Royal Mouscron, Egypt, Pro League,2 ,5 ,Right ,"180cm | 5'10"" ",77 ,Normal,Low,Med,2016-09-21,N\A ,22,69,LM,3000,29%,-6%
+1738,Yanbaev, Lokomotiv, Russia, Russian League,3 ,3 ,Right ,"177cm | 5'9"" ",74 ,Normal,Med,High,2016-09-21,N\A ,32,75,RB,650,0%,0%
+9229,González, Patronato, Argentina, Primera División,2 ,3 ,Right ,"173cm | 5'8"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,27,65,CM,200,-,-
+2078,Wellington Nem, FC Shakhtar, Brazil, Ukrayina Liha,3 ,3 ,Left ,"165cm | 5'4"" ",69 ,Normal,Med,High,2016-09-21,N\A ,24,75,CAM,650,0%,0%
+481,Hutchinson, Beşiktaş JK, Canada, Süper Lig,3 ,4 ,Right ,"187cm | 6'1"" ",73 ,Normal,High,High,2016-09-21,N\A ,33,80,CDM,1300,5%,-3%
+677,Lens, Fenerbahçe SK, Netherlands, Süper Lig,4 ,4 ,Right ,"178cm | 5'10"" ",73 ,Normal,Low,Med,2016-09-21,N\A ,28,79,LW,700,0%,-6%
+423,Taison, FC Shakhtar, Brazil, Ukrayina Liha,4 ,3 ,Right ,"172cm | 5'7"" ",64 ,Normal,Med,Med,2016-09-21,N\A ,28,81,CAM,700,0%,0%
+14670,Totti, Roma, Italy, Calcio A,3 ,5 ,Right ,"180cm | 5'10"" ",82 ,Normal,Med,Med,2016-09-21,N\A ,40,80,CF,700,0%,0%
+630,Samedov, Lokomotiv, Russia, Russian League,3 ,3 ,Right ,"177cm | 5'9"" ",75 ,Normal,Med,High,2016-09-21,N\A ,32,79,RM,400,-2%,7%
+618,Benaglio, VfL Wolfsburg, Switzerland, Bundesliga,1 ,3 ,Right ,"194cm | 6'4"" ",89 ,Normal,Med,Med,2016-09-21,N\A ,33,79,GK,400,-17%,0%
+1516,Herrerín, Athletic Bilbao, Spain, LaLiga Santander ,1 ,3 ,Right ,"187cm | 6'1"" ",90 ,Normal,Med,Med,2016-09-21,N\A ,28,76,GK,450,-19%,-4%
+15017,Dejaegere, KAA Gent, Belgium, Pro League,3 ,4 ,Right ,"174cm | 5'8"" ",70 ,Normal,High,High,2016-09-21,N\A ,25,75,LM,400,-25%,2%
+2530,Cuero, Monarcas, Colombia, LIGA Bancomer MX,4 ,2 ,Left ,"175cm | 5'8"" ",67 ,Normal,Med,Med,2016-09-21,N\A ,28,74,LM,650,5%,15%
+559,Zaza, West Ham, Italy, Premier League,3 ,3 ,Left ,"186cm | 6'1"" ",83 ,Normal,Med,High,2016-09-21,N\A ,25,80,ST,700,0%,0%
+610,Rafa, SL Benfica, Portugal, LIGA NOS,4 ,4 ,Right ,"170cm | 5'6"" ",63 ,Normal,Med,High,2016-09-21,N\A ,23,80,LM,700,2%,5%
+741,Geis, FC Schalke 04, Germany, Bundesliga,2 ,4 ,Right ,"181cm | 5'11"" ",81 ,Normal,Med,Low,2016-09-21,N\A ,23,79,CDM,700,3%,-4%
+1151,Valdifiori, Torino, Italy, Calcio A,2 ,3 ,Right ,"185cm | 6'0"" ",70 ,Normal,Med,Med,2016-09-21,N\A ,30,77,CDM,400,-9%,-3%
+1245,Pléa, OGC Nice, France, Ligue 1,3 ,3 ,Right ,"181cm | 5'11"" ",79 ,Normal,Med,High,2016-09-21,N\A ,23,77,ST,650,20%,6%
+1549,Drmic, Bor. M'gladbach, Switzerland, Bundesliga,3 ,4 ,Right ,"181cm | 5'11"" ",80 ,Normal,Med,Med,2016-09-21,N\A ,24,76,ST,400,-8%,-4%
+1605,Strobl, Bor. M'gladbach, Germany, Bundesliga,2 ,3 ,Right ,"188cm | 6'2"" ",77 ,Normal,Med,Med,2016-09-21,N\A ,26,76,CB,400,-9%,-6%
+1648,Peruzzi, Boca Juniors, Argentina, Primera División,2 ,3 ,Right ,"178cm | 5'10"" ",74 ,Normal,Med,High,2016-09-21,N\A ,24,76,RB,700,0%,0%
+2299,Schwaab, PSV, Germany, Eredivisie,2 ,4 ,Right ,"187cm | 6'1"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,28,74,CB,1100,23%,22%
+4964,Lee Jeong Hyup, Ulsan Hyundai, Korea Republic, K LEAGUE Classic,2 ,3 ,Right ,"185cm | 6'0"" ",75 ,Normal,Med,High,2016-09-21,N\A ,25,70,ST,200,-,-
+470,Fekir, Olympique Lyon, France, Ligue 1,4 ,3 ,Left ,"173cm | 5'8"" ",72 ,Normal,Low,High,2016-09-21,N\A ,23,81,RW,1500,-3%,0%
+710,Malli, 1. FSV Mainz 05, Turkey, Bundesliga,3 ,4 ,Right ,"179cm | 5'10"" ",72 ,Normal,Med,Med,2016-09-21,N\A ,24,79,CAM,400,-3%,-1%
+760,Willems, PSV, Netherlands, Eredivisie,4 ,4 ,Left ,"170cm | 5'6"" ",75 ,Normal,Med,High,2016-09-21,N\A ,22,79,LB,700,0%,0%
+812,López, Torino, Argentina, Calcio A,2 ,4 ,Right ,"190cm | 6'2"" ",88 ,Normal,Low,Med,2016-09-21,N\A ,32,78,ST,450,-4%,2%
+1325,Altintop, FC Augsburg, Turkey, Bundesliga,3 ,4 ,Right ,"186cm | 6'1"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,33,76,CAM,400,-9%,7%
+1490,Sahan, Beşiktaş JK, Turkey, Süper Lig,3 ,4 ,Right ,"179cm | 5'10"" ",71 ,Normal,High,High,2016-09-21,N\A ,29,76,LM,850,-3%,-13%
+1943,Isimat-Mirin, PSV, France, Eredivisie,2 ,3 ,Right ,"187cm | 6'1"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,25,75,CB,450,0%,3%
+5186,Welsh, Preston, England, EFL Championship,2 ,3 ,Right ,"170cm | 5'6"" ",73 ,Normal,High,Med,2016-09-21,N\A ,32,69,CDM,350,10%,-3%
+7929,Grodzicki, Ruch Chorzów, Poland, Ekstraklasa,2 ,3 ,Right ,"192cm | 6'3"" ",91 ,Normal,High,Med,2016-09-21,N\A ,33,66,CB,200,-,-
+436,Iago Aspas, Celta Vigo, Spain, LaLiga Santander ,3 ,3 ,Left ,"176cm | 5'9"" ",67 ,Normal,High,High,2016-09-21,N\A ,29,81,ST,700,0%,0%
+1040,Burdisso, Genoa, Argentina, Calcio A,2 ,3 ,Right ,"182cm | 5'11"" ",81 ,Normal,High,Med,2016-09-21,N\A ,35,77,CB,450,-4%,-6%
+1131,Trippier, Spurs, England, Premier League,3 ,4 ,Right ,"179cm | 5'10"" ",71 ,Normal,High,High,2016-09-21,N\A ,26,77,RB,400,0%,7%
+1592,Piris, Monterrey, Paraguay, LIGA Bancomer MX,2 ,3 ,Right ,"174cm | 5'8"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,27,76,RB,400,1%,4%
+1644,Romero, América, Argentina, LIGA Bancomer MX,4 ,3 ,Right ,"175cm | 5'8"" ",86 ,Normal,High,Med,2016-09-21,N\A ,28,76,ST,450,3%,3%
+14702,Kapino, Olympiakos CFP, Greece, Hellas Liga,1 ,2 ,Right ,"196cm | 6'5"" ",91 ,Normal,Med,Med,2016-09-21,N\A ,22,75,GK,350,2%,2%
+5460,Gaus, 1. FC K'lautern, Germany, Bundesliga 2,3 ,3 ,Left ,"183cm | 6'0"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,27,69,LM,200,-100%,-
+476,Cabral, Celta Vigo, Argentina, LaLiga Santander ,2 ,3 ,Right ,"182cm | 5'11"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,31,80,CB,450,-8%,24%
+14993,Gatcan, FC Rostov, Moldova, Russian League,3 ,3 ,Right ,"186cm | 6'1"" ",79 ,Normal,High,Med,2016-09-21,N\A ,32,75,CDM,350,3%,5%
+1072,Kaboul, Watford, France, Premier League,2 ,3 ,Right ,"191cm | 6'3"" ",87 ,Normal,Med,High,2016-09-21,N\A ,30,77,CB,450,0%,14%
+1319,Crouch, Stoke City, England, Premier League,3 ,3 ,Right ,"201cm | 6'7"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,35,76,ST,450,4%,2%
+2010,Badu, Udinese, Ghana, Calcio A,3 ,3 ,Right ,"173cm | 5'8"" ",71 ,Normal,High,High,2016-09-21,N\A ,25,75,CM,650,1%,-1%
+3381,Chibuike, AIK Fotboll, Nigeria, Allsvenskan,3 ,4 ,Left ,"180cm | 5'10"" ",76 ,Normal,Med,Med,2016-09-21,N\A ,28,72,CAM,350,7%,66%
+6905,Dursun, Galatasaray SK, Turkey, Süper Lig,2 ,2 ,Right ,"188cm | 6'2"" ",79 ,Normal,High,Med,2016-09-21,N\A ,25,67,RB,400,6%,7%
+776,Paulo Oliveira, Sporting CP, Portugal, LIGA NOS,2 ,2 ,Right ,"187cm | 6'1"" ",82 ,Normal,High,Med,2016-09-21,N\A ,24,79,CB,450,7%,12%
+529,Modeste, 1. FC Köln, France, Bundesliga,3 ,3 ,Right ,"187cm | 6'1"" ",84 ,Normal,Med,Med,2016-09-21,N\A ,28,80,ST,550,0%,0%
+14999,Dabo, Saint-Etienne, France, Ligue 1,3 ,3 ,Right ,"187cm | 6'1"" ",79 ,Normal,High,High,2016-09-21,N\A ,24,75,CM,400,0%,5%
+1016,Sulu, Darmstadt, Turkey, Bundesliga,2 ,4 ,Right ,"183cm | 6'0"" ",80 ,Normal,High,Med,2016-09-21,N\A ,30,78,CB,450,-9%,0%
+1034,Hilbert, Bayer 04, Germany, Bundesliga,3 ,3 ,Right ,"183cm | 6'0"" ",80 ,Normal,Med,High,2016-09-21,N\A ,32,77,RB,500,-27%,-5%
+1634,Ghazal, CD Nacional, Egypt, LIGA NOS,2 ,3 ,Right ,"189cm | 6'2"" ",84 ,Normal,High,Low,2016-09-21,N\A ,24,76,CDM,400,0%,2%
+330,Vitolo, Sevilla FC, Spain, LaLiga Santander ,3 ,4 ,Right ,"184cm | 6'0"" ",79 ,Normal,High,Med,2016-09-21,N\A ,27,82,RM,700,-27%,-13%
+2083,Zuculini, Rayo Vallecano, Argentina, Liga Adelante,2 ,3 ,Right ,"182cm | 5'11"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,23,75,CM,600,1%,20%
+14737,Croce, Empoli, Italy, Calcio A,3 ,3 ,Right ,"175cm | 5'8"" ",68 ,Normal,Med,High,2016-09-21,N\A ,34,75,CM,500,-1%,-7%
+464,Salah, Roma, Egypt, Calcio A,4 ,4 ,Left ,"175cm | 5'8"" ",72 ,Normal,Med,High,2016-09-21,N\A ,24,81,RW,1100,13%,4%
+1064,Abraham, Eint. Frankfurt, Argentina, Bundesliga,2 ,2 ,Right ,"188cm | 6'2"" ",83 ,Normal,Med,Med,2016-09-21,N\A ,30,77,CB,1100,21%,0%
+9016,Georgievski, Melb. Victory, FYR Macedonia, Hyundai A-League,2 ,3 ,Right ,"179cm | 5'10"" ",74 ,Normal,Med,High,2016-09-21,N\A ,28,65,LB,200,-100%,-
+307,Bender, Bor. Dortmund, Germany, Bundesliga,2 ,4 ,Right ,"186cm | 6'1"" ",80 ,Normal,High,Med,2016-09-21,N\A ,27,82,CB,850,4%,1%
+526,Rhodolfo, Beşiktaş JK, Brazil, Süper Lig,2 ,3 ,Right ,"193cm | 6'3"" ",84 ,Normal,High,Med,2016-09-21,N\A ,30,80,CB,2000,27%,-7%
+1249,Pizarro, Tigres, Argentina, LIGA Bancomer MX,2 ,3 ,Right ,"186cm | 6'1"" ",80 ,Normal,High,Med,2016-09-21,N\A ,26,77,CDM,400,2%,4%
+1274,Alex Telles, FC Porto, Brazil, LIGA NOS,3 ,2 ,Left ,"181cm | 5'11"" ",71 ,Normal,Med,High,2016-09-21,N\A ,23,77,LB,500,6%,33%
+1601,Insua, CD Leganés, Spain, LaLiga Santander ,2 ,3 ,Right ,"187cm | 6'1"" ",79 ,Normal,Med,Med,2016-09-21,N\A ,23,76,CB,500,-24%,0%
+8318,Stiefler, SV Sandhausen, Germany, Bundesliga 2,3 ,4 ,Right ,"178cm | 5'10"" ",74 ,Normal,Med,Med,2016-09-21,N\A ,28,66,RM,200,-,-
+1585,Frei, Beşiktaş JK, Turkey, Süper Lig,4 ,4 ,Right ,"171cm | 5'7"" ",66 ,Normal,Med,High,2016-09-21,N\A ,23,76,LM,850,-1%,-9%
+1606,Durm, Bor. Dortmund, Germany, Bundesliga,3 ,3 ,Right ,"183cm | 6'0"" ",72 ,Normal,Med,High,2016-09-21,N\A ,24,76,LB,500,3%,-1%
+8182,Doughty, Swindon Town, Wales, Football League,3 ,4 ,Left ,"185cm | 6'0"" ",81 ,Normal,Med,Med,2016-09-21,N\A ,24,66,CM,200,-100%,-
+446,Gabbiadini, Napoli, Italy, Calcio A,3 ,3 ,Left ,"186cm | 6'1"" ",81 ,Normal,Low,High,2016-09-21,N\A ,24,81,ST,700,1%,0%
+722,Tomás Pina, Club Brugge, Spain, Pro League,3 ,3 ,Right ,"185cm | 6'0"" ",75 ,Normal,High,Med,2016-09-21,N\A ,29,79,CM,1500,39%,8%
+1229,Rubén Pardo, Real Sociedad, Spain, LaLiga Santander ,2 ,4 ,Right ,"182cm | 5'11"" ",68 ,Normal,Med,Med,2016-09-21,N\A ,24,77,CM,500,-17%,-3%
+1415,Jokic, Villarreal CF, Slovenia, LaLiga Santander ,2 ,3 ,Left ,"176cm | 5'9"" ",75 ,Normal,Med,Med,2016-09-21,N\A ,30,76,LB,650,-42%,-14%
+1641,van Beek, Feyenoord, Netherlands, Eredivisie,2 ,2 ,Right ,"189cm | 6'2"" ",76 ,Normal,High,Low,2016-09-21,N\A ,22,76,CB,400,0%,4%
