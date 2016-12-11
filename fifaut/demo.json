@@ -1,0 +1,65 @@
+[
+  {
+    'description': 'Min. Rare Players: 5',
+    'value': 5,
+    'suffix': '',
+    'key': 'rare',
+    'operator': 'gte',
+    'tertiary': 0,
+    'secondary': 0
+  },
+  {
+    'description': 'Min. 1 FC Barcelona Players',
+    'value': 1,
+    'suffix': '-241',
+    'key': 'from_club',
+    'operator': 'gte',
+    'tertiary': 0,
+    'secondary': 241
+  },
+  {
+    'description': 'Min. 1 Real Madrid CF Players',
+    'value': 1,
+    'suffix': '-243',
+    'key': 'from_club',
+    'operator': 'gte',
+    'tertiary': 0,
+    'secondary': 243
+  },
+  {
+    'description': 'Exactly 11 Spain Players',
+    'value': 11,
+    'suffix': '-45',
+    'key': 'from_nation',
+    'operator': 'eq',
+    'tertiary': 0,
+    'secondary': 45
+  },
+  {
+    'description': 'Min. Team Rating: 80',
+    'value': 80,
+    'suffix': '',
+    'key': 'rating',
+    'operator': 'gte',
+    'tertiary': 0,
+    'secondary': 0
+  },
+  {
+    'description': 'Min. Team Chemistry: 95',
+    'value': 95,
+    'suffix': '',
+    'key': 'chemistry',
+    'operator': 'gte',
+    'tertiary': 0,
+    'secondary': 0
+  },
+  {
+    'description': 'Number of Players in the Squad: 11',
+    'value': 11,
+    'suffix': '',
+    'key': 'size',
+    'operator': 'eq',
+    'tertiary': 0,
+    'secondary': 0
+  }
+]
