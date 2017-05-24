@@ -3,6 +3,7 @@ require 'csv'
 require 'open-uri'
 require 'active_support/all'
 require 'nokogiri'
+require 'pry-rails'
 
 def get(api)
   puts api
@@ -10,44 +11,96 @@ def get(api)
   open(api, 'User-Agent' => user_agent).read
 end
 
-# "https://www.shanbay.com/wordlist/#{wordbook_id}/#{wordlist_id}/?page=#{page}"
+def api(year, round)
+  "http://www.worldfootball.net/schedule/eng-premier-league-#{year}-#{year + 1}-spieltag/#{round}/"
+end
 
-def parse_wordbook(id)
-  html = File.read('test2.html')
-  html_object = Nokogiri::HTML(html)
-  title = html_object.css('div.wordbook-title a').text
-  wordlists = html_object.css('div .wordbook-create-candidate-wordlist.wordbook-containing-wordlist').map do |html_item|
-    title = html_item.css('td.wordbook-wordlist-name a').first.name
-    id = html_item.attributes['id'].value.split('-').last
-    {title: html_item.css('td.wordbook-wordlist-name a').first.name, id: html_item.attributes['id'].value.split('-').last}
+def season(year)
+  "#{year}-#{year + 1}"
+end
+
+def get_tables(year)
+  (1..38).map do |round|
+    html = get(api(year, round))
+    html_object = Nokogiri::HTML(html)
+    columns = html_object.css('#site > div.white > div.content > div > div:nth-child(7) > div > table.standard_tabelle > tr')
+    heads = columns.first.children.css('th').map { |f| f.text }
+    columns.map do |t|
+      Hash[heads.zip t.children.css('td').map { |f| f.text.gsub("\t", '').gsub("\r\n", '').presence }.compact]
+    end.last(20)
   end
-
 end
 
-def parse_wordlist(wordbook_id, wordlist_id, page)
-  # html = File.read('test.html')
-  api = "https://www.shanbay.com/wordlist/#{wordbook_id}/#{wordlist_id}/?page=#{page}"
-  html = get(api)
-  html_object = Nokogiri::HTML(html)
-  items = html_object.css('tr.row')
-  data = items.map do |item|
-    {word: item.css('td.span2').text,  meaning: item.css('td.span10').text}
+def run
+  result = {}
+  (1995..2015).each do |year|
+    result[year] = get_tables(year)
   end
-  parent_title = html_object.css('p a').first.text
-  title = html_object.css('h4').first.text.split("\n").first
-  desc = html_object.css('div.wordlist-description-container').first.text
-  data
+  File.open("result.json", "w") do |f|
+    f.write(result.to_json)
+  end
 end
 
-wordbooks = [2725]
-result = []
-30.times do |i|
-  words = parse_wordlist(2725, 27373, i+1)
-  break if words.blank?
-  result += words
-  sleep(2)
+def analysis(rank: 6, compare_type: 'only_contain')
+  data = JSON.parse(File.open('results.json').read)
+  size = data.size
+  (0..36).map do |round|
+    percent = data.values.map do |teams|
+      final = teams.last.first(rank).map { |t| t['Team'] }
+      current = teams[round].first(rank).map { |t| t['Team'] }
+      case compare_type
+        when 'only_contain'
+          (final & current).size.to_f / rank
+        when 'same'
+          (0..rank-1).map do |i|
+            current[i] == final[i] ? 1 : 0
+          end.sum.to_f / rank
+        when 'moved'
+          (current - final).size.to_f / rank
+        when 'get_in'
+          current_mtd = teams[round][5]['Team']
+          (current_mtd & final).size.to_f / rank
+        else
+          (final & current).size.to_f / rank
+      end
+    end.sum.to_f / size
+    [round+1, percent.round(2)]
+  end.to_h
 end
 
-File.open("27373.json", "w") do |f|
-  f.write(result.to_json)
+def analysis_rank_by_end(rank: 6, round: 17)
+  data = JSON.parse(File.open('results.json').read)
+  data.map do |year, year_data|
+    team = year_data[round - 1][rank - 1]
+    final = year_data.last.find {|d| d['Team'] == team['Team']}
+    d = {team: team['Team'], year: year, final_rank: final['#'],
+         current_pts: team['Pt.'], final_pts: final['Pt.'],
+         current_highest_pts: year_data[round - 1].first['Pt.'], final_highest_pts: year_data.last.first['Pt.']}
+    p d
+  end.sort_by { |d| d[:final_rank].to_i }
 end
+
+def clean
+  data = JSON.parse(File.open('result.json').read)
+  results = {}
+  data.map do |key, year|
+    results[key] = year.map do |round|
+      rank = '1'
+      round.map do |team|
+        keys = team.keys
+        values = team.values.compact
+        if keys.size != values.size
+          values = [rank] + values
+        end
+        rank = values.first
+        keys.zip(values).to_h
+      end
+    end
+  end
+  File.open("results.json", "w") do |f|
+    f.write(results.to_json)
+  end
+end
+
+# p analysis(rank: 4, compare_type: 'get_in')
+puts analysis_rank_by_end.to_json

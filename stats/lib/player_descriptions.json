@@ -1,0 +1,1459 @@
+{
+  "/players/traditional/": {
+    "name": "Traditional",
+    "stats": {
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For rating player's performance and efficiency"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "3PM": {
+        "description": "3 Point Field Goals Made",
+        "note": "For rating player's performance and efficiency"
+      },
+      "3PA": {
+        "description": "3 Point Field Goals Attempted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "3P%": {
+        "description": "3 Point Field Goals Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "FTM": {
+        "description": "Free Throws Made",
+        "note": "For rating player's performance and efficiency"
+      },
+      "FTA": {
+        "description": "Free Throws Attempted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "FT%": {
+        "description": "Free Throw Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OREB": {
+        "description": "Offensive Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "DREB": {
+        "description": "Defensive Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "REB": {
+        "description": "Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "AST": {
+        "description": "Assists",
+        "note": "For rating player's performance and efficiency"
+      },
+      "TOV": {
+        "description": "Turnovers",
+        "note": "For rating player's performance and efficiency"
+      },
+      "STL": {
+        "description": "Steals",
+        "note": "For rating player's performance and efficiency"
+      },
+      "BLK": {
+        "description": "Blocks",
+        "note": "For rating player's performance and efficiency"
+      },
+      "PF": {
+        "description": "Personal Fouls",
+        "note": "For rating player's performance and efficiency"
+      },
+      "DD2": {
+        "description": "Double doubles",
+        "note": "For rating player's performance and efficiency"
+      },
+      "TD3": {
+        "description": "Triple doubles",
+        "note": "For rating player's performance and efficiency"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For rating player's performance and efficiency"
+      },
+      "+/-": {
+        "description": "Plus Minus",
+        "note": "For rating player's performance and efficiency"
+      }
+    }
+  },
+  "/players/advanced/": {
+    "name": "Advanced",
+    "stats": {
+      "OffRtg": {
+        "description": "Offensive Rating",
+        "note": "For rating player's performance and efficiency"
+      },
+      "DefRtg": {
+        "description": "Defensive Rating",
+        "note": "For rating player's performance and efficiency"
+      },
+      "NetRtg": {
+        "description": "Net Rating",
+        "note": "For rating player's performance and efficiency"
+      },
+      "AST%": {
+        "description": "Assist Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "AST/TO": {
+        "description": "Assist to Turnover Ratio",
+        "note": "For rating player's performance and efficiency"
+      },
+      "AST Ratio": {
+        "description": "Assist Ratio",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OREB%": {
+        "description": "Offensive Rebound Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "DREB%": {
+        "description": "Defensive Rebound Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "REB%": {
+        "description": "Rebound Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "TO Ratio": {
+        "description": "Turnover Ratio",
+        "note": "For rating player's performance and efficiency"
+      },
+      "eFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "TS%": {
+        "description": "True Shooting Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "USG%": {
+        "description": "Usage Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "PACE": {
+        "description": "Pace",
+        "note": "For rating player's performance and efficiency"
+      },
+      "PIE": {
+        "description": "Player Impact Estimate",
+        "note": "For rating player's performance and efficiency"
+      }
+    }
+  },
+  "/players/misc/": {
+    "name": "Misc",
+    "stats": {
+      "PTS OFF TO": {
+        "description": "Points Off Turnovers",
+        "note": "For rating player's performance and efficiency"
+      },
+      "2nd PTS": {
+        "description": "Second Chance Points",
+        "note": "For rating player's performance and efficiency"
+      },
+      "FBPs": {
+        "description": "Fast Break Points",
+        "note": "For rating player's performance and efficiency"
+      },
+      "PITP": {
+        "description": "Points in the Paint",
+        "note": "For rating player's performance and efficiency"
+      },
+      "Opp PTS OFF TO": {
+        "description": "Opponent Points Off Turnovers",
+        "note": "For rating player's performance and efficiency"
+      },
+      "Opp 2nd PTS": {
+        "description": "Opponent 2nd Chance Points",
+        "note": "For rating player's performance and efficiency"
+      },
+      "Opp FBPs": {
+        "description": "Opponent Fast Break Points",
+        "note": "For rating player's performance and efficiency"
+      },
+      "Opp PITP": {
+        "description": "Opponent Points in the Paint",
+        "note": "For rating player's performance and efficiency"
+      },
+      "BLK": {
+        "description": "Blocks",
+        "note": "For rating player's performance and efficiency"
+      },
+      "BLKA": {
+        "description": "Blocked Field Goal Attempts",
+        "note": "For rating player's performance and efficiency"
+      },
+      "PF": {
+        "description": "Personal Fouls",
+        "note": "For rating player's performance and efficiency"
+      },
+      "PFD": {
+        "description": "Personal Fouls Drawn",
+        "note": "For rating player's performance and efficiency"
+      }
+    }
+  },
+  "/players/scoring/": {
+    "name": "Scoring",
+    "stats": {
+      "%FGA 2PT": {
+        "description": "Percent of Field Goals Attempted (2 Pointers)",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%FGA 3PT": {
+        "description": "Percent of Field Goals Attempted (3 Pointers)",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%PTS 2PT": {
+        "description": "Percent of Points (2 Pointers)",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%PTS 2PT MR": {
+        "description": "Percent of Points (Mid-Range)",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%PTS 3PT": {
+        "description": "Percent of Points (3 Pointers)",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%PTS FBPs": {
+        "description": "Percent of Points (Fast Break Points)",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%PTS FT": {
+        "description": "Percent of Points (Free Throws)",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%PTS OffTO": {
+        "description": "Percent of Points (Off Turnovers)",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%PTS PITP": {
+        "description": "Percent of Points (Points in the Paint)",
+        "note": "For rating player's performance and efficiency"
+      },
+      "2FGM %AST": {
+        "description": "Percent of 2 Point Field Goals Made Assisted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "2FGM %UAST": {
+        "description": "Percent of 2 Point Field Goals Made Unassisted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "3FGM %AST": {
+        "description": "Percent of 3 Point Field Goals Made Assisted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "3FGM %UAST": {
+        "description": "Percent of 3 Point Field Goals Made Unssisted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "FGM %AST": {
+        "description": "Percent of Point Field Goals Made Assisted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "FGM %UAST": {
+        "description": "Percent of Point Field Goals Made Unssisted",
+        "note": "For rating player's performance and efficiency"
+      }
+    }
+  },
+  "/players/usage/": {
+    "name": "Usage",
+    "stats": {
+      "USG%": {
+        "description": "Usage Percent",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%FGM": {
+        "description": "Percent of Team's Field Goals Made",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%FGA": {
+        "description": "Percent of Team's Field Goals Attemped",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%3PM": {
+        "description": "Percent of Team's 3PT Field Goals Made",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%3PA": {
+        "description": "Percent of Team's 3PT Field Goals Attemped",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%FTM": {
+        "description": "Percent of Team's Free Throws Made",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%FTA": {
+        "description": "Percent of Team's Free Throws Attemped",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%OREB": {
+        "description": "Percent of Team's Offensive Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%DREB": {
+        "description": "Percent of Team's Defensive Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%REB": {
+        "description": "Percent of Team's Total Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%AST": {
+        "description": "Percent of Team's Assists",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%TOV": {
+        "description": "Percent of Team's Turnovers",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%STL": {
+        "description": "Percent of Team's Steals",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%BLK": {
+        "description": "Percent of Team's Blocks",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%BLKA": {
+        "description": "Percent of Team's Blocked Field Goal Attempts",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%PF": {
+        "description": "Percent of Team's Personal Fouls",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%PFD": {
+        "description": "Percent of Team's Personal Fouls Drawn",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%PTS": {
+        "description": "Percent of Team's Points",
+        "note": "For rating player's performance and efficiency"
+      }
+    }
+  },
+  "/players/opponent/": {
+    "name": "Opponent",
+    "stats": {
+      "OPP FGM": {
+        "description": "Opponent's Field Goals Made",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP FGA": {
+        "description": "Opponent's Field Goals Attempted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP FG%": {
+        "description": "Opponent's Field Goal Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP 3PM": {
+        "description": "Opponent's 3 Point Field Goals Made",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP 3PA": {
+        "description": "Opponent's 3 Point Field Goals Attempted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP 3P%": {
+        "description": "Opponent's 3 Point Field Goal Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP FTM": {
+        "description": "Opponent's Free Throws Made",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP FTA": {
+        "description": "Opponent's Free Throws Attempted",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP FT%": {
+        "description": "Opponent's Free Throw Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP OREB": {
+        "description": "Opponent's Offensive Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP DREB": {
+        "description": "Opponent's Defensive Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP REB": {
+        "description": "Opponent's Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP AST": {
+        "description": "Opponent's Assists",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP TOV": {
+        "description": "Opponent's Turnovers",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP STL": {
+        "description": "Opponent's Steals",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP BLK": {
+        "description": "Opponent's Blocks",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP BLKA": {
+        "description": "Opponent's Blocked Field Goal Attempts",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP PF": {
+        "description": "Opponent's Personal Fouls",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP PFD": {
+        "description": "Opponent's Personal Fouls Drawn",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP PTS": {
+        "description": "Opponent's Points",
+        "note": "For rating player's performance and efficiency"
+      },
+      "+/-": {
+        "description": "Opponent's Plus/Minus",
+        "note": "For rating player's performance and efficiency"
+      }
+    }
+  },
+  "/players/defense/": {
+    "name": "Defense Overall",
+    "stats": {
+      "DEF RTG": {
+        "description": "Defensive Rating",
+        "note": "For rating player's performance and efficiency"
+      },
+      "DREB": {
+        "description": "Defensive Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "DREB%": {
+        "description": "Defensive Rebound Percentage",
+        "note": "For rating player's performance and efficiency"
+      },
+      "% DREB": {
+        "description": "Percent of Team's Defensive Rebounds",
+        "note": "For rating player's performance and efficiency"
+      },
+      "STL": {
+        "description": "Steals",
+        "note": "For rating player's performance and efficiency"
+      },
+      "STL%": {
+        "description": "Percent of Team's Steals",
+        "note": "For rating player's performance and efficiency"
+      },
+      "BLK": {
+        "description": "Blocks",
+        "note": "For rating player's performance and efficiency"
+      },
+      "%BLK": {
+        "description": "Percent of Team's Blocks",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP PTS OFF TOV": {
+        "description": "Opponent Points Off Turnovers",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP PTS 2ND CHANCE": {
+        "description": "Opponent 2nd Chance Points",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP PTS FB": {
+        "description": "Opponent Fast Break Points",
+        "note": "For rating player's performance and efficiency"
+      },
+      "OPP PTS PAINT": {
+        "description": "Opponent Points in the Paint",
+        "note": "For rating player's performance and efficiency"
+      },
+      "DEF WS": {
+        "description": "Defensive Win Shares",
+        "note": "For rating player's performance and efficiency"
+      }
+    }
+  },
+  "/players/transition/": {
+    "name": "Transition",
+    "stats": {
+      "Poss": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "Freq": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "eFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT Freq": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO Freq": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF Freq": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "And One Freq": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "Score Freq": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/isolation/": {
+    "name": "Isolation",
+    "stats": {
+      "Poss": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "Freq": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "eFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT Freq": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO Freq": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF Freq": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "And One Freq": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "Score Freq": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/ball-handler/": {
+    "name": "Ball Handler",
+    "stats": {
+      "POSS": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FREQ": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT FREQ": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO FREQ": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF FREQ": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AND ONE FREQ": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SCORE FREQ": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PERCENTILE": {
+        "description": "Percentile",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/roll-man/": {
+    "name": "Roll Man",
+    "stats": {
+      "POSS": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FREQ": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT FREQ": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO FREQ": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF FREQ": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AND ONE FREQ": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SCORE FREQ": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PERCENTILE": {
+        "description": "Percentile",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/post-up/": {
+    "name": "Post Up",
+    "stats": {
+      "POSS": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FREQ": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT FREQ": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO FREQ": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF FREQ": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AND ONE FREQ": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SCORE FREQ": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PERCENTILE": {
+        "description": "Percentile",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/spot-up/": {
+    "name": "Spot Up",
+    "stats": {
+      "POSS": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FREQ": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT FREQ": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO FREQ": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF FREQ": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AND ONE FREQ": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SCORE FREQ": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PERCENTILE": {
+        "description": "Percentile",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/hand-off/": {
+    "name": "Hand Off",
+    "stats": {
+      "POSS": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FREQ": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT FREQ": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO FREQ": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF FREQ": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AND ONE FREQ": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SCORE FREQ": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/cut/": {
+    "name": "Cut",
+    "stats": {
+      "POSS": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FREQ": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT FREQ": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO FREQ": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF FREQ": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AND ONE FREQ": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SCORE FREQ": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/off-screen/": {
+    "name": "Off Screen",
+    "stats": {
+      "POSS": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FREQ": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT FREQ": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO FREQ": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF FREQ": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AND ONE FREQ": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SCORE FREQ": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/putbacks/": {
+    "name": "Put Backs",
+    "stats": {
+      "POSS": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FREQ": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT FREQ": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO FREQ": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF FREQ": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AND ONE FREQ": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SCORE FREQ": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/playtype-misc/": {
+    "name": "Misc",
+    "stats": {
+      "POSS": {
+        "description": "Possessions",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FREQ": {
+        "description": "Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PPP": {
+        "description": "Points Per Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT FREQ": {
+        "description": "Free Throw Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO FREQ": {
+        "description": "Turnover Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SF FREQ": {
+        "description": "Shooting Foul Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AND ONE FREQ": {
+        "description": "And One Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SCORE FREQ": {
+        "description": "Score Frequency",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/catch-shoot/": {
+    "name": "Catch \u0026 Shoot",
+    "stats": {
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attemped",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "3PM": {
+        "description": "3 Point Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "3PA": {
+        "description": "3 Point Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "3P%": {
+        "description": "3 Point Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/defensive-impact/": {
+    "name": "Defensive Impact",
+    "stats": {
+      "STL": {
+        "description": "Steals",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "BLK": {
+        "description": "Blocks",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "DREB": {
+        "description": "Defensive Rebounds",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "DFGM": {
+        "description": "Field Goals Defended at Rim Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "DFGA": {
+        "description": "Field Goals Defended at Rim Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "DFG%": {
+        "description": "Field Goals Defended at Rim Percent",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/drives/": {
+    "name": "Drives",
+    "stats": {
+      "DRIVES": {
+        "description": "Drives",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FTM": {
+        "description": "Free Throws Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FTA": {
+        "description": "Free Throws Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT%": {
+        "description": "Free Throw Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS%": {
+        "description": "Points Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PASS": {
+        "description": "Pass",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PASS%": {
+        "description": "Pass Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AST": {
+        "description": "Assists",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AST%": {
+        "description": "Percent of Team's Assists",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TO": {
+        "description": "Turnovers",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TOV%": {
+        "description": "Percent of Team's Turnovers",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PF": {
+        "description": "Personal Fouls",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PF%": {
+        "description": "Percent of Team's Personal Fouls",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/passing/": {
+    "name": "Passing",
+    "stats": {
+      "PASSES MADE": {
+        "description": "Passes Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PASSES RECEIVED": {
+        "description": "Passes Received",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AST": {
+        "description": "Assists",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FT AST": {
+        "description": "Free Throw Assist",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "SECONDARY AST": {
+        "description": "Secondary Assist",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "POTENTIAL AST": {
+        "description": "Potential Assist",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AST PTS CREATED": {
+        "description": "Assist Points Created",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AST ADJ": {
+        "description": "Assist Adj",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AST TO PASS%": {
+        "description": "Assist-to-Pass Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AST TO PASS% ADJ": {
+        "description": "Assist-to-Pass Percentage Adj",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/touches/": {
+    "name": "Touches",
+    "stats": {
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TOUCHES": {
+        "description": "Touches",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FRONT CT TOUCHES": {
+        "description": "Front Court Touches",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "TIME OF POSS": {
+        "description": "Time Of Possession",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AVG SEC PER TOUCH": {
+        "description": "Avg Seconds Per Touch",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AVG DRIB PER TOUCH": {
+        "description": "Avg Dribbles Per Touch",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS PER TOUCH": {
+        "description": "Points Per Touch",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "ELBOW TOUCHES": {
+        "description": "Elbow Touches",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "POST TOUCHES": {
+        "description": "Post Touches",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PAINT TOUCHES": {
+        "description": "Paint Touches",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS PER ELBOW TOUCH": {
+        "description": "Points Per Elbow Touch",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS PER POST TOUCH": {
+        "description": "Points Per Post Touch",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "PTS PER PAINT TOUCH": {
+        "description": "Points Per Paint Touch",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/pullup/": {
+    "name": "Pull Up Shooting",
+    "stats": {
+      "PTS": {
+        "description": "Points",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGM": {
+        "description": "Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FGA": {
+        "description": "Field Goals Made Attemped",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "FG%": {
+        "description": "Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "3PM": {
+        "description": "3 Point Field Goals Made",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "3PA": {
+        "description": "3 Point Field Goals Attempted",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "3P%": {
+        "description": "3 Point Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "EFG%": {
+        "description": "Effective Field Goal Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  },
+  "/players/rebounding/": {
+    "name": "Rebounding",
+    "stats": {
+      "REB": {
+        "description": "Rebounds",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "CONTESTED REB": {
+        "description": "Contested Rebounds",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "UNCONTESTED REB": {
+        "description": "Uncontested Rebounds",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "CONTESTED REB%": {
+        "description": "Contested Rebound Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "REB CHANCES": {
+        "description": "Rebound Chances",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "REB CHANCE%": {
+        "description": "Rebound Chance Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "DEFERRED REB CHANCES": {
+        "description": "Deferred Rebound Chances",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "ADJUSTED REB CHANCE%": {
+        "description": "Adjusted Rebound Chance Percentage",
+        "note": "For clustering players and rating player's performance of certain play type"
+      },
+      "AVG REB DISTANCE": {
+        "description": "Average Rebound Distance",
+        "note": "For clustering players and rating player's performance of certain play type"
+      }
+    }
+  }
+}

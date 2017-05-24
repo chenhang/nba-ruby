@@ -76,7 +76,7 @@ def parse_league season
 end
 
 def download_for season
-  file_name = "#{season}_shot_dashbard"
+  file_name = "#{season}_shot_dashboard"
   File.open("result/dashboard/#{season}/#{file_name}.json", "w") do |f|
     f.write(parse_league(season).to_json)
   end

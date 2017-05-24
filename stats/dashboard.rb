@@ -9,6 +9,7 @@ puts 'start!!!'
 puts `mkdir result`
 puts `mkdir result/dashboard`
 
+
 (2015..2015).each do |year|
   season = "#{year}-#{(year+1).to_s.last(2)}"
   puts season
@@ -17,20 +18,20 @@ puts `mkdir result/dashboard`
   temp_name = "dashboard/#{season}/_#{season}_dashboard"
   final_name = "dashboard/#{season}/#{season}_dashboard"
   `mkdir result/dashboard/#{season}`
-  # puts 'start get play types data'
-  # puts `ruby lib/play_type_parser.rb download_for #{season}`
-  # puts 'finished get play types data'
-  #
+  puts 'start get play types data'
+  system("ruby lib/play_type_parser.rb download_for #{season}", out: $stdout, err: :out)
+  puts 'finished get play types data'
+
   # puts 'start get general dashboard data'
-  # puts `ruby lib/dashboard_parser.rb download_for #{season}`
+  # system("ruby lib/dashboard_parser.rb download_for #{season}", out: $stdout, err: :out)
   # puts 'finished get general dashboard data'
-  #
+
   # puts 'start get shot dashboard data'
-  # puts `ruby lib/shot_dashboard_parser.rb download_for #{season}`
+  # system("ruby lib/shot_dashboard_parser.rb download_for #{season}", out: $stdout, err: :out)
   # puts 'finished get shot dashboard data'
-  #
+
   # puts 'start get defense dashboard data'
-  # puts `ruby lib/defense_dashboard_parser.rb download_for #{season}`
+  # system("ruby lib/defense_dashboard_parser.rb download_for #{season}", out: $stdout, err: :out)
   # puts 'finished get defense dashboard data'
 
   file_names = files.map { |name| "dashboard/#{season}/#{season}_#{name}" }.join(' ')

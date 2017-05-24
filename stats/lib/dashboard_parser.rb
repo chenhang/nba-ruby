@@ -66,7 +66,7 @@ def parse(season, team_id = 0, opp_team_id = 0)
 end
 
 def download_for season
-  file_name = "#{season}_general_dashbard"
+  file_name = "#{season}_general_dashboard"
   File.open("result/dashboard/#{season}/#{file_name}.json", "w") do |f|
     f.write(parse(season).to_json)
   end
