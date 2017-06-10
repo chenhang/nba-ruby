@@ -3,7 +3,7 @@ require 'csv'
 require 'open-uri'
 require 'active_support/all'
 require 'nokogiri'
-require 'pry'
+# require 'pry'
 require 'net/https'
 require 'mechanize'
 
@@ -17,7 +17,7 @@ def get(api)
   puts api
   user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
   h1 = open("https://www.whoscored.com/Statistics")
-  h2 = open(api, "Cookie" => h1.meta['set-cookie'].split('; ',2)[0],'User-Agent' => user_agent)
+  h2 = open(api, "Cookie" => h1.meta['set-cookie'].split('; ', 2)[0], 'User-Agent' => user_agent)
   # a = Mechanize.new { |agent|
   #   agent.user_agent_alias = 'Mac Safari'
   # }
@@ -34,10 +34,12 @@ end
 #     f.write(data.to_json)
 #   end
 # end
-keys  = ["goal","assistTotal","shotsPerGame","aerialWonPerGame","manOfTheMatch","passSuccess","all_rating","tacklePerGame","interceptionPerGame","foulsPerGame","offsideWonPerGame","clearancePerGame","wasDribbledPerGame","outfielderBlockPerGame","defensive_rating","keyPassPerGame","dribbleWonPerGame","foulGivenPerGame","offsideGivenPerGame","dispossessedPerGame","turnoverPerGame","offensive_rating","totalPassesPerGame","accurateCrossesPerGame","accurateLongPassPerGame","accurateThroughBallPerGame","passing_rating","shotSixYardBox","shotPenaltyArea","shotOboxTotal","shotsTotal","detailed_rating"]
+keys = ["goal", "assistTotal", "shotsPerGame", "aerialWonPerGame", "manOfTheMatch", "passSuccess", "all_rating", "tacklePerGame", "interceptionPerGame", "foulsPerGame", "offsideWonPerGame", "clearancePerGame", "wasDribbledPerGame", "outfielderBlockPerGame", "defensive_rating", "keyPassPerGame", "dribbleWonPerGame", "foulGivenPerGame", "offsideGivenPerGame", "dispossessedPerGame", "turnoverPerGame", "offensive_rating", "totalPassesPerGame", "accurateCrossesPerGame", "accurateLongPassPerGame", "accurateThroughBallPerGame", "passing_rating", "shotSixYardBox", "shotPenaltyArea", "shotOboxTotal", "shotsTotal", "detailed_rating"]
+keys = ["goal", "assistTotal", "passSuccess", "all_rating", "tacklePerGame", "interceptionPerGame", "defensive_rating", "keyPassPerGame", "dribbleWonPerGame", "offensive_rating", "passing_rating"]
+
 results = {}
 SUB_CATEGORIES.map do |sub_category|
-  data = JSON.parse(File.open("_data/#{sub_category}.json").read)
+  data = JSON.parse(File.open("data/#{sub_category}.json").read)
   players = data['playerTableStats']
   players.each do |player|
     player["#{sub_category}_rating"] = player['rating']
@@ -50,20 +52,19 @@ SUB_CATEGORIES.map do |sub_category|
 end
 ranges = {}
 keys.each do |key|
-  all = results.values.map {|v| v[key].to_f }
+  all = results.values.map { |v| v[key].to_f }
   ranges[key] = all.sort
 end
 
 
-CSV.open("_data/mu.csv", "wb") do |csv|
+CSV.open("data/mu.csv", "wb") do |csv|
   csv << ['type', 'name', 'value', 'actual_value']
   results.each do |name, result|
     result.each do |key, actual_value|
       actual_value = actual_value.to_f
       all = ranges[key]
-      value = (all.count {|v| v <= actual_value} / all.size.to_f).abs * 100
+      value = (all.count { |v| v <= actual_value } / all.size.to_f).abs * 100
       csv << [key, name, value.round(2), actual_value.round(2)]
     end
   end
 end
-binding.pry

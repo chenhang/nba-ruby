@@ -3,7 +3,8 @@ require 'csv'
 require 'open-uri'
 require 'active_support/all'
 require 'nokogiri'
-require 'pry-rails'
+require 'rb-readline'
+require 'pry'
 
 def to_valid_json!(str)
   (0..11).reverse_each { |i| str.gsub!("#{i}:", "'#{i}':") }
