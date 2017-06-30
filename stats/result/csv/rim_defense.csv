@@ -1,0 +1,377 @@
+PLAYER_NAME,STL,BLK,DREB,RIM_FGM,RIM_FGA,RIM_FG_PCT
+DeMarcus Cousins_202326_Sacramento Kings_1610612758,1.6,1.4,9.2,4.3,8.6,0.504
+Stephen Curry_201939_Golden State Warriors_1610612744,2.1,0.2,4.6,0.9,1.7,0.533
+James Harden_201935_Houston Rockets_1610612745,1.7,0.6,5.3,1.9,3.4,0.562
+Damian Lillard_203081_Portland Trail Blazers_1610612757,0.9,0.4,3.4,1.0,1.7,0.576
+Kevin Durant_201142_Oklahoma City Thunder_1610612760,1.0,1.2,7.6,1.5,3.0,0.507
+Anthony Davis_203076_New Orleans Pelicans_1610612740,1.3,2.0,8.1,2.9,6.1,0.477
+LeBron James_2544_Cleveland Cavaliers_1610612739,1.4,0.6,6.0,1.0,2.0,0.516
+Carmelo Anthony_2546_New York Knicks_1610612752,0.9,0.5,6.4,1.2,2.2,0.541
+Russell Westbrook_201566_Oklahoma City Thunder_1610612760,2.0,0.3,6.0,1.2,2.0,0.574
+Paul George_202331_Indiana Pacers_1610612754,1.9,0.4,6.0,1.6,2.9,0.54
+CJ McCollum_203468_Portland Trail Blazers_1610612757,1.2,0.3,2.7,1.1,2.0,0.551
+DeMar DeRozan_201942_Toronto Raptors_1610612761,1.0,0.3,3.6,1.1,1.7,0.633
+John Wall_202322_Washington Wizards_1610612764,1.9,0.8,4.4,1.2,1.9,0.608
+Klay Thompson_202691_Golden State Warriors_1610612744,0.8,0.6,3.4,1.5,2.8,0.536
+Blake Griffin_201933_Los Angeles Clippers_1610612746,0.8,0.5,6.9,2.5,4.4,0.569
+Brandon Knight_202688_Phoenix Suns_1610612756,1.2,0.4,3.2,0.9,1.4,0.616
+Isaiah Thomas_202738_Boston Celtics_1610612738,1.1,0.1,2.4,0.7,1.2,0.596
+Kobe Bryant_977_Los Angeles Lakers_1610612747,0.9,0.2,3.1,0.7,1.1,0.64
+Kyrie Irving_202681_Cleveland Cavaliers_1610612739,1.1,0.3,2.1,1.0,1.9,0.545
+Kemba Walker_202689_Charlotte Hornets_1610612766,1.6,0.5,3.7,1.4,2.5,0.573
+Dwyane Wade_2548_Miami Heat_1610612748,1.1,0.6,3.0,0.9,1.6,0.563
+Nikola Vucevic_202696_Orlando Magic_1610612753,0.8,1.0,6.1,4.4,8.2,0.54
+Andrew Wiggins_203952_Minnesota Timberwolves_1610612750,1.0,0.6,2.3,1.4,2.6,0.541
+Derrick Rose_201565_Chicago Bulls_1610612741,0.7,0.2,2.7,1.0,1.8,0.59
+Eric Bledsoe_202339_Phoenix Suns_1610612756,2.0,0.6,3.5,1.2,2.5,0.474
+Brook Lopez_201572_Brooklyn Nets_1610612751,0.8,1.7,5.1,4.6,9.7,0.47
+Reggie Jackson_202704_Detroit Pistons_1610612765,0.7,0.1,2.5,1.6,2.5,0.652
+Kyle Lowry_200768_Toronto Raptors_1610612761,2.1,0.4,4.0,1.5,2.3,0.657
+Jimmy Butler_202710_Chicago Bulls_1610612741,1.6,0.6,4.2,1.9,3.5,0.532
+Kawhi Leonard_202695_San Antonio Spurs_1610612759,1.8,1.0,5.5,1.1,2.4,0.449
+Chris Paul_101108__1610612746,2.1,0.2,3.7,1.0,1.8,0.55
+Gordon Hayward_202330_Utah Jazz_1610612762,1.2,0.3,4.2,0.9,1.5,0.562
+Dirk Nowitzki_1717_Dallas Mavericks_1610612742,0.7,0.7,5.8,3.4,6.6,0.52
+Jahlil Okafor_1626143_Philadelphia 76ers_1610612755,0.4,1.2,4.7,4.0,8.0,0.499
+Bradley Beal_203078_Washington Wizards_1610612764,1.0,0.2,2.7,1.1,1.8,0.6
+Khris Middleton_203114_Milwaukee Bucks_1610612749,1.7,0.2,3.3,1.2,2.0,0.59
+Chris Bosh_2547_Miami Heat_1610612748,0.7,0.6,6.5,2.6,5.2,0.513
+Rudy Gay_200752_Sacramento Kings_1610612758,1.4,0.7,5.0,2.0,3.5,0.553
+Jrue Holiday_201950_New Orleans Pelicans_1610612740,1.4,0.3,2.6,1.3,2.1,0.603
+LaMarcus Aldridge_200746_San Antonio Spurs_1610612759,0.5,1.1,6.2,2.9,5.9,0.484
+Karl-Anthony Towns_1626157_Minnesota Timberwolves_1610612750,0.7,1.7,7.7,4.4,8.9,0.496
+Ryan Anderson_201583_New Orleans Pelicans_1610612740,0.6,0.4,4.0,2.6,4.6,0.57
+Jordan Clarkson_203903_Los Angeles Lakers_1610612747,1.1,0.1,2.8,1.3,2.0,0.625
+Pau Gasol_2200_Chicago Bulls_1610612741,0.6,2.0,8.9,4.9,10.7,0.463
+Marc Gasol_201188_Memphis Grizzlies_1610612763,1.0,1.3,5.8,3.2,7.0,0.457
+Avery Bradley_202340_Boston Celtics_1610612738,1.5,0.3,2.3,0.8,1.5,0.522
+Victor Oladipo_203506_Orlando Magic_1610612753,1.6,0.8,4.1,1.5,2.8,0.531
+Zach Randolph_2216_Memphis Grizzlies_1610612763,0.6,0.2,5.1,3.3,5.6,0.58
+Emmanuel Mudiay_1626144_Denver Nuggets_1610612743,1.0,0.5,2.9,1.3,2.5,0.532
+Danilo Gallinari_201568_Denver Nuggets_1610612743,0.8,0.4,4.3,1.4,2.6,0.537
+Thaddeus Young_201152_Brooklyn Nets_1610612751,1.5,0.5,6.6,2.8,5.2,0.541
+Paul Millsap_200794_Atlanta Hawks_1610612737,1.8,1.7,6.6,4.0,8.1,0.492
+Derrick Favors_202324_Utah Jazz_1610612762,1.2,1.5,5.4,3.5,7.4,0.477
+Andre Drummond_203083_Detroit Pistons_1610612765,1.5,1.4,9.9,4.4,8.5,0.526
+Al Horford_201143__1610612737,0.8,1.5,5.5,4.1,8.3,0.494
+Kevin Love_201567_Cleveland Cavaliers_1610612739,0.8,0.5,8.0,3.5,6.5,0.541
+Giannis Antetokounmpo_203507_Milwaukee Bucks_1610612749,1.2,1.4,6.2,2.5,5.1,0.498
+Monta Ellis_101145_Indiana Pacers_1610612754,1.9,0.5,2.8,0.7,1.3,0.529
+Kentavious Caldwell-Pope_203484_Detroit Pistons_1610612765,1.4,0.2,2.8,0.9,1.6,0.61
+Tyreke Evans_201936__1610612740,1.3,0.3,4.4,1.1,2.0,0.529
+Ish Smith_202397__1610612740,1.1,0.3,3.4,1.6,2.6,0.608
+Nicolas Batum_201587_Charlotte Hornets_1610612766,0.9,0.6,5.3,1.6,2.8,0.566
+Mike Conley_201144_Memphis Grizzlies_1610612763,1.2,0.3,2.5,1.2,2.0,0.584
+Jeff Teague_201952_Atlanta Hawks_1610612737,1.2,0.3,2.3,0.7,1.1,0.627
+Rodney Hood_203918_Utah Jazz_1610612762,0.9,0.2,2.9,1.0,1.8,0.552
+Kristaps Porzingis_204001_New York Knicks_1610612752,0.7,1.9,5.5,3.3,7.0,0.477
+Goran Dragic_201609_Miami Heat_1610612748,1.0,0.2,3.1,0.9,1.8,0.511
+Eric Gordon_201569_New Orleans Pelicans_1610612740,1.0,0.3,2.0,0.8,1.4,0.578
+Will Barton_203115_Denver Nuggets_1610612743,0.9,0.5,5.1,1.6,3.0,0.549
+D'Angelo Russell_1626156_Los Angeles Lakers_1610612747,1.2,0.2,2.8,1.2,2.0,0.623
+Greg Monroe_202328_Milwaukee Bucks_1610612749,0.9,0.8,6.1,3.9,7.6,0.515
+Deron Williams_101114_Dallas Mavericks_1610612742,0.9,0.2,2.6,0.9,1.6,0.587
+Jamal Crawford_2037__1610612746,0.7,0.2,1.6,0.7,1.1,0.667
+Marcus Morris_202694_Detroit Pistons_1610612765,0.8,0.3,3.9,1.4,2.2,0.631
+Jabari Parker_203953_Milwaukee Bucks_1610612749,0.9,0.4,3.6,2.1,3.8,0.561
+Evan Fournier_203095_Orlando Magic_1610612753,1.2,0.0,2.4,1.3,2.1,0.596
+JJ Redick_200755_Los Angeles Clippers_1610612746,0.6,0.1,1.7,0.7,1.4,0.495
+Zach LaVine_203897_Minnesota Timberwolves_1610612750,0.8,0.2,2.5,0.7,1.3,0.587
+Tobias Harris_202699_Detroit Pistons_1610612765,0.9,0.5,5.4,1.8,3.5,0.523
+Devin Booker_1626164_Phoenix Suns_1610612756,0.6,0.3,2.1,1.0,1.7,0.568
+Arron Afflalo_201167_New York Knicks_1610612752,0.4,0.1,3.4,0.7,1.2,0.588
+Markieff Morris_202693_Washington Wizards_1610612764,0.9,0.5,4.4,1.6,3.0,0.539
+Jarrett Jack_101127__1610612751,1.1,0.2,4.0,0.8,1.3,0.605
+Serge Ibaka_201586_Oklahoma City Thunder_1610612760,0.5,1.9,5.0,3.3,7.6,0.436
+Jae Crowder_203109_Boston Celtics_1610612738,1.7,0.5,4.2,1.7,2.6,0.633
+J.R. Smith_2747_Cleveland Cavaliers_1610612739,1.1,0.3,2.3,0.6,1.2,0.494
+Wesley Matthews_202083_Dallas Mavericks_1610612742,1.0,0.2,2.7,0.9,1.6,0.603
+Rajon Rondo_200765_Sacramento Kings_1610612758,2.0,0.1,5.0,0.9,1.5,0.619
+Alec Burks_202692__1610612762,0.6,0.1,3.0,1.4,2.2,0.642
+Norris Cole_202708__1610612740,0.8,0.1,3.1,0.7,1.0,0.682
+Al Jefferson_2744__1610612766,0.6,0.9,5.2,3.0,5.4,0.551
+Chandler Parsons_202718_Dallas Mavericks_1610612742,0.8,0.3,4.2,0.8,1.6,0.5
+Robert Covington_203496_Philadelphia 76ers_1610612755,1.6,0.6,5.3,2.2,3.9,0.562
+Joe Johnson_2207__1610612748,0.8,0.0,3.0,0.8,1.6,0.531
+Trevor Ariza_2772_Houston Rockets_1610612745,2.0,0.3,3.7,1.1,2.1,0.533
+Darren Collison_201954_Sacramento Kings_1610612758,1.0,0.0,1.9,0.6,0.8,0.695
+DeMarre Carroll_201960_Toronto Raptors_1610612761,1.7,0.2,3.5,1.6,2.4,0.661
+Lou Williams_101150_Los Angeles Lakers_1610612747,0.9,0.3,2.1,0.8,1.4,0.589
+Julius Randle_203944_Los Angeles Lakers_1610612747,0.7,0.4,8.1,2.6,4.7,0.563
+Jeff Green_201145_Los Angeles Clippers_1610612763,0.7,0.5,3.2,1.7,3.2,0.528
+Michael Carter-Williams_203487_Milwaukee Bucks_1610612749,1.5,0.8,4.2,1.4,2.5,0.547
+Michael Beasley_201563_Houston Rockets_1610612745,0.6,0.5,3.5,1.8,3.5,0.507
+Marcin Gortat_101162_Washington Wizards_1610612764,0.6,1.3,6.9,4.0,7.9,0.508
+Luol Deng_2736_Miami Heat_1610612748,1.0,0.4,4.5,2.2,4.0,0.565
+Gary Harris_203914_Denver Nuggets_1610612743,1.3,0.2,2.2,1.0,1.8,0.578
+Draymond Green_203110_Golden State Warriors_1610612744,1.5,1.4,7.8,3.0,6.4,0.466
+Elfrid Payton_203901_Orlando Magic_1610612753,1.2,0.3,2.5,1.3,2.1,0.644
+Jared Sullinger_203096_Boston Celtics_1610612738,0.9,0.6,6.0,3.1,5.7,0.543
+George Hill_201588_Indiana Pacers_1610612754,1.1,0.2,3.2,0.9,1.6,0.547
+Trey Burke_203504__1610612762,0.5,0.1,1.5,0.7,1.1,0.632
+CJ Miles_101139__1610612754,0.8,0.5,2.3,1.1,2.3,0.486
+Tony Parker_2225_San Antonio Spurs_1610612759,0.8,0.2,2.2,0.8,1.2,0.652
+Mirza Teletovic_203141_Phoenix Suns_1610612756,0.4,0.3,3.1,2.2,3.9,0.553
+Dennis Schroder_203471_Atlanta Hawks_1610612737,0.9,0.1,2.2,0.5,1.2,0.448
+Kent Bazemore_203145_Atlanta Hawks_1610612737,1.3,0.5,4.7,1.1,2.0,0.55
+Otto Porter_203490_Washington Wizards_1610612764,1.4,0.4,3.9,1.3,2.3,0.555
+Jose Juan Barea_200826_Dallas Mavericks_1610612742,0.4,0.0,1.7,0.4,0.7,0.569
+Harrison Barnes_203084_Golden State Warriors_1610612744,0.6,0.2,3.8,2.0,3.3,0.593
+Bojan Bogdanovic_202711_Brooklyn Nets_1610612751,0.4,0.1,2.8,1.4,2.1,0.652
+Isaiah Canaan_203477_Philadelphia 76ers_1610612755,0.7,0.2,2.0,0.7,1.3,0.582
+TJ Warren_203933_Phoenix Suns_1610612756,0.8,0.3,1.9,0.9,1.7,0.532
+Marco Belinelli_201158_Sacramento Kings_1610612758,0.6,0.0,1.6,0.8,1.2,0.63
+Kenneth Faried_202702_Denver Nuggets_1610612743,0.5,0.9,5.2,3.0,5.3,0.57
+Evan Turner_202323_Boston Celtics_1610612738,1.0,0.4,4.3,1.6,3.1,0.531
+Jeremy Lin_202391_Charlotte Hornets_1610612766,0.7,0.5,2.7,1.1,2.0,0.558
+Hassan Whiteside_202355_Miami Heat_1610612748,0.6,3.7,8.6,4.9,10.5,0.469
+Nikola Mirotic_202703_Chicago Bulls_1610612741,0.9,0.7,4.6,2.1,4.2,0.509
+Marvin Williams_101107_Charlotte Hornets_1610612766,0.7,1.0,4.9,2.1,4.8,0.452
+Matt Barnes_2440_Memphis Grizzlies_1610612763,1.0,0.8,4.4,1.4,2.4,0.573
+Dion Waiters_203079__1610612760,1.0,0.2,2.1,0.9,1.7,0.522
+Omri Casspi_201956_Sacramento Kings_1610612758,0.8,0.2,5.1,1.9,3.0,0.635
+Ersan Ilyasova_101141_Orlando Magic_1610612753,0.7,0.4,3.5,2.6,4.4,0.602
+Jonas Valanciunas_202685_Toronto Raptors_1610612761,0.4,1.3,6.1,4.0,7.7,0.522
+Marcus Thornton_201977_Houston Rockets_1610612745,0.8,0.1,1.8,0.5,0.8,0.66
+Myles Turner_1626167_Indiana Pacers_1610612754,0.4,1.4,4.4,3.6,7.1,0.507
+Hollis Thompson_203138_Philadelphia 76ers_1610612755,0.5,0.3,2.8,1.2,2.3,0.517
+Al-Farouq Aminu_202329__1610612757,0.9,0.6,4.9,1.7,3.3,0.506
+Nerlens Noel_203457_Philadelphia 76ers_1610612755,1.8,1.5,5.8,4.0,8.3,0.486
+Sean Kilpatrick_203930_Brooklyn Nets_1610612751,0.4,0.1,1.4,0.6,0.9,0.704
+Enes Kanter_202683_Oklahoma City Thunder_1610612760,0.3,0.4,5.1,2.9,5.5,0.532
+Marcus Smart_203935_Boston Celtics_1610612738,1.5,0.3,2.9,1.0,1.7,0.569
+Terrence Ross_203082__1610612761,0.8,0.3,2.3,0.6,1.3,0.469
+Raymond Felton_101109_Dallas Mavericks_1610612742,0.9,0.2,2.8,0.8,1.5,0.558
+Gerald Green_101123_Miami Heat_1610612748,0.6,0.3,2.0,0.8,1.5,0.552
+Dwight Howard_2730_Houston Rockets_1610612745,1.0,1.6,8.4,3.6,7.2,0.497
+Jerryd Bayless_201573_Milwaukee Bucks_1610612749,0.9,0.2,2.3,0.8,1.5,0.538
+Patrick Beverley_201976__1610612745,1.3,0.4,2.5,0.9,1.6,0.58
+Allen Crabbe_203459_Portland Trail Blazers_1610612757,0.8,0.2,2.3,0.6,1.3,0.476
+Shabazz Muhammad_203498_Minnesota Timberwolves_1610612750,0.3,0.1,2.0,0.8,1.4,0.568
+Stanley Johnson_1626169_Detroit Pistons_1610612765,0.8,0.2,3.4,0.8,1.3,0.577
+Gary Neal_202390__1610612764,0.5,0.0,1.8,0.8,1.2,0.66
+Courtney Lee_201584_Charlotte Hornets_1610612763,1.1,0.4,2.2,0.7,1.2,0.596
+Robin Lopez_201577_New York Knicks_1610612752,0.2,1.6,4.1,3.6,7.9,0.458
+Kelly Olynyk_203482_Boston Celtics_1610612738,0.8,0.5,3.0,2.2,4.1,0.547
+Alex Len_203458_Phoenix Suns_1610612756,0.5,0.8,5.3,2.9,5.7,0.506
+Shelvin Mack_202714__1610612762,0.7,0.1,2.2,0.6,0.9,0.592
+Doug McDermott_203926_Chicago Bulls_1610612741,0.2,0.1,2.0,1.1,1.8,0.596
+Luis Scola_2449_Toronto Raptors_1610612761,0.6,0.3,3.7,1.8,3.1,0.569
+Jameer Nelson_2749__1610612743,0.6,0.1,2.5,0.7,1.5,0.5
+O.J. Mayo_201564_Milwaukee Bucks_1610612749,1.2,0.2,2.2,1.0,1.7,0.603
+Jerami Grant_203924_Philadelphia 76ers_1610612755,0.7,1.6,3.4,2.3,4.9,0.461
+Jeremy Lamb_203087_Charlotte Hornets_1610612766,0.6,0.5,3.2,0.8,1.4,0.574
+Ricky Rubio_201937_Minnesota Timberwolves_1610612750,2.1,0.1,3.8,1.2,1.9,0.601
+Austin Rivers_203085_Los Angeles Clippers_1610612746,0.7,0.1,1.6,0.5,1.3,0.414
+Kyle Korver_2594_Atlanta Hawks_1610612737,0.8,0.4,3.1,1.8,3.2,0.565
+Rodney Stuckey_201155_Indiana Pacers_1610612754,0.7,0.1,2.4,0.7,1.1,0.576
+Patty Mills_201988_San Antonio Spurs_1610612759,0.7,0.1,1.6,0.5,0.8,0.677
+Jusuf Nurkic_203994_Denver Nuggets_1610612743,0.8,1.4,3.4,2.8,4.8,0.586
+Kevin Martin_2755_San Antonio Spurs_1610612750,0.5,0.1,1.7,0.6,0.8,0.773
+Jordan Hill_201941_Indiana Pacers_1610612754,0.5,0.5,4.0,2.9,5.5,0.53
+Nikola Jokic_203999_Denver Nuggets_1610612743,1.0,0.6,4.7,2.7,5.6,0.493
+Aaron Gordon_203932__1610612753,0.8,0.7,4.6,1.9,3.6,0.527
+Manu Ginobili_1938_San Antonio Spurs_1610612759,1.1,0.2,2.1,0.6,1.0,0.576
+Nik Stauskas_203917_Philadelphia 76ers_1610612755,0.6,0.3,2.2,1.0,1.9,0.511
+Wayne Ellington_201961_Brooklyn Nets_1610612751,0.6,0.1,2.0,0.8,1.2,0.681
+Gerald Henderson_201945_Portland Trail Blazers_1610612757,0.5,0.3,2.5,0.5,1.2,0.44
+Mo Williams_2590__1610612739,0.3,0.1,1.6,0.4,0.7,0.567
+Archie Goodwin_203462_Phoenix Suns_1610612756,0.5,0.2,2.0,0.7,1.2,0.557
+Tony Allen_2754_Memphis Grizzlies_1610612763,1.7,0.3,3.0,0.8,1.5,0.557
+Terrence Jones_203093_Houston Rockets_1610612745,0.5,0.8,3.0,2.3,4.4,0.516
+Mario Chalmers_201596_Memphis Grizzlies_1610612763,1.4,0.2,2.2,0.6,1.0,0.629
+Cory Joseph_202709__1610612761,0.8,0.3,2.1,0.9,2.0,0.458
+Tim Duncan_1495_San Antonio Spurs_1610612759,0.8,1.3,5.4,3.3,7.0,0.47
+Toney Douglas_201962_New Orleans Pelicans_1610612740,1.1,0.1,1.9,0.5,0.9,0.615
+Ramon Sessions_201196_Washington Wizards_1610612764,0.6,0.1,2.2,0.5,1.0,0.57
+Meyers Leonard_203086_Portland Trail Blazers_1610612757,0.1,0.3,4.3,2.0,3.9,0.525
+Langston Galloway_204038_New York Knicks_1610612752,0.9,0.3,3.0,0.7,1.5,0.492
+PJ Tucker_200782_Phoenix Suns_1610612756,1.3,0.2,4.2,1.1,2.2,0.497
+Danny Green_201980_San Antonio Spurs_1610612759,1.0,0.8,3.2,1.2,2.4,0.492
+Gorgui Dieng_203476_Minnesota Timberwolves_1610612750,1.1,1.2,5.2,3.7,7.1,0.526
+Derrick Williams_202682_New York Knicks_1610612752,0.4,0.1,3.1,0.5,1.1,0.483
+Bobby Portis_1626171_Chicago Bulls_1610612741,0.4,0.4,3.5,2.0,3.7,0.552
+Darrell Arthur_201589_Denver Nuggets_1610612743,0.8,0.7,3.0,2.0,4.1,0.486
+Jon Leuer_202720_Phoenix Suns_1610612756,0.6,0.4,4.4,2.2,4.3,0.507
+Carl Landry_201171_Philadelphia 76ers_1610612755,0.3,0.3,2.7,2.0,3.3,0.602
+Nick Young_201156__1610612747,0.4,0.1,1.5,0.9,1.4,0.59
+Lance Stephenson_202362_Memphis Grizzlies_1610612763,0.6,0.1,2.7,0.6,1.0,0.576
+Taj Gibson_201959_Chicago Bulls_1610612741,0.6,1.1,4.1,2.5,5.2,0.48
+Aaron Brooks_201166__1610612741,0.4,0.1,1.2,0.5,0.9,0.576
+Nene_2403_Washington Wizards_1610612764,0.9,0.5,3.6,2.2,4.4,0.504
+Tyler Johnson_204020_Miami Heat_1610612748,0.7,0.4,2.3,0.9,2.0,0.431
+Matthew Dellavedova_203521_Cleveland Cavaliers_1610612739,0.6,0.1,1.7,0.8,1.5,0.5
+Corey Brewer_201147_Houston Rockets_1610612745,1.0,0.2,1.9,1.0,1.7,0.604
+Ben McLemore_203463_Sacramento Kings_1610612758,0.8,0.1,1.7,0.9,1.6,0.581
+E'Twaun Moore_202734_Chicago Bulls_1610612741,0.6,0.3,1.9,0.8,1.7,0.485
+DeAndre Jordan_201599_Los Angeles Clippers_1610612746,0.7,2.3,10.3,3.7,8.0,0.464
+Jason Smith_201160_Orlando Magic_1610612753,0.4,0.9,2.2,2.2,4.2,0.524
+Frank Kaminsky_1626163_Charlotte Hornets_1610612766,0.5,0.5,3.3,2.3,4.2,0.545
+Lance Thomas_202498_New York Knicks_1610612752,0.4,0.1,1.6,0.6,1.3,0.459
+Wesley Johnson_202325_Los Angeles Clippers_1610612746,1.1,0.7,2.6,1.4,2.6,0.522
+Joffrey Lauvergne_203530_Denver Nuggets_1610612743,0.2,0.3,3.6,1.9,3.6,0.526
+Shane Larkin_203499_Brooklyn Nets_1610612751,1.2,0.2,1.9,0.9,1.6,0.553
+Josh Smith_2746_Houston Rockets_1610612745,0.6,0.9,2.6,1.7,3.8,0.447
+Marreese Speights_201578_Golden State Warriors_1610612744,0.3,0.5,2.3,1.6,3.2,0.489
+JaMychal Green_203210_Memphis Grizzlies_1610612763,0.6,0.4,3.0,1.2,2.5,0.474
+Garrett Temple_202066_Washington Wizards_1610612764,0.9,0.2,2.2,0.9,1.8,0.503
+Brandon Jennings_201943__1610612765,0.6,0.1,1.7,0.5,0.8,0.667
+Ian Mahinmi_101133_Indiana Pacers_1610612754,0.9,1.1,5.2,3.3,6.6,0.497
+Mason Plumlee_203486_Portland Trail Blazers_1610612757,0.8,1.0,5.2,4.2,7.9,0.525
+Jose Calderon_101181_New York Knicks_1610612752,0.9,0.1,2.9,0.8,1.5,0.57
+Patrick Patterson_202335_Toronto Raptors_1610612761,0.7,0.4,3.3,1.7,3.4,0.49
+Zaza Pachulia_2585_Dallas Mavericks_1610612742,0.8,0.3,6.2,3.8,7.3,0.522
+PJ Hairston_203798__1610612766,0.5,0.2,2.3,0.7,1.5,0.469
+David Lee_101135_Boston Celtics_1610612742,0.4,0.5,3.7,2.1,3.8,0.544
+Luke Babbitt_202337__1610612740,0.2,0.1,2.6,1.4,2.4,0.598
+Mike Dunleavy_2399_Chicago Bulls_1610612741,0.5,0.3,2.4,1.2,2.0,0.613
+Andrea Bargnani_200745_Brooklyn Nets_1610612751,0.1,0.2,1.5,1.3,2.0,0.656
+Jared Dudley_201162_Washington Wizards_1610612764,0.9,0.2,2.9,2.4,4.4,0.535
+Greivis Vasquez_202349__1610612749,0.4,0.0,1.8,0.5,1.0,0.522
+Cody Zeller_203469_Charlotte Hornets_1610612766,0.8,0.9,4.3,2.8,5.9,0.481
+Justise Winslow_1626159_Miami Heat_1610612748,0.9,0.3,4.1,1.7,3.2,0.547
+Randy Foye_200751__1610612743,0.5,0.4,1.6,0.6,1.2,0.515
+Paul Pierce_1718__1610612746,0.5,0.3,2.6,1.2,2.4,0.488
+Devin Harris_2734_Dallas Mavericks_1610612742,0.9,0.2,1.9,0.8,1.2,0.688
+Rudy Gobert_203497_Utah Jazz_1610612762,0.7,2.2,7.5,3.4,8.2,0.41
+David West_2561_San Antonio Spurs_1610612759,0.6,0.7,3.0,1.8,3.8,0.48
+TJ McConnell_204456_Philadelphia 76ers_1610612755,1.2,0.1,2.6,0.6,1.2,0.52
+Donald Sloan_202388_Brooklyn Nets_1610612751,0.5,0.1,2.6,0.8,1.3,0.59
+Vince Carter_1713_Memphis Grizzlies_1610612763,0.6,0.3,1.9,0.8,1.4,0.583
+Kosta Koufos_201585_Sacramento Kings_1610612758,0.5,0.9,3.2,2.5,5.2,0.488
+D.J. Augustin_201571__1610612760,0.6,0.1,1.4,0.5,0.7,0.739
+Andre Iguodala_2738_Golden State Warriors_1610612744,1.1,0.3,3.2,1.1,1.8,0.592
+Iman Shumpert_202697__1610612739,1.0,0.4,3.2,0.5,1.1,0.452
+Andrew Nicholson_203094_Orlando Magic_1610612753,0.2,0.4,3.0,1.6,2.9,0.553
+Kris Humphries_2743_Washington Wizards_1610612764,0.3,0.4,3.0,2.0,3.7,0.541
+Donatas Motiejunas_202700_Houston Rockets_1610612745,0.5,0.1,1.9,1.1,2.3,0.471
+Leandro Barbosa_2571_Golden State Warriors_1610612744,0.6,0.1,1.3,0.3,0.6,0.564
+Trey Lyles_1626168_Utah Jazz_1610612762,0.3,0.2,3.0,1.7,3.0,0.55
+Amir Johnson_101161_Boston Celtics_1610612738,0.7,1.0,4.1,2.8,5.9,0.474
+Alexis Ajinca_201582_New Orleans Pelicans_1610612740,0.3,0.6,3.3,1.6,3.2,0.489
+Spencer Hawes_201150_Charlotte Hornets_1610612766,0.4,0.5,3.4,2.2,4.3,0.51
+Ty Lawson_201951__1610612745,0.8,0.1,1.4,0.7,1.0,0.672
+Mario Hezonja_1626209_Orlando Magic_1610612753,0.5,0.2,1.9,1.0,1.5,0.661
+Tony Snell_203503_Chicago Bulls_1610612741,0.3,0.3,2.8,1.0,1.9,0.541
+Charlie Villanueva_101111_Dallas Mavericks_1610612742,0.3,0.2,2.1,0.8,1.5,0.554
+Steven Adams_203500_Oklahoma City Thunder_1610612760,0.5,1.1,3.9,3.1,6.3,0.488
+Maurice Harkless_203090_Portland Trail Blazers_1610612757,0.6,0.4,2.3,1.0,2.2,0.473
+Josh Richardson_1626196_Miami Heat_1610612748,0.7,0.5,1.7,0.9,1.9,0.474
+Willie Cauley-Stein_1626161_Sacramento Kings_1610612758,0.7,1.0,3.3,1.8,3.7,0.479
+Dante Cunningham_201967_New Orleans Pelicans_1610612740,0.5,0.4,2.2,1.3,2.2,0.598
+Tim Hardaway Jr._203501__1610612737,0.4,0.1,1.5,0.4,0.8,0.5
+Jason Terry_1891__1610612745,0.7,0.1,0.9,0.4,0.8,0.582
+Markel Brown_203900_Brooklyn Nets_1610612751,0.6,0.2,1.6,0.8,1.3,0.585
+Raul Neto_203526_Utah Jazz_1610612762,0.8,0.0,1.3,0.6,1.2,0.51
+Clint Capela_203991_Houston Rockets_1610612745,0.8,1.2,3.9,3.0,6.1,0.493
+Jerian Grant_1626170_New York Knicks_1610612752,0.7,0.1,1.6,0.7,1.3,0.525
+Seth Curry_203552__1610612758,0.5,0.1,1.1,0.4,0.9,0.462
+John Henson_203089_Milwaukee Bucks_1610612749,0.3,1.9,2.4,2.3,5.4,0.423
+Tristan Thompson_202684_Cleveland Cavaliers_1610612739,0.5,0.6,5.7,3.3,6.3,0.528
+Mike Scott_203118_Atlanta Hawks_1610612737,0.3,0.2,2.0,0.8,1.7,0.476
+Metta World Peace_1897__1610612747,0.6,0.3,2.0,0.7,1.5,0.49
+Boris Diaw_2564_San Antonio Spurs_1610612759,0.3,0.3,2.3,1.5,2.9,0.518
+Roy Hibbert_201579_Los Angeles Lakers_1610612747,0.4,1.4,3.3,3.2,6.3,0.506
+Channing Frye_101112_Orlando Magic_1610612753,0.4,0.3,2.8,1.5,2.9,0.515
+Thabo Sefolosha_200757_Atlanta Hawks_1610612737,1.1,0.5,3.8,1.1,1.9,0.564
+Festus Ezeli_203105_Golden State Warriors_1610612744,0.4,1.1,3.6,2.8,6.3,0.436
+Trevor Booker_202344_Utah Jazz_1610612762,0.7,0.5,3.6,1.3,2.4,0.552
+Anthony Morrow_201627_Oklahoma City Thunder_1610612760,0.3,0.1,0.8,0.5,0.9,0.586
+Tyler Zeller_203092_Boston Celtics_1610612738,0.2,0.4,1.9,1.9,3.7,0.532
+Shaun Livingston_2733_Golden State Warriors_1610612744,0.7,0.3,1.6,1.0,1.5,0.633
+Cameron Payne_1626166__1610612760,0.6,0.1,1.3,0.5,0.9,0.592
+Ronnie Price_101179__1610612756,1.2,0.2,1.2,0.2,0.5,0.467
+Brandon Bass_101138_Los Angeles Lakers_1610612747,0.5,0.8,2.7,2.0,3.7,0.549
+Norman Powell_1626181_Toronto Raptors_1610612761,0.6,0.2,2.0,0.6,1.0,0.54
+Larry Nance Jr._1626204_Los Angeles Lakers_1610612747,0.9,0.4,3.3,1.5,2.6,0.574
+Rondae Hollis-Jefferson_1626178_Brooklyn Nets_1610612751,1.3,0.6,4.0,1.8,3.3,0.542
+Tyson Chandler_2199_Phoenix Suns_1610612756,0.5,0.7,6.1,2.9,5.5,0.536
+Timofey Mozgov_202389_Cleveland Cavaliers_1610612739,0.3,0.8,3.0,2.4,5.0,0.485
+Aron Baynes_203382_Detroit Pistons_1610612765,0.3,0.6,3.0,2.6,5.0,0.517
+Lavoy Allen_202730_Indiana Pacers_1610612754,0.3,0.5,3.3,1.7,3.5,0.498
+Anthony Tolliver_201229_Detroit Pistons_1610612765,0.4,0.2,2.6,1.2,2.3,0.518
+Tim Frazier_204025__1610612740,0.6,0.0,1.6,0.5,0.8,0.6
+Joakim Noah_201149_Chicago Bulls_1610612741,0.6,1.0,5.8,2.3,4.3,0.524
+Chris McCullough_1626191_Brooklyn Nets_1610612751,1.2,0.5,1.8,1.6,2.8,0.591
+Sasha Vujacic_2756__1610612752,0.6,0.1,2.0,0.7,1.2,0.583
+Beno Udrih_2757__1610612748,0.3,0.0,1.5,0.5,1.0,0.571
+JJ Hickson_201581_Washington Wizards_1610612743,0.4,0.4,2.7,1.6,3.2,0.495
+Jonathon Simmons_203613_San Antonio Spurs_1610612759,0.4,0.1,1.5,0.6,0.8,0.721
+Richaun Holmes_1626158_Philadelphia 76ers_1610612755,0.4,0.8,1.4,1.6,3.5,0.475
+Troy Daniels_203584__1610612766,0.3,0.1,1.2,0.4,0.8,0.543
+JaKarr Sampson_203960_Denver Nuggets_1610612755,0.3,0.5,2.0,1.0,2.1,0.48
+Marcelo Huertas_1626273_Los Angeles Lakers_1610612747,0.5,0.1,1.4,0.5,0.8,0.558
+Justin Holiday_203200__1610612741,0.6,0.4,1.5,0.8,1.7,0.472
+Tyus Jones_1626145__1610612750,0.8,0.1,1.1,0.5,0.8,0.586
+Anthony Brown_1626148__1610612747,0.5,0.2,2.1,1.0,1.5,0.659
+Jarell Martin_1626185_Memphis Grizzlies_1610612763,0.3,0.3,1.7,0.9,2.1,0.439
+Tiago Splitter_201168_Atlanta Hawks_1610612737,0.6,0.3,2.1,2.0,4.3,0.474
+Dwight Powell_203939_Dallas Mavericks_1610612742,0.5,0.3,2.7,1.5,3.1,0.493
+Amar'e Stoudemire_2405_Miami Heat_1610612748,0.3,0.8,3.0,2.0,4.0,0.505
+Kevin Seraphin_202338_New York Knicks_1610612752,0.2,0.8,2.0,1.3,3.0,0.421
+James Johnson_201949_Toronto Raptors_1610612761,0.5,0.6,1.8,0.7,1.4,0.468
+Richard Jefferson_2210_Cleveland Cavaliers_1610612739,0.4,0.2,1.5,0.7,1.1,0.588
+Kyle O'Quinn_203124_New York Knicks_1610612752,0.3,0.8,2.7,1.8,3.8,0.472
+CJ Watson_201228__1610612753,0.6,0.2,1.7,0.8,1.2,0.684
+Steve Blake_2581__1610612765,0.4,0.1,1.4,0.6,1.1,0.607
+Ryan Kelly_203527_Los Angeles Lakers_1610612747,0.4,0.3,2.8,1.0,1.8,0.563
+Thomas Robinson_203080_Brooklyn Nets_1610612751,0.5,0.5,3.1,1.8,3.6,0.504
+Ed Davis_202334_Portland Trail Blazers_1610612757,0.7,0.9,4.6,2.5,5.5,0.458
+Tyler Ennis_203898__1610612749,0.5,0.0,1.3,0.6,0.9,0.683
+Andrew Bogut_101106_Golden State Warriors_1610612744,0.5,1.6,5.3,2.9,6.4,0.452
+JaVale McGee_201580_Dallas Mavericks_1610612742,0.1,0.8,2.4,1.7,2.9,0.576
+Andre Roberson_203460_Oklahoma City Thunder_1610612760,0.8,0.6,2.5,1.0,1.9,0.523
+Nemanja Bjelica_202357_Minnesota Timberwolves_1610612750,0.4,0.4,2.7,2.2,3.7,0.589
+Kendall Marshall_203088__1610612755,0.5,0.1,0.9,0.4,0.6,0.632
+Miles Plumlee_203101_Milwaukee Bucks_1610612749,0.3,0.8,2.3,2.3,4.5,0.518
+Kyle Anderson_203937_San Antonio Spurs_1610612759,0.8,0.4,2.8,0.5,1.1,0.482
+Rashad Vaughn_1626173__1610612749,0.4,0.2,1.1,0.5,0.9,0.574
+Cole Aldrich_202332_Los Angeles Clippers_1610612746,0.8,1.1,3.4,2.3,4.7,0.491
+John Jenkins_203098__1610612756,0.2,0.0,1.1,0.4,0.6,0.63
+Jonas Jerebko_201973_Boston Celtics_1610612738,0.3,0.3,2.7,1.0,2.0,0.51
+Shabazz Napier_203894__1610612753,0.4,0.0,0.8,0.3,0.5,0.654
+Quincy Acy_203112_Sacramento Kings_1610612758,0.5,0.4,2.1,1.4,2.8,0.519
+Chase Budinger_201978_Indiana Pacers_1610612756,0.5,0.2,1.6,0.6,1.1,0.543
+Brandon Rush_201575_Golden State Warriors_1610612744,0.3,0.3,2.2,0.8,1.5,0.495
+Joe Ingles_204060__1610612762,0.7,0.0,1.6,0.4,0.7,0.533
+Noah Vonleh_203943_Portland Trail Blazers_1610612757,0.3,0.3,2.7,1.2,2.4,0.481
+Ray McCallum_203492_San Antonio Spurs_1610612763,0.3,0.2,1.0,0.4,0.7,0.621
+Josh McRoberts_201177_Miami Heat_1610612748,0.4,0.2,2.0,1.1,2.4,0.465
+Solomon Hill_203524_Indiana Pacers_1610612754,0.6,0.2,2.2,0.7,1.4,0.524
+James Anderson_202341__1610612758,0.4,0.3,1.4,0.5,1.1,0.463
+Bismack Biyombo_202687_Toronto Raptors_1610612761,0.2,1.6,5.8,3.1,6.8,0.452
+Alonzo Gee_202087_New Orleans Pelicans_1610612740,0.9,0.2,2.5,1.1,1.9,0.571
+Darrun Hilliard_1626199_Detroit Pistons_1610612765,0.2,0.0,1.1,0.2,0.3,0.583
+Drew Gooden_2400__1610612764,0.3,0.4,1.9,1.0,2.0,0.525
+Willie Reed_203186_Brooklyn Nets_1610612751,0.2,0.8,1.9,1.5,3.2,0.46
+Glenn Robinson_203922_Indiana Pacers_1610612754,0.4,0.2,1.2,0.4,0.9,0.488
+Kelly Oubre_1626162_Washington Wizards_1610612764,0.3,0.1,1.7,0.6,1.0,0.623
+Phil Pressey_203515__1610612755,0.8,0.2,1.2,0.6,0.8,0.778
+Axel Toupane_1626253_Denver Nuggets_1610612743,0.3,0.3,1.1,0.5,0.8,0.588
+Kyle Singler_202713_Oklahoma City Thunder_1610612760,0.4,0.1,1.3,1.0,1.7,0.583
+Jeff Withey_203481_Utah Jazz_1610612762,0.4,1.0,2.3,1.8,4.1,0.431
+Johnny O'Bryant_203948_Milwaukee Bucks_1610612749,0.3,0.1,1.7,1.0,2.0,0.527
+Justin Anderson_1626147_Dallas Mavericks_1610612742,0.3,0.5,2.1,0.5,0.9,0.563
+Kevin Garnett_708_Minnesota Timberwolves_1610612750,0.7,0.3,3.6,1.5,2.9,0.509
+Dewayne Dedmon_203473_Orlando Magic_1610612753,0.4,0.8,2.8,1.8,3.9,0.46
+Robert Sacre_203135_Los Angeles Lakers_1610612747,0.2,0.4,1.6,1.7,3.0,0.573
+Tayshaun Prince_2419_Minnesota Timberwolves_1610612750,0.5,0.2,1.5,0.9,1.6,0.548
+Omer Asik_201600_New Orleans Pelicans_1610612740,0.3,0.3,4.3,2.4,4.5,0.528
+Kirk Hinrich_2550__1610612741,0.3,0.0,1.3,0.5,1.0,0.489
+Luc Mbah a Moute_201601_Los Angeles Clippers_1610612746,0.6,0.3,1.5,0.9,1.6,0.525
+Chris Johnson_203187_Utah Jazz_1610612762,0.5,0.3,1.5,0.5,1.0,0.486
+Tarik Black_204028_Los Angeles Lakers_1610612747,0.4,0.5,2.9,1.5,3.2,0.484
+Chris Andersen_2365_Memphis Grizzlies_1610612763,0.6,0.5,2.3,2.3,3.9,0.594
+Reggie Bullock_203493__1610612765,0.3,0.1,1.5,0.6,0.9,0.6
+Andre Miller_1889_Minnesota Timberwolves_1610612750,0.4,0.0,1.0,0.3,0.5,0.65
+Kostas Papanikolaou_203123__1610612743,0.5,0.2,1.2,0.5,1.2,0.419
+Sonny Weems_201603_Phoenix Suns_1610612756,0.2,0.0,1.1,0.3,0.4,0.706
+Pablo Prigioni_203143__1610612746,0.9,0.0,1.3,0.6,0.9,0.685
+Cristiano Felicio_1626245_Chicago Bulls_1610612741,0.2,0.4,2.3,1.1,2.6,0.425
+Salah Mejri_1626257_Dallas Mavericks_1610612742,0.2,1.1,2.4,1.5,3.9,0.389
+Jason Thompson_201574_Toronto Raptors_1610612761,0.3,0.4,2.2,1.2,2.2,0.533
+Lamar Patterson_203934_Atlanta Hawks_1610612737,0.3,0.1,1.3,0.6,1.1,0.541
+Ryan Hollins_200797_Memphis Grizzlies_1610612763,0.2,0.6,1.4,1.5,3.2,0.475
+Kendrick Perkins_2570_New Orleans Pelicans_1610612740,0.3,0.3,2.8,1.8,3.4,0.548
+Nick Collison_2555_Oklahoma City Thunder_1610612760,0.3,0.3,1.7,1.0,2.2,0.465
+Sergey Karasev_203508_Brooklyn Nets_1610612751,0.2,0.1,1.3,0.6,1.1,0.533

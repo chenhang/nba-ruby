@@ -116,13 +116,17 @@ def to_headers(keys, category)
 end
 
 def to_csv(input_file_name)
-  json_data = JSON.parse(File.read("../result/#{input_file_name}.json"))
+  json_data = JSON.parse(File.read("../result_backup/#{input_file_name}.json"))
   json_data = json_data.select { |_, stats| valid_player?(stats) }
   CATEORIES.each do |category|
     keys = selected_keys(json_data, category)
     headers = to_headers(keys, category)
     output_file_name = "#{category}"
-    csv_data = json_data.values.map { |stats| keys.map {|key| stats[key] } }
+    csv_data = json_data.values.map do |stats|
+      d = keys.map { |key| stats[key] }
+      d[0] = [d[0], stats['PLAYER_ID'], stats['PlayTypesTotals/Cut/TEAM_NAME'], stats['TEAM_ID']].join('_')
+      d
+    end
     CSV.open("../result/csv/#{output_file_name}.csv", "wb") do |csv|
       csv << headers
       csv_data.each do |values|
