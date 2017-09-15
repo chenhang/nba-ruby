@@ -5,7 +5,7 @@ TEAMS = {:MIL => "1610612749", :GSW => "1610612744", :MIN => "1610612750", :MIA 
 
 
 def detail_shot_api(team_id, opp_team_id, player_id)
-  "http://stats.nba.com/stats/shotchartdetail?CFID=&CFPARAMS=&ContextFilter=&ContextMeasure=FGA&DateFrom=&DateTo=&EndPeriod=10&EndRange=28800&GameID=&GameSegment=&LastNGames=0&LeagueID=00&Location=&Month=0&OpponentTeamID=#{opp_team_id}&Outcome=&Period=0&PlayerID=#{player_id}&Position=&RangeType=2&RookieYear=&Season=2015-16&SeasonSegment=&SeasonType=Regular+Season&StartPeriod=1&StartRange=0&TeamID=#{team_id}&VsConference=&VsDivision=&mtitle=&mtype="
+  "http://stats.nba.com/stats/shotchartdetail?CFID=&CFPARAMS=&ContextFilter=&ContextMeasure=FGA&DateFrom=&DateTo=&EndPeriod=10&EndRange=28800&GameID=&GameSegment=&LastNGames=0&LeagueID=00&Location=&Month=0&OpponentTeamID=#{opp_team_id}&Outcome=&Period=0&PlayerID=#{player_id}&Position=&RangeType=2&RookieYear=&Season=2015-16&SeasonSegment=&SeasonType=Regular+Season&StartPeriod=1&StartRange=0&TeamID=#{team_id}&VsConference=&VsDivision=&mtitle=&mtype=&PlayerPosition"
 end
 
 def get(api)
@@ -65,8 +65,8 @@ def parse_league()
       f.write(vs_shots.to_json)
     end
 
-    split_shots_by_game_result(shots_name)
-    split_shots_by_game_result(vs_shots_name)
+    # split_shots_by_game_result(shots_name)
+    # split_shots_by_game_result(vs_shots_name)
   end
 end
 

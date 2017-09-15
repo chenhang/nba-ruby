@@ -116,7 +116,7 @@ def to_headers(keys, category)
 end
 
 def to_csv(input_file_name)
-  json_data = JSON.parse(File.read("../result_backup/#{input_file_name}.json"))
+  json_data = JSON.parse(File.read("../result/#{input_file_name}.json"))
   json_data = json_data.select { |_, stats| valid_player?(stats) }
   CATEORIES.each do |category|
     keys = selected_keys(json_data, category)

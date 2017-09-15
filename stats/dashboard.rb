@@ -10,7 +10,7 @@ puts `mkdir result`
 puts `mkdir result/dashboard`
 
 
-(2015..2015).each do |year|
+(2015..2016).each do |year|
   season = "#{year}-#{(year+1).to_s.last(2)}"
   puts season
   puts `mkdir result/dashboard/#{season}`
